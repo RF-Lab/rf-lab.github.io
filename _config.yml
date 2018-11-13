@@ -16,8 +16,7 @@
 title: Лаборатория цифровой обработки сигналов (RF-Lab) 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Данный сайт создан для информационной поддержки лаборатории цифровой обработки сигналов кафедры
-  "Управление и моделирование систем" (ИТ-6) Московского Государственного Университета Приборостроения и Информатики МГУПИ.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rf-lab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
