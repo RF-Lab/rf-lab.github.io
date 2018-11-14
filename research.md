@@ -1,3 +1,4 @@
+---
 layout: page
 title: Основные направления/темы
 permalink: /research/
@@ -18,7 +19,7 @@ permalink: /research/
 ## Реализация системы передачи данных на базе CMOS сенсора
 Takaya Yamazato, Image-Sensor-Based Visible Light Communication for Automotive Applications. - [VISIBLE LIGHT COMMUNICATIONS, IEEE Communications Magazine, July 2014]( http://www.comsoc.org/files/Publications/Tech%20Focus/2015/auto/1.pdf)www.comsoc.org
 
-## Реализация упрощенной системы позиционирования на базе акселерометра ==
+## Реализация упрощенной системы позиционирования на базе акселерометра
 [Implementing Positioning Algorithms Using
 Accelerometers, freescale](http://cache.freescale.com/files/sensors/doc/app_note/AN3397.pdf?fsrch=1&sr=2)
 
