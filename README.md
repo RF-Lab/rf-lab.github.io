@@ -2,7 +2,7 @@
 
 ## Development
 ```
-# bundle exec jekyll serve
+# rm -rf _site ; bundle exec jekyll serve
 ```
 
 ## Usefull links
