@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Теория обработки и передачи данных
+layout: post
 categories: [courses]
 ---
 
