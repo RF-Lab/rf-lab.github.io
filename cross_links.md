@@ -22,7 +22,7 @@ permalink: /cross_links/
  * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [http://arxiv.org/abs/physics/9806030 arxiv.org]
  * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [https://cs.brown.edu/video/110/ brown.edu]
 
-== `[10]` Теория управления/Теория систем ==
+# `[10]` Теория управления/Теория систем
  * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [http://lib.mexmat.ru/books/98189 mexmat]
  * `10-2` - Андриевский Б.Р., Фрадков А.Л. Избранные главы теории автоматического управления с примерами на языке MATLAB. - СПб.: Наука, 1999. - 475 с. [http://window.edu.ru/resource/205/41205/files/ipme01.pdf pdf]
  * `10-3` - Яковлев В.Б. Теория автоматического управления. - М.:Высшая школа, 2009. 
@@ -35,7 +35,7 @@ permalink: /cross_links/
  * `10-10`- Никульчев Е. В. Геометрический подход к моделированию нелинейных систем по экспериментальным данным:монография.— М.: МГУП, 2007.— 162 с. ISBN 978–5–8122–0926–1. [http://window.edu.ru/resource/667/69667/files/Monografiq_Nikulqhev.pdf edu]
  * `10-11`- Иванов В.А., Медведев В.С., Чемоданов Б.К., Ющенко Б.К.: Математические основы теории автоматического регулирования.-  МГТУ им. Н. Э. Баумана,  2006 г. [http://www.ozon.ru/context/detail/id/3389566/ ozon] [http://www.twirpx.com/file/537388/ twirpx]
 
-== `[11]` Цифровая обработка сигналов ==
+# `[11]` Цифровая обработка сигналов
  * `11-1` - Рабинер Л., Гоулд Б. Теория и применение цифровой обработки сигналов. - 1978. [http://lib.mexmat.ru/books/864 Mexmat]
  * `11-2` - Оппенгейм А.В. Шафер Р.В. Цифровая обработка сигналов: Пер. с англ./Под ред. С.Я. Шаца.-М.:Связь,1979. [http://lib.mexmat.ru/books/108424 Mexmat][http://my-shop.ru/shop/books/1366383.html my-shop][http://www.ozon.ru/context/detail/id/4443580/ ozon]
  * `11-3` - Хэмминг Р.В. Цифровые фильтры. Пер. с англ./ Под ред. А.М. Трахтмана М. Сов. Радио, 1980. - 224с., ил. [http://lib.mexmat.ru/books/855 mexmat]
@@ -51,7 +51,7 @@ permalink: /cross_links/
  * `11-12` - Сергиенко А.Б. Цифровая обработка сигналов: Учебное пособие. Второе издание.—СПб.: Питер, 2006.—752 с. ISBN 5-469-00816-9. [http://www.rphf.spbstu.ru/dsp/lib/Sergijenko_2003.pdf www.rphf.spbstu.ru]
  * `11-13` - Ричард Лайонс Цифровая обработка сигналов: Второе издание. Пер. с англ. -М.ООО "Бином-Пресс", 2006г.-656с.ил. [http://www.ozon.ru/context/detail/id/5999390/?gclid=Cj0KEQjwxbDIBRCL99Wls-nLicoBEiQAWroh6muJk1BLdXoEVBhN96sr-p4znrBxGLeACKNcnDfjDZcaAsxa8P8HAQ# ozon]
 
-== `[12]` Цифровая связь, навигация, радиолокация == 
+# `[12]` Цифровая связь, навигация, радиолокация
  * `12-1` - Прокис Дж. Цифровая связь. - Радио и Связь, 2000. [http://www.ozon.ru/context/detail/id/117618/ ozon]
  * `12-2` - Скляр Б. Цифровая связь. Теоретические основы и практическое применение. - Вильямс, 2007. [http://lib.mexmat.ru/books/7964]
  * `12-3` - Matthias Patzold. Mobile Fading Channels. - John Wiley & Sons, 2002. `/Рассмотрены методы моделирования нестационарных многолучевых каналов с использованием алгоритмов MEDS, JM.`
@@ -75,7 +75,7 @@ permalink: /cross_links/
  * `12-21` - Yong Soo Cho ... [et al.]. MIMO-OFDM wireless communications with MATLAB. Copyright 2010 John Wiley & Sons (Asia) Pte Ltd.
  * `12-22` -  А. С. Холево Математические основы квантовой информатики. Москва – 2016. [http://www.rqc.ru/education/lecture-courses/holevo-mathematical-fundamentals-of-quantum-informatics/ http://www.rqc.ru] `Конспект курса лекций по квантовой информатике`.
 
-== `[15]` Статистика. Случайные процессы. Теория вероятностей ==
+# `[15]` Статистика. Случайные процессы. Теория вероятностей 
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[http://www.ozon.ru/context/detail/id/3001036/ Ozon] 
  * `15-2` - Шахтарин Б.И. Ковригин В.А. Методы спектрального оценивания случайных процессов. - Горячая линия-Телеком, 2005.
  * `15-3` - Тюрин Ю.Н. Макаров А.А. Анализ данных на компьютере. Изд. 3-е, перераб. и доп./Под ред. В. Э. Фигурнова — М.: ИНФРА–М, 2002. — 528 с., ил. [http://lib.mexmat.ru/books/104537 mexmat]
@@ -87,7 +87,7 @@ permalink: /cross_links/
  * `15-9` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume III: Practical Algorithm Development. Prentice Hall, 2013. [http://ptgmedia.pearsoncmg.com/images/9780132808033/samplepages/013280803X.pdf Free sample chapter]
  * `15-10` -  Dimitri P. Bertsekas, John N. Tsitsiklis  Introduction to Probability, 2nd Edition [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/ video-lectures]
 
-== `[16]` Анализ многомерных данных. Методы классификации. ==
+# `[16]` Анализ многомерных данных. Методы классификации.
  * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [http://hagan.okstate.edu/NNDesign.pdf Электронная версия]
  * `16-2` - Andrew Ng - CS229 Lecture notes. [https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf see.stanford.edu/materials]
  * `16-3` - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani An Introduction to Statistical Learning with Applications in R [http://www-bcf.usc.edu/~gareth/ISL/ www-bcf.usc.edu]
@@ -101,7 +101,7 @@ permalink: /cross_links/
  * `16-11`- MIT 6.S094: Deep Learning for Self-Driving Cars [https://selfdrivingcars.mit.edu/ MIT 6.S094]
  * `16-12`- Haykin S. Neural networks and learning machines / Simon Haykin.—3rd ed. 
 
-== `[17]` Импульсная техника ==
+# `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум.2014. 
  * `17-2` - Jean-Pierre Deschamps, Gery J.A. Bioul, Gustavo D. Sutter. Synthesis of Arithmetic Circuits: FPGA, ASIC and Embedded Systems. - March 2006, Wiley. [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471687839.html Wiley]
  * `17-3` - Иосиф КАРШЕНБОЙМ. Краткий курс HDL. Часть 5. Написание кода, независимого от аппаратной платформы. - КОМПОНЕНТЫ и ТЕХНОЛОГИИ. 2008г., №9. [http://iosifk.narod.ru/hdl_coding/hdl_coding_7_kit_9_08.pdf http://www.kit-e.ru/]
