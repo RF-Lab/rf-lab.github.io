@@ -12,10 +12,10 @@ permalink: /cross_links/
 
 # `[3]` Линейная алгебра/матричный анализ
  * `3-1` - [Р.Хорн Ч. Джонсон Матричный анализ. - 1987.](http://lib.mexmat.ru/books/128977)
- * `3-2` - Деммель Дж. Вычислительная линейная алгебра. - М.Мир, 2001. [http://lib.mexmat.ru/books/87601 mexmat]
- * `3-3` - Голуб Дж., Ван Лоун Ч. Матричные вычисления. - 1999. [http://lib.mexmat.ru/books/22246 mexmat]
- * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[http://www-math.mit.edu/~gs Gilbert Strang], [http://www.i4.auc.dk/borre]
- * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [http://www.wellesleycambridge.com/ wellesley-cambridge], [http://math.mit.edu/~gs/cse/ mit.edu]
+ * `3-2` - Деммель Дж. Вычислительная линейная алгебра. - М.Мир, 2001. [mexmat](http://lib.mexmat.ru/books/87601)
+ * `3-3` - Голуб Дж., Ван Лоун Ч. Матричные вычисления. - 1999. [mexmat](http://lib.mexmat.ru/books/22246)
+ * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[Gilbert Strang](http://www-math.mit.edu/~gs), [Borre](http://www.i4.auc.dk/borre)
+ * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [wellesley-cambridge](http://www.wellesleycambridge.com/), [mit.edu](http://math.mit.edu/~gs/cse/)
  * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition [http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ video lectures]
  * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [http://www.fml.ru/tocs/778.pdf fml:index], [http://www.fml.ru/book/showbook/778 fml], [http://www.inm.ras.ru/vtm/lection/all.pdf INM], [http://lib.mexmat.ru/books/67843 mexmat]
  * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf www.cs.cmu.edu]
