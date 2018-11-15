@@ -7,13 +7,13 @@ title: Современные информационные технологии
 ## 4 Курс, Весенний семестр
  * [Основы программируемой логики](https://docs.google.com/present/view?id=dcx4qdgc_132c2vh7qg3)
  * [Основы языка VHDL](https://docs.google.com/present/view?id=dcx4qdgc_163f6q35qf7)
- *  [Лабораторная работа №1. Основы VHDL. Работа в САПР Quartus.](https://docs.google.com/document/pub?id=1h_mMCZhH4qYzML3--U0fRQiymqFB_uLL0aZ8snzKdrg), [PDF](ftp://rf-lab.org/pub/melnikov/1629/ALTERA_lab1.pdf)
- * [Лабораторная работа №2. Реализация модуля UART-Tx.](https://docs.google.com/document/pub?id=1qML6fJmSD0JTXawHoXs2MW4NHxaI84Sz2DHT9cD3gEo), [PDF](ftp://rf-lab.org/pub/melnikov/1629/ALTERA_lab2.pdf)
- * [Лабораторная работа №3. Реализация операции вычисления квадратного корня.](https://docs.google.com/document/pub?id=1Wu-rjeS1kxsj8T4LKMNNyPlkHWLoeuFIwkAKynbuNug), [PDF](ftp://rf-lab.org/pub/melnikov/1629/ALTERA_lab3.pdf)
+ *  [Лабораторная работа №1. Основы VHDL. Работа в САПР Quartus.](https://docs.google.com/document/pub?id=1h_mMCZhH4qYzML3--U0fRQiymqFB_uLL0aZ8snzKdrg), [PDF](https://drive.google.com/open?id=1wm6AeV3mJsxxyu8Uizn1div9Isu4uHp1)
+ * [Лабораторная работа №2. Реализация модуля UART-Tx.](https://docs.google.com/document/pub?id=1qML6fJmSD0JTXawHoXs2MW4NHxaI84Sz2DHT9cD3gEo), [PDF](https://drive.google.com/open?id=1z9F2yRHq_c56rDvTFB8qqZY40dAy2y2W)
+ * [Лабораторная работа №3. Реализация операции вычисления квадратного корня.](https://docs.google.com/document/pub?id=1Wu-rjeS1kxsj8T4LKMNNyPlkHWLoeuFIwkAKynbuNug), [PDF](https://drive.google.com/open?id=1O1HfaR-Esenb5yuHfqUNijeeabZeferl)
  * [Лабораторная работа №4. Конфигурирование и запуск процессора NIOS.](https://docs.google.com/document/pub?id=1oS-kBA1_fLkg0-wFWXIgJ2sFz-oWgBntVBVULNbyPlE)
  * [Лабораторная работа №5. Реализация сортировочной сети (Sorting Networks).](https://docs.google.com/document/pub?id=1_OV8cD6ruH07wWdhWRe5Pd8CXUznIYas6fcfADt1XzA)
  * [Описание лаб., слайды к лекциям](https://docs.google.com/document/pub?id=1DzNOr19iTuN79injqUeVmRvkSejjTAQS7L49qOTiKMQ)
- * [Задания к зачету](ftp://rf-lab.org/pub/melnikov/rtl_tests.pdf)
+ * [Задания к зачету](https://drive.google.com/open?id=1DdJxuA3torufp-1ntknlLu_2xprJLin8)
 
 ### Ссылки
  * [САПР Quartus II Web Edition Software (необходимо для лаб. работ)](https://www.altera.com/download/software/quartus-ii-we)
@@ -29,8 +29,8 @@ title: Современные информационные технологии
  * [Методическое пособие](http://docs.google.com/View?id=dcx4qdgc_99htngxmhk), [PDF](https://docs.google.com/file/d/0B2bD1_LXPeFjZWtkWEVGelM3MXM/edit?usp=sharing)
  * [Лаб. №1: Исходные тексты bpskmod](https://github.com/estel1/it6/tree/master/f1629/bpsksim2)
  * [Лаб №2: Реализация модуля обнаружения GPS сигнала](http://docs.google.com/View?id=dcx4qdgc_33d4659mdh)
- * [Мат. для подготовки теор. раздела для лаб.2](ftp://rf-lab.org/pub/melnikov/1629/1629_signal_acqusition_p1.pdf)
- * [Вероятность битовой ошибки для BPSK](ftp://rf-lab.org/pub/melnikov/1629/1629_seminars_1.pdf)
+ * [Мат. для подготовки теор. раздела для лаб.2](https://drive.google.com/open?id=10TCtKaQVkX34AVshGuymq7bhVp7U3H8V)
+ * [Вероятность битовой ошибки для BPSK](https://drive.google.com/open?id=1tso77VhDIfQlAUhVlD_rfAkIRlIsJHBQ)
  * [Исходные тексты к лабораторным](https://github.com/RF-Lab/lab_sources)
  * [Билеты к экзамену](http://it6-1629.narod.ru/DAT/b1629_2011.xlsx)
  * Вопросы к экзамену (билет состоит из 2-х вопросов):

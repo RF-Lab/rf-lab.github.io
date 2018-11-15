@@ -54,7 +54,7 @@ permalink: /theses/
 
 ## 2010 (дневное отд.)
  * `Гуцалюк Андрей Александрович` [Разработка программных средств для моделирования сигнала системы спутникового позиционирования](http://www.slideshare.net/rf-lab/gucaluk-diplom-presentation-2010)
- * `Кузнецов Алексей Александрович` [Реализация модуля обнаружения сигнала GPS на аппаратной платформе с фиксированной точкой.](http://www.slideshare.net/rf-lab/kuznecov-diplom-presentation-2010) [Архив 7z](ftp://rf-lab.org/pub/diploms/2010/Kuznetsov.7z)
+ * `Кузнецов Алексей Александрович` [Реализация модуля обнаружения сигнала GPS на аппаратной платформе с фиксированной точкой.](http://www.slideshare.net/rf-lab/kuznecov-diplom-presentation-2010) [Архив 7z](https://drive.google.com/open?id=15L3TsTjDJjwTzQRuN6-XvYQvTYyeNRzr)
  * `Никифоров Александр Александрович` [Разработка и реализация програмно-аппаратных средств для захвата и сопровождения сигнала спутниковой навигации](http://www.slideshare.net/rf-lab/2010-nikiforov)
  * `Поляков Юрий` [Разработка программного модуля демодуляции сигнала GPS на платформе с фиксированной точкой](http://www.slideshare.net/rf-lab/2010-polyakov-diplom-presentation)
 
