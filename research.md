@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Основные направления/темы
+title: Темы
 permalink: /research/
 ---
 

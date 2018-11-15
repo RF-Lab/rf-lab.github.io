@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Сквозной список литературы
+title: Литература
 permalink: /cross_links/
 ---
 
