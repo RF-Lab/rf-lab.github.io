@@ -17,7 +17,7 @@ permalink: /cross_links/
  * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[Gilbert Strang](http://www-math.mit.edu/~gs), [Borre](http://www.i4.auc.dk/borre)
  * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [wellesley-cambridge](http://www.wellesleycambridge.com/), [mit.edu](http://math.mit.edu/~gs/cse/)
  * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition [http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ video lectures]
- * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [http://www.fml.ru/tocs/778.pdf fml:index], [http://www.fml.ru/book/showbook/778 fml], [http://www.inm.ras.ru/vtm/lection/all.pdf INM], [http://lib.mexmat.ru/books/67843 mexmat]
+ * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [fml:index](http://www.fml.ru/tocs/778.pdf), [fml](http://www.fml.ru/book/showbook/778), [ INM](http://www.inm.ras.ru/vtm/lection/all.pdf), [mexmat](http://lib.mexmat.ru/books/67843)
  * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf www.cs.cmu.edu]
  * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [http://arxiv.org/abs/physics/9806030 arxiv.org]
  * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [https://cs.brown.edu/video/110/ brown.edu]
@@ -85,21 +85,22 @@ permalink: /cross_links/
  * `15-7` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume I: Estimation Theory (v. 1). Prentice Hall, 1993.
  * `15-8` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume II: Detection Theory. Prentice Hall, 1998.
  * `15-9` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume III: Practical Algorithm Development. Prentice Hall, 2013. [http://ptgmedia.pearsoncmg.com/images/9780132808033/samplepages/013280803X.pdf Free sample chapter]
- * `15-10` -  Dimitri P. Bertsekas, John N. Tsitsiklis  Introduction to Probability, 2nd Edition [http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/ video-lectures]
+ * `15-10` - Dimitri P. Bertsekas, John N. Tsitsiklis  Introduction to Probability, 2nd Edition [video-lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/)
 
 # `[16]` Анализ многомерных данных. Методы классификации.
  * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [http://hagan.okstate.edu/NNDesign.pdf Электронная версия]
  * `16-2` - Andrew Ng - CS229 Lecture notes. [https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf see.stanford.edu/materials]
- * `16-3` - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani An Introduction to Statistical Learning with Applications in R [http://www-bcf.usc.edu/~gareth/ISL/ www-bcf.usc.edu]
- * `16-4` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011. [http://www.greenteapress.com/thinkstats/ www.greenteapress.com], [http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml]
- * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville Deep Learning. [http://www.deeplearningbook.org]
+ * `16-3` - [Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R.](http://www-bcf.usc.edu/~gareth/ISL/)
+ * `16-3` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011. [http://www.greenteapress.com/thinkstats/ www.greenteapress.com], [http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml]
+ * `16-5` - [Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning](http://www.deeplearningbook.org)
  * `16-6` - Mehryar Mohri Foundations of Machine Learning [http://www.cs.nyu.edu/~mohri/ml05/]
  * `16-7` - Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. [http://cs231n.github.io]
  * `16-8` - Stanford CS class CS231n: Course Materials. [http://cs231n.stanford.edu/syllabus.html]
  * `16-9` - Andrew Zisserman C19 Machine Learning lectures Hilary 2015. [http://www.robots.ox.ac.uk/~az/lectures/ml/index.html]
  * `16-10`- MIT 6.S191: Introduction to Deep Learning [http://introtodeeplearning.com/index.html MIT6.S191]
  * `16-11`- MIT 6.S094: Deep Learning for Self-Driving Cars [https://selfdrivingcars.mit.edu/ MIT 6.S094]
- * `16-12`- Haykin S. Neural networks and learning machines / Simon Haykin.—3rd ed. 
+ * `16-12`- Haykin S. Neural networks and learning machines / Simon Haykin.—3rd ed.
+ * `16-13`- Trevor Hastie, Robert Tibshirani, Jerome Friedman The Elements of Statistical Learning: Data Mining Inference, and Prediction. [PDF](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 # `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум.2014. 
