@@ -20,7 +20,7 @@ permalink: /cross_links/
  * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [fml:index](http://www.fml.ru/tocs/778.pdf), [fml](http://www.fml.ru/book/showbook/778), [ INM](http://www.inm.ras.ru/vtm/lection/all.pdf), [mexmat](http://lib.mexmat.ru/books/67843)
  * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf www.cs.cmu.edu]
  * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [http://arxiv.org/abs/physics/9806030 arxiv.org]
- * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [https://cs.brown.edu/video/110/ brown.edu]
+ * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [video](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/), [book]()
 
 # `[10]` Теория управления/Теория систем
  * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [http://lib.mexmat.ru/books/98189 mexmat]
@@ -75,7 +75,7 @@ permalink: /cross_links/
  * `12-21` - Yong Soo Cho ... [et al.]. MIMO-OFDM wireless communications with MATLAB. Copyright 2010 John Wiley & Sons (Asia) Pte Ltd.
  * `12-22` -  А. С. Холево Математические основы квантовой информатики. Москва – 2016. [http://www.rqc.ru/education/lecture-courses/holevo-mathematical-fundamentals-of-quantum-informatics/ http://www.rqc.ru] `Конспект курса лекций по квантовой информатике`.
 
-# `[15]` Статистика. Случайные процессы. Теория вероятностей 
+# `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[http://www.ozon.ru/context/detail/id/3001036/ Ozon] 
  * `15-2` - Шахтарин Б.И. Ковригин В.А. Методы спектрального оценивания случайных процессов. - Горячая линия-Телеком, 2005.
  * `15-3` - Тюрин Ю.Н. Макаров А.А. Анализ данных на компьютере. Изд. 3-е, перераб. и доп./Под ред. В. Э. Фигурнова — М.: ИНФРА–М, 2002. — 528 с., ил. [http://lib.mexmat.ru/books/104537 mexmat]
@@ -86,6 +86,7 @@ permalink: /cross_links/
  * `15-8` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume II: Detection Theory. Prentice Hall, 1998.
  * `15-9` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume III: Practical Algorithm Development. Prentice Hall, 2013. [http://ptgmedia.pearsoncmg.com/images/9780132808033/samplepages/013280803X.pdf Free sample chapter]
  * `15-10` - Dimitri P. Bertsekas, John N. Tsitsiklis  Introduction to Probability, 2nd Edition [video-lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/)
+ * `15-11` - David MacKay. Information Theory, Inference, and Learning Algorithms [PDF](http://www.inference.org.uk/itprnn/book.pdf), [video-lectures](http://videolectures.net/course_information_theory_pattern_recognition/).
 
 # `[16]` Анализ многомерных данных. Методы классификации.
  * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [http://hagan.okstate.edu/NNDesign.pdf Электронная версия]
