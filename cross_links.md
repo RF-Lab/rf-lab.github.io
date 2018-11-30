@@ -18,26 +18,26 @@ permalink: /cross_links/
  * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [wellesley-cambridge](http://www.wellesleycambridge.com/), [mit.edu](http://math.mit.edu/~gs/cse/)
  * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition [mit.edu](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ video lectures).
  * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [www.fml.ru](http://www.fml.ru/tocs/778.pdf), [fml](http://www.fml.ru/book/showbook/778), [ INM](http://www.inm.ras.ru/vtm/lection/all.pdf), [mexmat](http://lib.mexmat.ru/books/67843).
- * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf www.cs.cmu.edu]
- * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [http://arxiv.org/abs/physics/9806030 arxiv.org]
- * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [video](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/), [book]()
+ * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [cs.cmu.edu](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf www.cs.cmu.edu)
+ * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [arxiv.org](http://arxiv.org/abs/physics/9806030 arxiv.org)
+ * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [video](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/).
 
 # `[10]` Теория управления/Теория систем
- * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [http://lib.mexmat.ru/books/98189 mexmat]
- * `10-2` - Андриевский Б.Р., Фрадков А.Л. Избранные главы теории автоматического управления с примерами на языке MATLAB. - СПб.: Наука, 1999. - 475 с. [http://window.edu.ru/resource/205/41205/files/ipme01.pdf pdf]
+ * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [lib.mexmat.ru](http://lib.mexmat.ru/books/98189 mexmat)
+ * `10-2` - Андриевский Б.Р., Фрадков А.Л. Избранные главы теории автоматического управления с примерами на языке MATLAB. - СПб.: Наука, 1999. - 475 с. [edu.ru](http://window.edu.ru/resource/205/41205/files/ipme01.pdf).
  * `10-3` - Яковлев В.Б. Теория автоматического управления. - М.:Высшая школа, 2009. 
- * `10-4` - Солодовников В.В., Плотников В.Н., Яковлев А.В. Теория автоматического управления техническими системами. [http://lib.mexmat.ru/books/127253 mexmat]
+ * `10-4` - Солодовников В.В., Плотников В.Н., Яковлев А.В. Теория автоматического управления техническими системами. [lib.mexmat.ru](http://lib.mexmat.ru/books/127253)
  * `10-5` - Музыкин С.Н. Родионова Ю.М. Моделирование динамических систем. - Ярославль Верх.-Волж. кн. изд-во 1984.
  * `10-6` - Музыкин С.Н. Родионова Ю.М. Функциональные разложения Винера-Вольтерра в задачах проектирования. - Ярославль Верх.-Волж. кн. изд-во 1992.
- * `10-7` - Музыкин С.Н. Родионова Ю.М. Системный анализ. Учебное пособие/ М.: МГАПИ, 2003. – 199 с.; ил.  [http://www.nikulchev.ru/files/books/MuzykinSystemAnalysis.pdf MuzykinSystemAnalysis.pdf]
- * `10-8` - Семенов А.Д., Артамонов Д.В., Брюхачев А.В. Идентификация объектов управления: Учебн. пособие. - Пенза: Изд-во Пенз. гос. ун-та, 2003.-211 с. : ил. 59, табл. - , библиогр. 141 назв. [http://window.edu.ru/resource/972/36972/files/stup198.pdf edu.ru]
- * `10-9` - Никульчев Е.В. Практикум по теории управления в среде MATLAB: Учебное пособие. – М.: МГАПИ, 2002. – 88 с.; ил. ISBN 5-8068-0274-4. [http://window.edu.ru/resource/666/69666/files/MathLabControlLearning.pdf edu]
- * `10-10`- Никульчев Е. В. Геометрический подход к моделированию нелинейных систем по экспериментальным данным:монография.— М.: МГУП, 2007.— 162 с. ISBN 978–5–8122–0926–1. [http://window.edu.ru/resource/667/69667/files/Monografiq_Nikulqhev.pdf edu]
- * `10-11`- Иванов В.А., Медведев В.С., Чемоданов Б.К., Ющенко Б.К.: Математические основы теории автоматического регулирования.-  МГТУ им. Н. Э. Баумана,  2006 г. [http://www.ozon.ru/context/detail/id/3389566/ ozon] [http://www.twirpx.com/file/537388/ twirpx]
+ * `10-7` - Музыкин С.Н. Родионова Ю.М. Системный анализ. Учебное пособие/ М.: МГАПИ, 2003. – 199 с.; ил.  [nikulchev.ru](http://www.nikulchev.ru/files/books/MuzykinSystemAnalysis.pdf).
+ * `10-8` - Семенов А.Д., Артамонов Д.В., Брюхачев А.В. Идентификация объектов управления: Учебн. пособие. - Пенза: Изд-во Пенз. гос. ун-та, 2003.-211 с. : ил. 59, табл. - , библиогр. 141 назв. [edu.ru](http://window.edu.ru/resource/972/36972/files/stup198.pdf)
+ * `10-9` - Никульчев Е.В. Практикум по теории управления в среде MATLAB: Учебное пособие. – М.: МГАПИ, 2002. – 88 с.; ил. ISBN 5-8068-0274-4. [edu.ru](http://window.edu.ru/resource/666/69666/files/MathLabControlLearning.pdf)
+ * `10-10`- Никульчев Е. В. Геометрический подход к моделированию нелинейных систем по экспериментальным данным:монография.— М.: МГУП, 2007.— 162 с. ISBN 978–5–8122–0926–1. [edu.ru](http://window.edu.ru/resource/667/69667/files/Monografiq_Nikulqhev.pdf)
+ * `10-11`- Иванов В.А., Медведев В.С., Чемоданов Б.К., Ющенко Б.К.: Математические основы теории автоматического регулирования.-  МГТУ им. Н. Э. Баумана,  2006 г. [ozon.ru](http://www.ozon.ru/context/detail/id/3389566/)
 
 # `[11]` Цифровая обработка сигналов
- * `11-1` - Рабинер Л., Гоулд Б. Теория и применение цифровой обработки сигналов. - 1978. [http://lib.mexmat.ru/books/864 Mexmat]
- * `11-2` - Оппенгейм А.В. Шафер Р.В. Цифровая обработка сигналов: Пер. с англ./Под ред. С.Я. Шаца.-М.:Связь,1979. [http://lib.mexmat.ru/books/108424 Mexmat][http://my-shop.ru/shop/books/1366383.html my-shop][http://www.ozon.ru/context/detail/id/4443580/ ozon]
+ * `11-1` - Рабинер Л., Гоулд Б. Теория и применение цифровой обработки сигналов. - 1978. [mexmat.ru](http://lib.mexmat.ru/books/864)
+ * `11-2` - Оппенгейм А.В. Шафер Р.В. Цифровая обработка сигналов: Пер. с англ./Под ред. С.Я. Шаца.-М.:Связь,1979. [mexmat.ru](http://lib.mexmat.ru/books/108424), [http://my-shop.ru/shop/books/1366383.html my-shop][http://www.ozon.ru/context/detail/id/4443580/ ozon]
  * `11-3` - Хэмминг Р.В. Цифровые фильтры. Пер. с англ./ Под ред. А.М. Трахтмана М. Сов. Радио, 1980. - 224с., ил. [http://lib.mexmat.ru/books/855 mexmat]
  * `11-4` - Макс Ж. Методы и техника обработки сигналов при физических измерениях: В 2-х томах. Пер. с франц. - М.:Мир, 1983.[http://lib.mexmat.ru/books/52245 Mexmat] `/Преобразование Фурье (ПФ) периодических и непериодических функций, условия существования ПФ, формулы для дисперсии оценки корреляционной функции на ограниченной выборке.`
  * `11-5` - Saeed V. Vaseghi Advanced Digital Signal Processing and Noise Reduction. - Wiley, 2009. [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470754060.html Wiley]. [http://dsp-book.narod.ru/adsnr.htm dsp-book]
