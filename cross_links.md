@@ -16,8 +16,8 @@ permalink: /cross_links/
  * `3-3` - Голуб Дж., Ван Лоун Ч. Матричные вычисления. - 1999. [mexmat](http://lib.mexmat.ru/books/22246)
  * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[Gilbert Strang](http://www-math.mit.edu/~gs), [Borre](http://www.i4.auc.dk/borre)
  * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [wellesley-cambridge](http://www.wellesleycambridge.com/), [mit.edu](http://math.mit.edu/~gs/cse/)
- * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition [http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ video lectures]
- * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [fml:index](http://www.fml.ru/tocs/778.pdf), [fml](http://www.fml.ru/book/showbook/778), [ INM](http://www.inm.ras.ru/vtm/lection/all.pdf), [mexmat](http://lib.mexmat.ru/books/67843)
+ * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition [mit.edu](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ video lectures).
+ * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [www.fml.ru](http://www.fml.ru/tocs/778.pdf), [fml](http://www.fml.ru/book/showbook/778), [ INM](http://www.inm.ras.ru/vtm/lection/all.pdf), [mexmat](http://lib.mexmat.ru/books/67843).
  * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf www.cs.cmu.edu]
  * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [http://arxiv.org/abs/physics/9806030 arxiv.org]
  * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [video](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/), [book]()
