@@ -37,9 +37,9 @@ permalink: /cross_links/
 
 # `[11]` Цифровая обработка сигналов
  * `11-1` - Рабинер Л., Гоулд Б. Теория и применение цифровой обработки сигналов. - 1978. [mexmat.ru](http://lib.mexmat.ru/books/864)
- * `11-2` - Оппенгейм А.В. Шафер Р.В. Цифровая обработка сигналов: Пер. с англ./Под ред. С.Я. Шаца.-М.:Связь,1979. [mexmat.ru](http://lib.mexmat.ru/books/108424), [http://my-shop.ru/shop/books/1366383.html my-shop][http://www.ozon.ru/context/detail/id/4443580/ ozon]
- * `11-3` - Хэмминг Р.В. Цифровые фильтры. Пер. с англ./ Под ред. А.М. Трахтмана М. Сов. Радио, 1980. - 224с., ил. [http://lib.mexmat.ru/books/855 mexmat]
- * `11-4` - Макс Ж. Методы и техника обработки сигналов при физических измерениях: В 2-х томах. Пер. с франц. - М.:Мир, 1983.[http://lib.mexmat.ru/books/52245 Mexmat] `/Преобразование Фурье (ПФ) периодических и непериодических функций, условия существования ПФ, формулы для дисперсии оценки корреляционной функции на ограниченной выборке.`
+ * `11-2` - Оппенгейм А.В. Шафер Р.В. Цифровая обработка сигналов: Пер. с англ./Под ред. С.Я. Шаца.-М.:Связь,1979. [mexmat.ru](http://lib.mexmat.ru/books/108424), [my-shop.ru](http://my-shop.ru/shop/books/1366383.html),[ozon.ru](http://www.ozon.ru/context/detail/id/4443580/).
+ * `11-3` - Хэмминг Р.В. Цифровые фильтры. Пер. с англ./ Под ред. А.М. Трахтмана М. Сов. Радио, 1980. - 224с., ил. [mexmat.ru](http://lib.mexmat.ru/books/855).
+ * `11-4` - Макс Ж. Методы и техника обработки сигналов при физических измерениях: В 2-х томах. Пер. с франц. - М.:Мир, 1983.[mexmat.ru](http://lib.mexmat.ru/books/52245) `/Преобразование Фурье (ПФ) периодических и непериодических функций, условия существования ПФ, формулы для дисперсии оценки корреляционной функции на ограниченной выборке`.
  * `11-5` - Saeed V. Vaseghi Advanced Digital Signal Processing and Noise Reduction. - Wiley, 2009. [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470754060.html Wiley]. [http://dsp-book.narod.ru/adsnr.htm dsp-book]
  * `11-6` - Genshiro Kitagawa Introduction to Time Series Modeling (Chapman & Hall/CRC Monographs on Statistics & Applied Probability). Chapman & Hall/CRC (May 14, 2012) [http://www.amazon.com/Introduction-Modeling-Monographs-Statistics-Probability-ebook/dp/B008KZBRWM/ref=sr_1_2?s=books&ie=UTF8&qid=1419501370&sr=1-2&keywords=Introduction+to+Time+Series+Modeling amazon]
  * `11-7` - Deanna Needell. Topics in Compressed Sensing. /DISSERTATION UNIVERSITY OF CALIFORNIA
