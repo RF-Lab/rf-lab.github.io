@@ -34,6 +34,9 @@ collections:
   courses_content:
     output: true
 
+# Google analytics
+google_analytics: UA-23673985-1
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
