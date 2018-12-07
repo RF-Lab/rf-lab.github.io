@@ -40,10 +40,10 @@ permalink: /cross_links/
  * `11-2` - Оппенгейм А.В. Шафер Р.В. Цифровая обработка сигналов: Пер. с англ./Под ред. С.Я. Шаца.-М.:Связь,1979. [mexmat.ru](http://lib.mexmat.ru/books/108424), [my-shop.ru](http://my-shop.ru/shop/books/1366383.html),[ozon.ru](http://www.ozon.ru/context/detail/id/4443580/).
  * `11-3` - Хэмминг Р.В. Цифровые фильтры. Пер. с англ./ Под ред. А.М. Трахтмана М. Сов. Радио, 1980. - 224с., ил. [mexmat.ru](http://lib.mexmat.ru/books/855).
  * `11-4` - Макс Ж. Методы и техника обработки сигналов при физических измерениях: В 2-х томах. Пер. с франц. - М.:Мир, 1983.[mexmat.ru](http://lib.mexmat.ru/books/52245) `/Преобразование Фурье (ПФ) периодических и непериодических функций, условия существования ПФ, формулы для дисперсии оценки корреляционной функции на ограниченной выборке`.
- * `11-5` - Saeed V. Vaseghi Advanced Digital Signal Processing and Noise Reduction. - Wiley, 2009. [http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470754060.html Wiley]. [http://dsp-book.narod.ru/adsnr.htm dsp-book]
- * `11-6` - Genshiro Kitagawa Introduction to Time Series Modeling (Chapman & Hall/CRC Monographs on Statistics & Applied Probability). Chapman & Hall/CRC (May 14, 2012) [http://www.amazon.com/Introduction-Modeling-Monographs-Statistics-Probability-ebook/dp/B008KZBRWM/ref=sr_1_2?s=books&ie=UTF8&qid=1419501370&sr=1-2&keywords=Introduction+to+Time+Series+Modeling amazon]
+ * `11-5` - Saeed V. Vaseghi Advanced Digital Signal Processing and Noise Reduction. - Wiley, 2009. [Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470754060.html). [dsp-book](http://dsp-book.narod.ru/adsnr.htm).
+ * `11-6` - Genshiro Kitagawa Introduction to Time Series Modeling (Chapman & Hall/CRC Monographs on Statistics & Applied Probability). Chapman & Hall/CRC (May 14, 2012) [amazon](http://www.amazon.com/Introduction-Modeling-Monographs-Statistics-Probability-ebook/dp/B008KZBRWM/ref=sr_1_2?s=books&ie=UTF8&qid=1419501370&sr=1-2&keywords=Introduction+to+Time+Series+Modeling)
  * `11-7` - Deanna Needell. Topics in Compressed Sensing. /DISSERTATION UNIVERSITY OF CALIFORNIA
- [http://www-personal.umich.edu/~romanv/students/needell-dissertation.pdf umich.edu]
+ [umich.edu](http://www-personal.umich.edu/~romanv/students/needell-dissertation.pdf)
  * `11-8` - Вадутов О.С. Лекции по дисциплине "Математические основы обработки сигналов". - Томский политехнический университет. [http://portal.tpu.ru:7777/SHARED/v/VOS/study/disc1/Tab portal.tpu.ru]
  * `11-9` - Greg Welch, Gary Bishop "An Introduction to the Kalman Filter". - SIGGRAPH 2001. [http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf www.cs.unc.edu]
  * `11-10` - Steven W. Smith, The Scientist and Engineer's Guide to Digital Signal Processing. [http://www.dspguide.com/ www.dspguide.com] 
@@ -70,7 +70,7 @@ permalink: /cross_links/
  * `12-16` - Stephen J. Comstock "Development of a Low-Latency, High Data Rate, Differential GPS Relative Positioning System for UAV Formation Flight control". MS THESIS, AIR FORCE INSTITUTE OF TECHNOLOGY, 2006. 
  * `12-17` - Р. Морелос-Сарагоса. Искусство помехоустойчивого кодирования. Методы, алгоритмы, применение. М:Техносфера. -2005.
  * `12-18` - William H. Tranter ...[et al.] Principles of communication systems simulation with wireless applications. Prentice Hall. - TK\5102.5.P673 2003. 
- * `12-19` - Kazuro Kikuchi. Fundamentals of Coherent Optical Fiber Communications. JOURNAL OF LIGHTWAVE TECHNOLOGY, VOL. 34, NO. 1, JANUARY 1, 2016 [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7174950 ieee.org]
+ * `12-19` - Kazuro Kikuchi. Fundamentals of Coherent Optical Fiber Communications. JOURNAL OF LIGHTWAVE TECHNOLOGY, VOL. 34, NO. 1, JANUARY 1, 2016 [osapublishing.org](https://www.osapublishing.org/DirectPDFAccess/4B7F6854-9316-6A2B-F14B66962A11E4BD_336305/jlt-34-1-157.pdf?da=1&id=336305&seq=0&mobile=no).
  * `12-20` - Robert Dahlgren. NOISE IN FIBER OPTIC COMMUNICATION LINKS.  Silicon Valley Photonics, Ltd. [http://www.svphotonics.com/pub/pub029.pdf svphotonics.com]
  * `12-21` - Yong Soo Cho ... [et al.]. MIMO-OFDM wireless communications with MATLAB. Copyright 2010 John Wiley & Sons (Asia) Pte Ltd.
  * `12-22` -  А. С. Холево Математические основы квантовой информатики. Москва – 2016. [http://www.rqc.ru/education/lecture-courses/holevo-mathematical-fundamentals-of-quantum-informatics/ http://www.rqc.ru] `Конспект курса лекций по квантовой информатике`.
