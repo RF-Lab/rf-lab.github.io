@@ -76,4 +76,4 @@ permalink: /theses/
  * `Балашова В.Д.` ["Обработка изображений с целью биометрической идентификации"](http://www.slideshare.net/rf-lab/ss-30183512 )
  * `Белова Н.Ю.` "Моделирование систем синхронизации с использованием хаотических сигналов"
 
-[none](skype:skype:?chat&threadId=8:nikiforov.al)
+[none](skype:?chat&threadId=19:ec594e500a004cda90df7f099e517bef@thread.skype)
