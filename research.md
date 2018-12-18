@@ -7,15 +7,18 @@ permalink: /research/
 ## Разработка программно-математических средств для распознавания сигналов электромиографии. 
 ### На основе методов глубокого обучения 
 1. [Nils Ackermann Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences (https://blog.goodaudience.com)](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf).
+
 ### С использованием автокодирования
 1. [Marwa Farouk Ibrahim Ibrahim*
 , Adel Ali Al-Jumaily](https://www.astesj.com/publications/ASTESJ_030111.pdf).
 2. [Martin Sp¨uler Extracting Muscle Synergy Patterns from EMG
 Data Using Autoencoders](https://www.researchgate.net/publication/306081011_Extracting_Muscle_Synergy_Patterns_from_EMG_Data_Using_Autoencoders/download)
+
 ### На основе метода Random Forest
 1. [Модель Random Forest для классификации, реализация на c#. habr](https://habr.com/post/215453/)
 2. [David Rodriguez A Neural Decision Forest Scheme with Application
 to EMG Gesture Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7555990)
+
 ### EMG signal processing platform
 [EMG signal processing platform](https://github.com/estel1/emg_platform)
 
