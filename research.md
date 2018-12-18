@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 ## Разработка программно-математических средств для распознавания сигналов электромиографии. 
+
 ### На основе методов глубокого обучения 
 1. [Nils Ackermann Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences (https://blog.goodaudience.com)](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf).
 
