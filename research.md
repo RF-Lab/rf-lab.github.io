@@ -20,6 +20,8 @@ Data Using Autoencoders](https://www.researchgate.net/publication/306081011_Extr
 2. [David Rodriguez A Neural Decision Forest Scheme with Application
 to EMG Gesture Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7555990)
 
+### Классификация EMG с использованием Ensemble Classifiers
+
 ### EMG signal processing platform
 [EMG signal processing platform](https://github.com/estel1/emg_platform)
 
