@@ -23,7 +23,7 @@ to EMG Gesture Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&a
 ### Классификация EMG с использованием Ensemble Classifiers
 
 ### EMG signal processing platform
-[EMG signal processing platform](https://github.com/estel1/emg_platform)
+[EMG signal processing platform](https://github.com/RF-Lab/emg_platform)
 
 ## Обнаружение шумоподобных сигналов на основе методов параметрического спектрального анализа 
 Процедура обнаружения сигнала в системах с кодовым разделением доступа (пример- GPS, CDMA) является одной из наиболее затратных составляющих частей современного цифрового приемника. Использование авторегрессионных моделей вместо традиционных алгоритмов на основе метода максимального правдоподобия позволяет существенно снизить вычислительные затраты и продлить время автономной работы мобильных беспроводных устройств.
