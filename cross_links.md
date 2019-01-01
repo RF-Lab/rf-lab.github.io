@@ -91,9 +91,9 @@ permalink: /cross_links/
 # `[16]` Анализ многомерных данных. Методы классификации.
  * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [PDF](http://hagan.okstate.edu/NNDesign.pdf)
  * `16-2` - Andrew Ng - CS229 - Machine Learning [CS229](https://see.stanford.edu/Course/CS229)
- * `16-3` - [Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R.](http://www-bcf.usc.edu/~gareth/ISL/)
+ * `16-3` - Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R.[http://www-bcf.usc.edu](http://www-bcf.usc.edu/~gareth/ISL/)
  * `16-3` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011. [http://www.greenteapress.com/thinkstats/ www.greenteapress.com], [http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml]
- * `16-5` - [Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning](http://www.deeplearningbook.org)
+ * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning[deeplearningbook.org](http://www.deeplearningbook.org), [Гудфеллоу Я., Бенджио И., Курвилль А. Глубокое обучение](https://dmkpress.com/catalog/computer/data/978-5-97060-554-7/).
  * `16-6` - Mehryar Mohri Foundations of Machine Learning [http://www.cs.nyu.edu/~mohri/ml05/]
  * `16-7` - Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. [CS-231](http://cs231n.stanford.edu/2017/)
  * `16-9` - Andrew Zisserman C19 Machine Learning lectures Hilary 2015. [http://www.robots.ox.ac.uk/~az/lectures/ml/index.html]
