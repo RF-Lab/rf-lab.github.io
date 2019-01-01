@@ -101,6 +101,7 @@ permalink: /cross_links/
  * `16-11`- MIT 6.S094: Deep Learning for Self-Driving Cars [MIT 6.S094](https://selfdrivingcars.mit.edu/)
  * `16-12`- Haykin S. Neural networks and learning machines / Simon Haykin.—3rd ed.
  * `16-13`- Trevor Hastie, Robert Tibshirani, Jerome Friedman The Elements of Statistical Learning: Data Mining Inference, and Prediction. [PDF](https://web.stanford.edu/~hastie/ElemStatLearn/)
+ * `16-14` - К. В. Воронцов Лекции по методу опорных векторов. [ccas.ru](http://www.ccas.ru/voron/download/SVM.pdf)
 
 # `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
