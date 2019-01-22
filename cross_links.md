@@ -45,11 +45,13 @@ permalink: /cross_links/
  * `11-7` - Deanna Needell. Topics in Compressed Sensing. /DISSERTATION UNIVERSITY OF CALIFORNIA
  [umich.edu](http://www-personal.umich.edu/~romanv/students/needell-dissertation.pdf)
  * `11-8` - [Вадутов О.С. Лекции по дисциплине "Математические основы обработки сигналов". - Томский политехнический университет.](http://portal.tpu.ru:7777/SHARED/v/VOS/study/disc1/Tab portal.tpu.ru)
- * `11-9` - Greg Welch, Gary Bishop "An Introduction to the Kalman Filter". - SIGGRAPH 2001. [http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf www.cs.unc.edu]
- * `11-10` - Steven W. Smith, The Scientist and Engineer's Guide to Digital Signal Processing. [http://www.dspguide.com/ www.dspguide.com] 
+ * `11-9` - Greg Welch, Gary Bishop "An Introduction to the Kalman Filter". - SIGGRAPH 2001. [cs.unc.edu](http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf www.cs.unc.edu)
+ * `11-10` - Steven W. Smith, The Scientist and Engineer's Guide to Digital Signal Processing. [dspguide.com](http://www.dspguide.com/ www.dspguide.com) 
  * `11-11` - David C. Swanson. Signal Processing for Intelligent Sensor Systems with MATLAB. 
  * `11-12` - Сергиенко А.Б. Цифровая обработка сигналов: Учебное пособие. Второе издание.—СПб.: Питер, 2006.—752 с. ISBN 5-469-00816-9. [PDF](http://www.rphf.spbstu.ru/dsp/lib/Sergijenko_2003.pdf www.rphf.spbstu.ru)
- * `11-13` - Ричард Лайонс Цифровая обработка сигналов: Второе издание. Пер. с англ. -М.ООО "Бином-Пресс", 2006г.-656с.ил. [http://www.ozon.ru/context/detail/id/5999390/?gclid=Cj0KEQjwxbDIBRCL99Wls-nLicoBEiQAWroh6muJk1BLdXoEVBhN96sr-p4znrBxGLeACKNcnDfjDZcaAsxa8P8HAQ# ozon]
+ * `11-13` - Ричард Лайонс Цифровая обработка сигналов: Второе издание. Пер. с англ. -М.ООО "Бином-Пресс", 2006г.-656с.ил. [ozon](http://www.ozon.ru/context/detail/id/5999390/?gclid=Cj0KEQjwxbDIBRCL99Wls-nLicoBEiQAWroh6muJk1BLdXoEVBhN96sr-p4znrBxGLeACKNcnDfjDZcaAsxa8P8HAQ#)
+ * `11-14` - Уидроу Б., Стирнз С. Адаптивная обработка сигналов. М.: Радио и связь, 1989. - 440 с.: ил.
+ * `11-15` - Джиган В.И. Адаптивная фильтрация сигналов: теория и алгоритмы. Москва: Техносфера, 2013. — 528 с. — ISBN 978-5-94836-342-4.
 
 # `[12]` Цифровая связь, навигация, радиолокация
  * `12-1` - Прокис Дж. Цифровая связь. - Радио и Связь, 2000. [http://www.ozon.ru/context/detail/id/117618/ ozon]
