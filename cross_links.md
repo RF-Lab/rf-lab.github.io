@@ -76,6 +76,8 @@ permalink: /cross_links/
  * `12-20` - Robert Dahlgren. NOISE IN FIBER OPTIC COMMUNICATION LINKS.  Silicon Valley Photonics, Ltd. [http://www.svphotonics.com/pub/pub029.pdf svphotonics.com]
  * `12-21` - Yong Soo Cho ... [et al.]. MIMO-OFDM wireless communications with MATLAB. Copyright 2010 John Wiley & Sons (Asia) Pte Ltd.
  * `12-22` -  А. С. Холево Математические основы квантовой информатики. Москва – 2016. [http://www.rqc.ru/education/lecture-courses/holevo-mathematical-fundamentals-of-quantum-informatics/ http://www.rqc.ru] `Конспект курса лекций по квантовой информатике`.
+ * `12-23` - F. Tosato Simplified Soft-Output Demapper for Binary Interleaved
+COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No.02CH37333) [link](http://www.hpl.hp.com/techreports/2001/HPL-2001-246.pdf)
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[http://www.ozon.ru/context/detail/id/3001036/ Ozon] 
