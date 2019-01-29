@@ -22,6 +22,9 @@ to EMG Gesture Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&a
 
 ### Классификация EMG с использованием Ensemble Classifiers
 
+### На основе математических моделей EMG сигнала
+D. Farina ; A. Crosetti ; R. Merletti A model for the generation of synthetic intramuscular EMG signals to test decomposition algorithms. [link](https://ieeexplore.ieee.org/document/900250)
+
 ### EMG signal processing platform
 [EMG signal processing platform](https://github.com/RF-Lab/emg_platform)
 
