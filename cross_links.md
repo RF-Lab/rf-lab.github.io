@@ -8,19 +8,19 @@ permalink: /cross_links/
 
  * `1-1` - Краснов М.Л., Макаренко Г.И., Киселев А.И. Операционное исчисление. Теория устойчивости. Задачи и примеры с подробными решениями. - Либроком. 2009г.
  * `1-2` - Калинин В.В. Обыкновенные дифференциальные уравнения. (Пособие для практических занятий) - "Нефть и Газ". 2005г.
- * `1-3` - Бесов О.В. Тригонометрические ряды Фурье. Учебно-методическое пособие (для студентов 2-го курса).МФТИ. М., 2004. 31 с. [PDF](https://mipt.ru/education/chair/mathematics/upload/8ec/besov_f-arph0dsdzp7.pdf)
+ * `1-3` - Бесов О.В. Тригонометрические ряды Фурье. Учебно-методическое пособие (для студентов 2-го курса).МФТИ. М., 2004. 31 с. [【ссылка на PDF】](https://mipt.ru/education/chair/mathematics/upload/8ec/besov_f-arph0dsdzp7.pdf)
 
 # `[3]` Линейная алгебра/матричный анализ
- * `3-1` - Р.Хорн Ч. Джонсон Матричный анализ. - 1987. [mexmat](http://lib.mexmat.ru/books/128977)
- * `3-2` - Деммель Дж. Вычислительная линейная алгебра. - М.Мир, 2001. [mexmat](http://lib.mexmat.ru/books/87601)
- * `3-3` - Голуб Дж., Ван Лоун Ч. Матричные вычисления. - 1999. [mexmat](http://lib.mexmat.ru/books/22246)
- * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[Gilbert Strang](http://www-math.mit.edu/~gs), [Borre](http://www.i4.auc.dk/borre)
- * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [wellesley-cambridge](http://www.wellesleycambridge.com/), [mit.edu](http://math.mit.edu/~gs/cse/)
- * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition [18.06 - video lectures](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures).
- * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [www.fml.ru](http://www.fml.ru/tocs/778.pdf), [fml](http://www.fml.ru/book/showbook/778), [INM](http://www.inm.ras.ru/vtm/lection/all.pdf), [mexmat](http://lib.mexmat.ru/books/67843).
- * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [PDF](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
- * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [arxiv.org](http://arxiv.org/abs/physics/9806030)
- * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [video](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/).
+ * `3-1` - Р.Хорн Ч. Джонсон Матричный анализ. - 1987. [【ссылка на описание】](http://lib.mexmat.ru/books/128977)
+ * `3-2` - Деммель Дж. Вычислительная линейная алгебра. - М.Мир, 2001. [【ссылка на описание】](http://lib.mexmat.ru/books/87601)
+ * `3-3` - Голуб Дж., Ван Лоун Ч. Матричные вычисления. - 1999. [【ссылка на описание】](http://lib.mexmat.ru/books/22246)
+ * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[Gilbert Strang](http://www-math.mit.edu/~gs), [【ссылка на описание】](http://www.i4.auc.dk/borre)
+ * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [【ссылка на описание】](http://www.wellesleycambridge.com/), [mit.edu](http://math.mit.edu/~gs/cse/)
+ * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition [【ссылка на мультимедиа ресурс】](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures).
+ * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [【ссылка на PDF】](http://www.fml.ru/tocs/778.pdf), [【ссылка на описание】](http://www.fml.ru/book/showbook/778), [【ссылка на PDF】](http://www.inm.ras.ru/vtm/lection/all.pdf), [【ссылка на описание】](http://lib.mexmat.ru/books/67843).
+ * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [【ссылка на PDF】](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+ * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [【ссылка на PDF】](http://arxiv.org/abs/physics/9806030)
+ * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [【ссылка на мультимедиа ресурс】](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/).
 
 # `[10]` Теория управления/Теория систем
  * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [lib.mexmat.ru](http://lib.mexmat.ru/books/98189)
@@ -93,16 +93,16 @@ COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Comm
  * `15-11` - David MacKay. Information Theory, Inference, and Learning Algorithms [PDF](http://www.inference.org.uk/itprnn/book.pdf), [video-lectures](http://videolectures.net/course_information_theory_pattern_recognition/).
 
 # `[16]` Анализ многомерных данных. Методы классификации.
- * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [link to PDF](http://hagan.okstate.edu/NNDesign.pdf)
+ * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [【ссылка на PDF】](http://hagan.okstate.edu/NNDesign.pdf)
  * `16-2` - Andrew Ng - CS229 - Machine Learning [CS229](https://see.stanford.edu/Course/CS229)
- * `16-3` - Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R. [link](http://www-bcf.usc.edu/~gareth/ISL/)
- * `16-3` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011. [link#1](http://www.greenteapress.com/thinkstats/), [link#2](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml)
- * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning. [deeplearningbook.org](http://www.deeplearningbook.org), [Перевод. ДМК Пресс.](https://dmkpress.com/catalog/computer/data/978-5-97060-554-7/).
+ * `16-3` - Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R. [【ссылка на PDF】](http://www-bcf.usc.edu/~gareth/ISL/)
+ * `16-3` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011.  [【ссылка на описание#1】](http://www.greenteapress.com/thinkstats/),  [【ссылка на описание#2】](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml)
+ * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning.  [【ссылка на описание】](http://www.deeplearningbook.org),  [【ссылка на русский перевод】](https://dmkpress.com/catalog/computer/data/978-5-97060-554-7/).
  * `16-6` - Mehryar Mohri Foundations of Machine Learning [【ссылка на описание】](http://www.cs.nyu.edu/~mohri/ml05/)
- * `16-7` - Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. [CS-231](http://cs231n.stanford.edu/2017/)
+ * `16-7` - Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. [【ссылка на описание】](http://cs231n.stanford.edu/2017/)
  * `16-9` - Andrew Zisserman C19 Machine Learning lectures Hilary 2015. [【ссылка на описание】](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html)
- * `16-10`- MIT 6.S191: Introduction to Deep Learning [MIT 6.S191](http://introtodeeplearning.com/index.html)
- * `16-11`- MIT 6.S094: Deep Learning for Self-Driving Cars [MIT 6.S094](https://selfdrivingcars.mit.edu/)
+ * `16-10`- MIT 6.S191: Introduction to Deep Learning [【ссылка на описание】](http://introtodeeplearning.com/index.html)
+ * `16-11`- MIT 6.S094: Deep Learning for Self-Driving Cars [【ссылка на описание】](https://selfdrivingcars.mit.edu/)
  * `16-12`- Haykin S. Neural networks and learning machines / Simon Haykin.—3rd ed.
  * `16-13`- Trevor Hastie, Robert Tibshirani, Jerome Friedman The Elements of Statistical Learning: Data Mining Inference, and Prediction. [【ссылка на PDF】](https://web.stanford.edu/~hastie/ElemStatLearn/)
  * `16-14` - К. В. Воронцов Лекции по методу опорных векторов. [【ссылка на PDF】](http://www.ccas.ru/voron/download/SVM.pdf)
