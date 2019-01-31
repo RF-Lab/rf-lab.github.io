@@ -98,15 +98,15 @@ COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Comm
  * `16-3` - Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R. [link](http://www-bcf.usc.edu/~gareth/ISL/)
  * `16-3` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011. [link#1](http://www.greenteapress.com/thinkstats/), [link#2](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml)
  * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning. [deeplearningbook.org](http://www.deeplearningbook.org), [Перевод. ДМК Пресс.](https://dmkpress.com/catalog/computer/data/978-5-97060-554-7/).
- * `16-6` - Mehryar Mohri Foundations of Machine Learning [http://www.cs.nyu.edu/~mohri/ml05/]
+ * `16-6` - Mehryar Mohri Foundations of Machine Learning [【ссылка на описание】](http://www.cs.nyu.edu/~mohri/ml05/)
  * `16-7` - Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. [CS-231](http://cs231n.stanford.edu/2017/)
- * `16-9` - Andrew Zisserman C19 Machine Learning lectures Hilary 2015. [http://www.robots.ox.ac.uk/~az/lectures/ml/index.html]
+ * `16-9` - Andrew Zisserman C19 Machine Learning lectures Hilary 2015. [【ссылка на описание】](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html)
  * `16-10`- MIT 6.S191: Introduction to Deep Learning [MIT 6.S191](http://introtodeeplearning.com/index.html)
  * `16-11`- MIT 6.S094: Deep Learning for Self-Driving Cars [MIT 6.S094](https://selfdrivingcars.mit.edu/)
  * `16-12`- Haykin S. Neural networks and learning machines / Simon Haykin.—3rd ed.
- * `16-13`- Trevor Hastie, Robert Tibshirani, Jerome Friedman The Elements of Statistical Learning: Data Mining Inference, and Prediction. [PDF](https://web.stanford.edu/~hastie/ElemStatLearn/)
- * `16-14` - К. В. Воронцов Лекции по методу опорных векторов. [ссылка на PDF](http://www.ccas.ru/voron/download/SVM.pdf)
- * `16-15` -  Gilbert Strang Linear Algebra and Learning from Data. ISBN: 9780692196380 [ссылка на описание](http://math.mit.edu/~gs/learningfromdata/)
+ * `16-13`- Trevor Hastie, Robert Tibshirani, Jerome Friedman The Elements of Statistical Learning: Data Mining Inference, and Prediction. [【ссылка на PDF】](https://web.stanford.edu/~hastie/ElemStatLearn/)
+ * `16-14` - К. В. Воронцов Лекции по методу опорных векторов. [【ссылка на PDF】](http://www.ccas.ru/voron/download/SVM.pdf)
+ * `16-15` -  Gilbert Strang Linear Algebra and Learning from Data. ISBN: 9780692196380 [【ссылка на описание】](http://math.mit.edu/~gs/learningfromdata/)
 
 # `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
