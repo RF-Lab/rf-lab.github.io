@@ -14,8 +14,8 @@ permalink: /cross_links/
  * `3-1` - Р.Хорн Ч. Джонсон Матричный анализ. - 1987. [【ссылка на описание】](http://lib.mexmat.ru/books/128977)
  * `3-2` - Деммель Дж. Вычислительная линейная алгебра. - М.Мир, 2001. [【ссылка на описание】](http://lib.mexmat.ru/books/87601)
  * `3-3` - Голуб Дж., Ван Лоун Ч. Матричные вычисления. - 1999. [【ссылка на описание】](http://lib.mexmat.ru/books/22246)
- * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[Gilbert Strang](http://www-math.mit.edu/~gs), [【ссылка на описание】](http://www.i4.auc.dk/borre)
- * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [【ссылка на описание】](http://www.wellesleycambridge.com/), [mit.edu](http://math.mit.edu/~gs/cse/)
+ * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[【ссылка на страницу автора】](http://www-math.mit.edu/~gs), [【ссылка на описание】](http://www.i4.auc.dk/borre)
+ * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [【ссылка на описание】](http://www.wellesleycambridge.com/), [【ссылка на описание】](http://math.mit.edu/~gs/cse/)
  * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition [【ссылка на мультимедиа ресурс】](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures).
  * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [【ссылка на PDF】](http://www.fml.ru/tocs/778.pdf), [【ссылка на описание】](http://www.fml.ru/book/showbook/778), [【ссылка на PDF】](http://www.inm.ras.ru/vtm/lection/all.pdf), [【ссылка на описание】](http://lib.mexmat.ru/books/67843).
  * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [【ссылка на PDF】](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
@@ -23,35 +23,35 @@ permalink: /cross_links/
  * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [【ссылка на мультимедиа ресурс】](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/).
 
 # `[10]` Теория управления/Теория систем
- * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [lib.mexmat.ru](http://lib.mexmat.ru/books/98189)
- * `10-2` - Андриевский Б.Р., Фрадков А.Л. Избранные главы теории автоматического управления с примерами на языке MATLAB. - СПб.: Наука, 1999. - 475 с. [edu.ru](http://window.edu.ru/resource/205/41205/files/ipme01.pdf).
+ * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [【ссылка на описание】](http://lib.mexmat.ru/books/98189)
+ * `10-2` - Андриевский Б.Р., Фрадков А.Л. Избранные главы теории автоматического управления с примерами на языке MATLAB. - СПб.: Наука, 1999. - 475 с. [【ссылка на PDF】](http://window.edu.ru/resource/205/41205/files/ipme01.pdf).
  * `10-3` - Яковлев В.Б. Теория автоматического управления. - М.:Высшая школа, 2009. 
- * `10-4` - Солодовников В.В., Плотников В.Н., Яковлев А.В. Теория автоматического управления техническими системами. [lib.mexmat.ru](http://lib.mexmat.ru/books/127253)
+ * `10-4` - Солодовников В.В., Плотников В.Н., Яковлев А.В. Теория автоматического управления техническими системами. [【ссылка на описание】](http://lib.mexmat.ru/books/127253)
  * `10-5` - Музыкин С.Н. Родионова Ю.М. Моделирование динамических систем. - Ярославль Верх.-Волж. кн. изд-во 1984.
  * `10-6` - Музыкин С.Н. Родионова Ю.М. Функциональные разложения Винера-Вольтерра в задачах проектирования. - Ярославль Верх.-Волж. кн. изд-во 1992.
- * `10-7` - Музыкин С.Н. Родионова Ю.М. Системный анализ. Учебное пособие/ М.: МГАПИ, 2003. – 199 с.; ил.  [nikulchev.ru](http://www.nikulchev.ru/files/books/MuzykinSystemAnalysis.pdf).
- * `10-8` - Семенов А.Д., Артамонов Д.В., Брюхачев А.В. Идентификация объектов управления: Учебн. пособие. - Пенза: Изд-во Пенз. гос. ун-та, 2003.-211 с. : ил. 59, табл. - , библиогр. 141 назв. [edu.ru](http://window.edu.ru/resource/972/36972/files/stup198.pdf)
- * `10-9` - Никульчев Е.В. Практикум по теории управления в среде MATLAB: Учебное пособие. – М.: МГАПИ, 2002. – 88 с.; ил. ISBN 5-8068-0274-4. [edu.ru](http://window.edu.ru/resource/666/69666/files/MathLabControlLearning.pdf)
- * `10-10`- Никульчев Е. В. Геометрический подход к моделированию нелинейных систем по экспериментальным данным:монография.— М.: МГУП, 2007.— 162 с. ISBN 978–5–8122–0926–1. [edu.ru](http://window.edu.ru/resource/667/69667/files/Monografiq_Nikulqhev.pdf)
- * `10-11`- Иванов В.А., Медведев В.С., Чемоданов Б.К., Ющенко Б.К.: Математические основы теории автоматического регулирования.-  МГТУ им. Н. Э. Баумана,  2006 г. [ozon.ru](http://www.ozon.ru/context/detail/id/3389566/)
+ * `10-7` - Музыкин С.Н. Родионова Ю.М. Системный анализ. Учебное пособие/ М.: МГАПИ, 2003. – 199 с.; ил.  [【ссылка на PDF】](http://www.nikulchev.ru/files/books/MuzykinSystemAnalysis.pdf).
+ * `10-8` - Семенов А.Д., Артамонов Д.В., Брюхачев А.В. Идентификация объектов управления: Учебн. пособие. - Пенза: Изд-во Пенз. гос. ун-та, 2003.-211 с. : ил. 59, табл. - , библиогр. 141 назв. [【ссылка на PDF】](http://window.edu.ru/resource/972/36972/files/stup198.pdf)
+ * `10-9` - Никульчев Е.В. Практикум по теории управления в среде MATLAB: Учебное пособие. – М.: МГАПИ, 2002. – 88 с.; ил. ISBN 5-8068-0274-4. [【ссылка на PDF】](http://window.edu.ru/resource/666/69666/files/MathLabControlLearning.pdf)
+ * `10-10`- Никульчев Е. В. Геометрический подход к моделированию нелинейных систем по экспериментальным данным:монография.— М.: МГУП, 2007.— 162 с. ISBN 978–5–8122–0926–1. [【ссылка на PDF】](http://window.edu.ru/resource/667/69667/files/Monografiq_Nikulqhev.pdf)
+ * `10-11`- Иванов В.А., Медведев В.С., Чемоданов Б.К., Ющенко Б.К.: Математические основы теории автоматического регулирования.-  МГТУ им. Н. Э. Баумана,  2006 г. [【ссылка на описание】](http://www.ozon.ru/context/detail/id/3389566/)
 
 # `[11]` Цифровая обработка сигналов
- * `11-1` - Рабинер Л., Гоулд Б. Теория и применение цифровой обработки сигналов. - 1978. [mexmat.ru](http://lib.mexmat.ru/books/864)
- * `11-2` - Оппенгейм А.В. Шафер Р.В. Цифровая обработка сигналов: Пер. с англ./Под ред. С.Я. Шаца.-М.:Связь,1979. [mexmat.ru](http://lib.mexmat.ru/books/108424), [my-shop.ru](http://my-shop.ru/shop/books/1366383.html), [ozon.ru](http://www.ozon.ru/context/detail/id/4443580/).
- * `11-3` - Хэмминг Р.В. Цифровые фильтры. Пер. с англ./ Под ред. А.М. Трахтмана М. Сов. Радио, 1980. - 224с., ил. [mexmat.ru](http://lib.mexmat.ru/books/855).
- * `11-4` - Макс Ж. Методы и техника обработки сигналов при физических измерениях: В 2-х томах. Пер. с франц. - М.:Мир, 1983. [mexmat.ru](http://lib.mexmat.ru/books/52245) `/Преобразование Фурье (ПФ) периодических и непериодических функций, условия существования ПФ, формулы для дисперсии оценки корреляционной функции на ограниченной выборке`.
- * `11-5` - Saeed V. Vaseghi Advanced Digital Signal Processing and Noise Reduction. - Wiley, 2009. [Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470754060.html). [dsp-book](http://dsp-book.narod.ru/adsnr.htm).
- * `11-6` - Genshiro Kitagawa Introduction to Time Series Modeling (Chapman & Hall/CRC Monographs on Statistics & Applied Probability). Chapman & Hall/CRC (May 14, 2012) [amazon](http://www.amazon.com/Introduction-Modeling-Monographs-Statistics-Probability-ebook/dp/B008KZBRWM/ref=sr_1_2?s=books&ie=UTF8&qid=1419501370&sr=1-2&keywords=Introduction+to+Time+Series+Modeling)
+ * `11-1` - Рабинер Л., Гоулд Б. Теория и применение цифровой обработки сигналов. - 1978. [【ссылка на описание】](http://lib.mexmat.ru/books/864)
+ * `11-2` - Оппенгейм А.В. Шафер Р.В. Цифровая обработка сигналов: Пер. с англ./Под ред. С.Я. Шаца.-М.:Связь,1979. [【ссылка на описание】](http://lib.mexmat.ru/books/108424), [【ссылка на описание #2】](http://my-shop.ru/shop/books/1366383.html), [【ссылка на описание #3】](http://www.ozon.ru/context/detail/id/4443580/).
+ * `11-3` - Хэмминг Р.В. Цифровые фильтры. Пер. с англ./ Под ред. А.М. Трахтмана М. Сов. Радио, 1980. - 224с., ил. [【ссылка на описание】](http://lib.mexmat.ru/books/855).
+ * `11-4` - Макс Ж. Методы и техника обработки сигналов при физических измерениях: В 2-х томах. Пер. с франц. - М.:Мир, 1983. [【ссылка на описание】](http://lib.mexmat.ru/books/52245) `/Преобразование Фурье (ПФ) периодических и непериодических функций, условия существования ПФ, формулы для дисперсии оценки корреляционной функции на ограниченной выборке`.
+ * `11-5` - Saeed V. Vaseghi Advanced Digital Signal Processing and Noise Reduction. - Wiley, 2009. [【ссылка на описание】](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470754060.html). [【ссылка на описание】](http://dsp-book.narod.ru/adsnr.htm).
+ * `11-6` - Genshiro Kitagawa Introduction to Time Series Modeling (Chapman & Hall/CRC Monographs on Statistics & Applied Probability). Chapman & Hall/CRC (May 14, 2012) [【ссылка на описание】](http://www.amazon.com/Introduction-Modeling-Monographs-Statistics-Probability-ebook/dp/B008KZBRWM/ref=sr_1_2?s=books&ie=UTF8&qid=1419501370&sr=1-2&keywords=Introduction+to+Time+Series+Modeling)
  * `11-7` - Deanna Needell. Topics in Compressed Sensing. /DISSERTATION UNIVERSITY OF CALIFORNIA
- [umich.edu](http://www-personal.umich.edu/~romanv/students/needell-dissertation.pdf)
- * `11-8` - [Вадутов О.С. Лекции по дисциплине "Математические основы обработки сигналов". - Томский политехнический университет.](http://portal.tpu.ru:7777/SHARED/v/VOS/study/disc1/Tab portal.tpu.ru)
- * `11-9` - Greg Welch, Gary Bishop "An Introduction to the Kalman Filter". - SIGGRAPH 2001. [cs.unc.edu](http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf www.cs.unc.edu)
- * `11-10` - Steven W. Smith, The Scientist and Engineer's Guide to Digital Signal Processing. [dspguide.com](http://www.dspguide.com/ www.dspguide.com) 
+ [【ссылка на PDF】](http://www-personal.umich.edu/~romanv/students/needell-dissertation.pdf)
+ * `11-8` - [Вадутов О.С. Лекции по дисциплине "Математические основы обработки сигналов". - Томский политехнический университет.][【ссылка на PDF】](http://portal.tpu.ru:7777/SHARED/v/VOS/study/disc1/Tab)
+ * `11-9` - Greg Welch, Gary Bishop "An Introduction to the Kalman Filter". - SIGGRAPH 2001. [【ссылка на PDF】](http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf)
+ * `11-10` - Steven W. Smith, The Scientist and Engineer's Guide to Digital Signal Processing. [【ссылка на PDF】](http://www.dspguide.com/ www.dspguide.com) 
  * `11-11` - David C. Swanson. Signal Processing for Intelligent Sensor Systems with MATLAB. 
- * `11-12` - Сергиенко А.Б. Цифровая обработка сигналов: Учебное пособие. Второе издание.—СПб.: Питер, 2006.—752 с. ISBN 5-469-00816-9. [PDF](http://www.rphf.spbstu.ru/dsp/lib/Sergijenko_2003.pdf www.rphf.spbstu.ru)
- * `11-13` - Ричард Лайонс Цифровая обработка сигналов: Второе издание. Пер. с англ. -М.ООО "Бином-Пресс", 2006г.-656с.ил. [ozon](http://www.ozon.ru/context/detail/id/5999390/?gclid=Cj0KEQjwxbDIBRCL99Wls-nLicoBEiQAWroh6muJk1BLdXoEVBhN96sr-p4znrBxGLeACKNcnDfjDZcaAsxa8P8HAQ#)
- * `11-14` - Уидроу Б., Стирнз С. Адаптивная обработка сигналов. М.: Радио и связь, 1989. - 440 с.: ил.
- * `11-15` - Джиган В.И. Адаптивная фильтрация сигналов: теория и алгоритмы. Москва: Техносфера, 2013. — 528 с. — ISBN 978-5-94836-342-4.
+ * `11-12` - Сергиенко А.Б. Цифровая обработка сигналов: Учебное пособие. Второе издание.—СПб.: Питер, 2006.—752 с. ISBN 5-469-00816-9. [【ссылка на PDF】](http://www.rphf.spbstu.ru/dsp/lib/Sergijenko_2003.pdf)
+ * `11-13` - Ричард Лайонс Цифровая обработка сигналов: Второе издание. Пер. с англ. -М.ООО "Бином-Пресс", 2006г.-656с.ил. [【ссылка на описание】](http://www.ozon.ru/context/detail/id/5999390/?gclid=Cj0KEQjwxbDIBRCL99Wls-nLicoBEiQAWroh6muJk1BLdXoEVBhN96sr-p4znrBxGLeACKNcnDfjDZcaAsxa8P8HAQ#)
+ * `11-14` - Уидроу Б., Стирнз С. Адаптивная обработка сигналов. М.: Радио и связь, 1989. - 440 с.: ил.[【ссылка на описание】](https://www.ozon.ru/context/detail/id/34552151/)
+ * `11-15` - Джиган В.И. Адаптивная фильтрация сигналов: теория и алгоритмы. Москва: Техносфера, 2013. — 528 с. — ISBN 978-5-94836-342-4. [【ссылка на описание】](https://www.ozon.ru/context/detail/id/20466605/)
 
 # `[12]` Цифровая связь, навигация, радиолокация
  * `12-1` - Прокис Дж. Цифровая связь. - Радио и Связь, 2000. [http://www.ozon.ru/context/detail/id/117618/ ozon]
