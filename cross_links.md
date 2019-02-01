@@ -54,30 +54,30 @@ permalink: /cross_links/
  * `11-15` - Джиган В.И. Адаптивная фильтрация сигналов: теория и алгоритмы. Москва: Техносфера, 2013. — 528 с. — ISBN 978-5-94836-342-4. [【ссылка на описание】](https://www.ozon.ru/context/detail/id/20466605/)
 
 # `[12]` Цифровая связь, навигация, радиолокация
- * `12-1` - Прокис Дж. Цифровая связь. - Радио и Связь, 2000. [http://www.ozon.ru/context/detail/id/117618/ ozon]
- * `12-2` - Скляр Б. Цифровая связь. Теоретические основы и практическое применение. - Вильямс, 2007. [http://lib.mexmat.ru/books/7964]
+ * `12-1` - Прокис Дж. Цифровая связь. - Радио и Связь, 2000. [【ссылка на описание】](http://www.ozon.ru/context/detail/id/117618/)
+ * `12-2` - Скляр Б. Цифровая связь. Теоретические основы и практическое применение. - Вильямс, 2007. [【ссылка на описание】](http://lib.mexmat.ru/books/7964)
  * `12-3` - Matthias Patzold. Mobile Fading Channels. - John Wiley & Sons, 2002. `/Рассмотрены методы моделирования нестационарных многолучевых каналов с использованием алгоритмов MEDS, JM.`
- * `12-4` - Варгаузин В.А., Протопопов Л.Н. ТУРБО−КОДЫ и ИТЕРАТИВНОЕ ДЕКОДИРОВАНИЕ:ПРИНЦИПЫ, СВОЙСТВА, ПРИМЕНЕНИЕ. - "ТелеМультиМедиа", электронный журнал по широкополосным сетям и мультимедиа технологиям. 2000г. [SPBSTU](http://www.rphf.spbstu.ru/dsp/lib/var_Turbo.pdf), [http://www.telemultimedia.ru/art.php?id=77].
+ * `12-4` - Варгаузин В.А., Протопопов Л.Н. ТУРБО−КОДЫ и ИТЕРАТИВНОЕ ДЕКОДИРОВАНИЕ:ПРИНЦИПЫ, СВОЙСТВА, ПРИМЕНЕНИЕ. - "ТелеМультиМедиа", электронный журнал по широкополосным сетям и мультимедиа технологиям. 2000г. [【ссылка на PDF】](http://www.rphf.spbstu.ru/dsp/lib/var_Turbo.pdf), [【ссылка на описание】](http://www.telemultimedia.ru/art.php?id=77).
  * `12-5` - Пестряков В.Б. Шумоподобные сигналы в системах передачи информации. - Москва, "Советское Радио", 1973.
- * `12-6` - Сизых В.В., Шахтарин Б.И. Синхронизация в радиосвязи и радионавигации. - Горячая Линия-Телеком, 2011. [myshop](http://my-shop.ru/shop/books/659781.html)
+ * `12-6` - Сизых В.В., Шахтарин Б.И. Синхронизация в радиосвязи и радионавигации. - Горячая Линия-Телеком, 2011. [【ссылка на описание】](http://my-shop.ru/shop/books/659781.html)
  * `12-7` - F. Capozzi, G. Piro, L.A. Grieco, G. Boggia, P. Camarda Downlink Packet Scheduling in LTE Cellular Networks: Key Design Issues and a Survey. 
  * `12-8` - Tsui, James Bao-yen. Fundamentals of global positioning system receivers : a software approach / James Bao-yen Tsui. – 2nd ed. 2005 by John Wiley & Sons.
- * `12-9` - Matthias Patzold. Design of High-Speed Simulation Models for Mobile Fading Channels by Using Table Look-Up Techniques. - Technical University of Hamburg-Harburg. [http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=77A90E85869B895808EDA688F3709DB4?doi=10.1.1.13.923&rep=rep1&type=pdf http://citeseerx.ist.psu.edu/]
+ * `12-9` - Matthias Patzold. Design of High-Speed Simulation Models for Mobile Fading Channels by Using Table Look-Up Techniques. - Technical University of Hamburg-Harburg. [【ссылка на описание】](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=77A90E85869B895808EDA688F3709DB4?doi=10.1.1.13.923&rep=rep1&type=pdf)
  * `12-10` - Гаранин М.В., Журавлев В.И., Кунегин С.В. Системы и сети передачи информации: Учеб. пособие для вузов.-М.:Радио и связь,2001.-336 с.:ил.
  * `12-11` - Elliot Kaplan, Christofer Hegarty Understanding GPS: principles and application. - Artech House. 2006.
  * `12-12` - Kai Borre, Dennis M. Akos A Software-defined GPS and Galileo receiver. /Applied and Numerical Harmonic Analysis. -Birkhauser, 2007.
- * `12-13` - Kai Borre The GPS EASY Suite. - 2003. AALBORG University. [http://www.insidegnss.com/node/1423 insidegnss], [http://kom.aau.dk/~borre/easy/ aau.dk]
- * `12-14` - Kai Borre The GPS EASY Suite II - MATLAB Companion. - May, 2010. AALBORG University. [http://www.insidegnss.com/pdf/EasySuite.pdf insidegnss]
- * `12-15` - Тяпкин В.Н., Гарин Е.Н. Методы определения навигационных параметров подвижных средств с использованием  cпутниковой радионавигационной системы ГЛОНАСС. - монография – Красноярск: Сиб. федер. ун-т, 2012. – 260 с. `/Рассмотрены методы относительного и дифференциального позиционирования.` [http://vii.sfu-kras.ru/images/libs/Monografiya_Garin_Tyapkin.pdf vii.sfu-kras.ru]
+ * `12-13` - Kai Borre The GPS EASY Suite. - 2003. AALBORG University. [【ссылка на описание #1】](http://www.insidegnss.com/node/1423 insidegnss), [【ссылка на описание #2】](http://kom.aau.dk/~borre/easy/ aau.dk)
+ * `12-14` - Kai Borre The GPS EASY Suite II - MATLAB Companion. - May, 2010. AALBORG University. [【ссылка на PDF】](http://www.insidegnss.com/pdf/EasySuite.pdf).
+ * `12-15` - Тяпкин В.Н., Гарин Е.Н. Методы определения навигационных параметров подвижных средств с использованием  cпутниковой радионавигационной системы ГЛОНАСС. - монография – Красноярск: Сиб. федер. ун-т, 2012. – 260 с. `/Рассмотрены методы относительного и дифференциального позиционирования.` [【ссылка на PDF】](http://vii.sfu-kras.ru/images/libs/Monografiya_Garin_Tyapkin.pdf)
  * `12-16` - Stephen J. Comstock "Development of a Low-Latency, High Data Rate, Differential GPS Relative Positioning System for UAV Formation Flight control". MS THESIS, AIR FORCE INSTITUTE OF TECHNOLOGY, 2006. 
  * `12-17` - Р. Морелос-Сарагоса. Искусство помехоустойчивого кодирования. Методы, алгоритмы, применение. М:Техносфера. -2005.
- * `12-18` - William H. Tranter ...[et al.] Principles of communication systems simulation with wireless applications. Prentice Hall. - TK\5102.5.P673 2003. 
- * `12-19` - Kazuro Kikuchi. Fundamentals of Coherent Optical Fiber Communications. JOURNAL OF LIGHTWAVE TECHNOLOGY, VOL. 34, NO. 1, JANUARY 1, 2016 [osapublishing.org](https://www.osapublishing.org/DirectPDFAccess/4B7F6854-9316-6A2B-F14B66962A11E4BD_336305/jlt-34-1-157.pdf?da=1&id=336305&seq=0&mobile=no).
- * `12-20` - Robert Dahlgren. NOISE IN FIBER OPTIC COMMUNICATION LINKS.  Silicon Valley Photonics, Ltd. [http://www.svphotonics.com/pub/pub029.pdf svphotonics.com]
+ * `12-18` - William H. Tranter ...et al. Principles of communication systems simulation with wireless applications. Prentice Hall. - TK\5102.5.P673 2003. 
+ * `12-19` - Kazuro Kikuchi. Fundamentals of Coherent Optical Fiber Communications. JOURNAL OF LIGHTWAVE TECHNOLOGY, VOL. 34, NO. 1, JANUARY 1, 2016 [【ссылка на описание】](https://www.osapublishing.org/DirectPDFAccess/4B7F6854-9316-6A2B-F14B66962A11E4BD_336305/jlt-34-1-157.pdf?da=1&id=336305&seq=0&mobile=no).
+ * `12-20` - Robert Dahlgren. NOISE IN FIBER OPTIC COMMUNICATION LINKS.  Silicon Valley Photonics, Ltd. [【ссылка на PDF】](http://www.svphotonics.com/pub/pub029.pdf).
  * `12-21` - Yong Soo Cho ... [et al.]. MIMO-OFDM wireless communications with MATLAB. Copyright 2010 John Wiley & Sons (Asia) Pte Ltd.
- * `12-22` -  А. С. Холево Математические основы квантовой информатики. Москва – 2016. [http://www.rqc.ru/education/lecture-courses/holevo-mathematical-fundamentals-of-quantum-informatics/ http://www.rqc.ru] `Конспект курса лекций по квантовой информатике`.
+ * `12-22` -  А. С. Холево Математические основы квантовой информатики. Москва – 2016. [【ссылка на описание】](http://www.rqc.ru/education/lecture-courses/holevo-mathematical-fundamentals-of-quantum-informatics/) `Конспект курса лекций по квантовой информатике`.
  * `12-23` - F. Tosato Simplified Soft-Output Demapper for Binary Interleaved
-COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No.02CH37333) [link](http://www.hpl.hp.com/techreports/2001/HPL-2001-246.pdf)
+COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No.02CH37333) [【ссылка на PDF】](http://www.hpl.hp.com/techreports/2001/HPL-2001-246.pdf)
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[http://www.ozon.ru/context/detail/id/3001036/ Ozon] 
