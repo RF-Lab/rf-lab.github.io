@@ -66,7 +66,7 @@ permalink: /cross_links/
  * `12-10` - Гаранин М.В., Журавлев В.И., Кунегин С.В. Системы и сети передачи информации: Учеб. пособие для вузов.-М.:Радио и связь,2001.-336 с.:ил.
  * `12-11` - Elliot Kaplan, Christofer Hegarty Understanding GPS: principles and application. - Artech House. 2006.
  * `12-12` - Kai Borre, Dennis M. Akos A Software-defined GPS and Galileo receiver. /Applied and Numerical Harmonic Analysis. -Birkhauser, 2007.
- * `12-13` - Kai Borre The GPS EASY Suite. - 2003. AALBORG University. [【ссылка на описание #1】](http://www.insidegnss.com/node/1423 insidegnss), [【ссылка на описание #2】](http://kom.aau.dk/~borre/easy/ aau.dk)
+ * `12-13` - Kai Borre The GPS EASY Suite. - 2003. AALBORG University. [【ссылка на описание #1】](http://www.insidegnss.com/node/1423), [【ссылка на описание #2】](http://kom.aau.dk/~borre/easy/)
  * `12-14` - Kai Borre The GPS EASY Suite II - MATLAB Companion. - May, 2010. AALBORG University. [【ссылка на PDF】](http://www.insidegnss.com/pdf/EasySuite.pdf).
  * `12-15` - Тяпкин В.Н., Гарин Е.Н. Методы определения навигационных параметров подвижных средств с использованием  cпутниковой радионавигационной системы ГЛОНАСС. - монография – Красноярск: Сиб. федер. ун-т, 2012. – 260 с. `/Рассмотрены методы относительного и дифференциального позиционирования.` [【ссылка на PDF】](http://vii.sfu-kras.ru/images/libs/Monografiya_Garin_Tyapkin.pdf)
  * `12-16` - Stephen J. Comstock "Development of a Low-Latency, High Data Rate, Differential GPS Relative Positioning System for UAV Formation Flight control". MS THESIS, AIR FORCE INSTITUTE OF TECHNOLOGY, 2006. 
@@ -80,17 +80,17 @@ permalink: /cross_links/
 COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No.02CH37333) [【ссылка на PDF】](http://www.hpl.hp.com/techreports/2001/HPL-2001-246.pdf)
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
- * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[http://www.ozon.ru/context/detail/id/3001036/ Ozon] 
+ * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[【ссылка на описание】](http://www.ozon.ru/context/detail/id/3001036/)
  * `15-2` - Шахтарин Б.И. Ковригин В.А. Методы спектрального оценивания случайных процессов. - Горячая линия-Телеком, 2005.
- * `15-3` - Тюрин Ю.Н. Макаров А.А. Анализ данных на компьютере. Изд. 3-е, перераб. и доп./Под ред. В. Э. Фигурнова — М.: ИНФРА–М, 2002. — 528 с., ил. [http://lib.mexmat.ru/books/104537 mexmat]
- * `15-4` - Ван дер Варден Б.Л. Математическая статистика — 436 стр. М., ИЛ, 1960 [http://lib.mexmat.ru/books/4631 mexmat]
- * `15-5` - J.H. Won, J. Lim, S.J. Kim, B. Rajaratnam Maximum Likelihood Covariance Estimation with a Condition Number Constraint. - Technical Report No. 2009-10 August 2009 /Department of Statistics STANFORD UNIVERSITY Stanford, California 94305-4065. [https://statistics.stanford.edu/research/maximum-likelihood-covariance-estimation-condition-number-constraint statistics.stanford.edu]
+ * `15-3` - Тюрин Ю.Н. Макаров А.А. Анализ данных на компьютере. Изд. 3-е, перераб. и доп./Под ред. В. Э. Фигурнова — М.: ИНФРА–М, 2002. — 528 с., ил. [【ссылка на описание】](http://lib.mexmat.ru/books/104537)
+ * `15-4` - Ван дер Варден Б.Л. Математическая статистика — 436 стр. М., ИЛ, 1960 [【ссылка на описание】](http://lib.mexmat.ru/books/4631)
+ * `15-5` - J.H. Won, J. Lim, S.J. Kim, B. Rajaratnam Maximum Likelihood Covariance Estimation with a Condition Number Constraint. - Technical Report No. 2009-10 August 2009 /Department of Statistics STANFORD UNIVERSITY Stanford, California 94305-4065. [【ссылка на описание】](https://statistics.stanford.edu/research/maximum-likelihood-covariance-estimation-condition-number-constraint).
  * `15-6` - Steven M. Kay Modern Spectral Estimation: Theory and Application. - Prentice Hall, Englewood Cliffs, NJ, 03/1999, 560 pages, English.
  * `15-7` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume I: Estimation Theory (v. 1). Prentice Hall, 1993.
  * `15-8` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume II: Detection Theory. Prentice Hall, 1998.
- * `15-9` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume III: Practical Algorithm Development. Prentice Hall, 2013. [http://ptgmedia.pearsoncmg.com/images/9780132808033/samplepages/013280803X.pdf Free sample chapter]
- * `15-10` - Dimitri P. Bertsekas, John N. Tsitsiklis  Introduction to Probability, 2nd Edition [video-lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/)
- * `15-11` - David MacKay. Information Theory, Inference, and Learning Algorithms [PDF](http://www.inference.org.uk/itprnn/book.pdf), [video-lectures](http://videolectures.net/course_information_theory_pattern_recognition/).
+ * `15-9` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume III: Practical Algorithm Development. Prentice Hall, 2013. [【ссылка на PDF】](http://ptgmedia.pearsoncmg.com/images/9780132808033/samplepages/013280803X.pdf).
+ * `15-10` - Dimitri P. Bertsekas, John N. Tsitsiklis  Introduction to Probability, 2nd Edition [【ссылка на мультимедиа ресурс】](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/).
+ * `15-11` - David MacKay. Information Theory, Inference, and Learning Algorithms [【ссылка на PDF】](http://www.inference.org.uk/itprnn/book.pdf), [【ссылка на мультимедиа ресурс】](http://videolectures.net/course_information_theory_pattern_recognition/).
 
 # `[16]` Анализ многомерных данных. Методы классификации.
  * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [【ссылка на PDF】](http://hagan.okstate.edu/NNDesign.pdf)
