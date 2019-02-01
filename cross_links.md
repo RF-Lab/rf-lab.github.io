@@ -94,7 +94,7 @@ COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Comm
 
 # `[16]` Анализ многомерных данных. Методы классификации.
  * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [【ссылка на PDF】](http://hagan.okstate.edu/NNDesign.pdf)
- * `16-2` - Andrew Ng - CS229 - Machine Learning [CS229](https://see.stanford.edu/Course/CS229)
+ * `16-2` - Andrew Ng - CS229 - Machine Learning [【ссылка на мультимедиа ресурс】](https://see.stanford.edu/Course/CS229)
  * `16-3` - Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R. [【ссылка на PDF】](http://www-bcf.usc.edu/~gareth/ISL/)
  * `16-3` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011.  [【ссылка на описание#1】](http://www.greenteapress.com/thinkstats/),  [【ссылка на описание#2】](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml)
  * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning.  [【ссылка на описание】](http://www.deeplearningbook.org),  [【ссылка на русский перевод】](https://dmkpress.com/catalog/computer/data/978-5-97060-554-7/).
@@ -110,5 +110,5 @@ COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Comm
 
 # `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
- * `17-2` - Jean-Pierre Deschamps, Gery J.A. Bioul, Gustavo D. Sutter. Synthesis of Arithmetic Circuits: FPGA, ASIC and Embedded Systems. - March 2006, Wiley. [Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471687839.html)
- * `17-3` - Иосиф КАРШЕНБОЙМ. Краткий курс HDL. Часть 5. Написание кода, независимого от аппаратной платформы. - КОМПОНЕНТЫ и ТЕХНОЛОГИИ. 2008г., №9. [PDF](http://iosifk.narod.ru/hdl_coding/hdl_coding_7_kit_9_08.pdf)
+ * `17-2` - Jean-Pierre Deschamps, Gery J.A. Bioul, Gustavo D. Sutter. Synthesis of Arithmetic Circuits: FPGA, ASIC and Embedded Systems. - March 2006, Wiley. [【ссылка на описание】](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471687839.html)
+ * `17-3` - Иосиф КАРШЕНБОЙМ. Краткий курс HDL. Часть 5. Написание кода, независимого от аппаратной платформы. - КОМПОНЕНТЫ и ТЕХНОЛОГИИ. 2008г., №9. [【ссылка на PDF】](http://iosifk.narod.ru/hdl_coding/hdl_coding_7_kit_9_08.pdf)
