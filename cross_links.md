@@ -21,6 +21,7 @@ permalink: /cross_links/
  * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [【ссылка на PDF】](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
  * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [【ссылка на PDF】](http://arxiv.org/abs/physics/9806030)
  * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [【ссылка на мультимедиа ресурс】](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/).
+ * `3-11` - Stephen Boyd and Lieven Vandenberghe Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares. [【ссылка на описание】](http://vmls-book.stanford.edu/), [【ссылка на PDF】](http://vmls-book.stanford.edu/vmls.pdf).
 
 # `[10]` Теория управления/Теория систем
  * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [【ссылка на описание】](http://lib.mexmat.ru/books/98189)
