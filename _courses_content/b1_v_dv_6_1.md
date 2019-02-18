@@ -16,3 +16,4 @@ title: Теория обработки и передачи данных
  * `ЛР1` - Лабораторная работа "Реализация процедуры помехоустойчивого кодирования на основе линейного блочного кода Хэмминга."
  * `ЛР2` - Лабораторная работа "Реализация процедуры обнаружения сигнала GPS." [DOC](https://github.com/estel1/it6/blob/master/course_materials_umk/lab1_topd.docx?raw=true), [PDF](https://github.com/estel1/it6/blob/master/course_materials_umk/lab1_topd.pdf)
 
+{% include topd_slides.html %}
