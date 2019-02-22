@@ -79,6 +79,7 @@ permalink: /cross_links/
  * `12-22` -  А. С. Холево Математические основы квантовой информатики. Москва – 2016. [【ссылка на описание】](http://www.rqc.ru/education/lecture-courses/holevo-mathematical-fundamentals-of-quantum-informatics/) `Конспект курса лекций по квантовой информатике`.
  * `12-23` - F. Tosato Simplified Soft-Output Demapper for Binary Interleaved
 COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No.02CH37333) [【ссылка на PDF】](http://www.hpl.hp.com/techreports/2001/HPL-2001-246.pdf)
+* `12-24` - Optical Hybrid Enables Next-Generation Optical Communication. Optoplex Corp. [【ссылка на PDF】](http://www.optoplex.com/download/coherent_detection_and_optical_hybrid.pdf)
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[【ссылка на описание】](http://www.ozon.ru/context/detail/id/3001036/)
