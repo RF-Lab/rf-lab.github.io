@@ -466,7 +466,22 @@
 			С_{DCMC}=\max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{p(x)}dy
 			\label{Cap_DCMC1}
 		  \end{equation}	
-		При этом должно выполняться условие \(sum_{m=1}^{M}p(x_m)=1\). 
+		При этом должно выполняться условие \(\sum_{m=1}^{M}p(x_m)=1\). 
+    </page>
+   <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="6">AWGN</font><BR><font size="5">Канал с аддитивным шумом.</font></div>
+		</div>		
+	</header>	
+		Канал с аддитивным белым гауссовым шумом без памяти.
+		
+		Сигнал на приемной стороне для \(n-\)го принятого символа:
+		  \begin{equation}
+			y(n) = x(n) + \sigma_{\varepsilon}\varepsilon(n)
+			\label{AWGN1}
+		  \end{equation}	
+		Здесь последовательность \(\varepsilon(n)\) - белый гауссов шум . 
     </page>
 </body>
 </html>
