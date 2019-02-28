@@ -461,7 +461,7 @@
 		Если сигнал на передающей стороне может принимать лишь значения из фискированного набора \(x\in{x_1,x_2,\ldots x_M}\) то выражение 
 		(\ref{Cap_сontinuous}) примет вид [12-25]:
 		  \begin{equation}
-			С_{DCMC}=\max_{p(x_1,\ldots,x_M)} \frac{1}{T}\int\limits_{X}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{p(x)}dy
+			С_{DCMC}=\max_{p(x_1,\ldots,x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{p(x)}dy
 			\label{Cap_DCMC1}
 		  \end{equation}	
     </page>
