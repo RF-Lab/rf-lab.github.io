@@ -16,7 +16,7 @@ permalink: /cross_links/
  * `3-3` - Голуб Дж., Ван Лоун Ч. Матричные вычисления. - 1999. [【ссылка на описание】](http://lib.mexmat.ru/books/22246)
  * `3-4` - Gilbert Strang, Kai Borre Linear algebra, geodesy and GPS. Wellesley-Cambridge Press. `/Рассмотрены методы относительного позиционирования.`[【ссылка на страницу автора】](http://www-math.mit.edu/~gs), [【ссылка на описание】](http://www.i4.auc.dk/borre)
  * `3-5` - Gilbert Strang Computational Science and Engineering. Wellesley-Cambridge Press. [【ссылка на описание】](http://www.wellesleycambridge.com/), [【ссылка на описание】](http://math.mit.edu/~gs/cse/)
- * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition `Video Lectures` [【ссылка на мультимедиа ресурс】](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures).
+ * `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition **Video Lectures** [【ссылка на мультимедиа ресурс】](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures).
  * `3-7` - Тыртышников Е.Е. Матричный анализ и линейная алгебра. - Физматлит. 2007. [【ссылка на PDF】](http://www.fml.ru/tocs/778.pdf), [【ссылка на описание】](http://www.fml.ru/book/showbook/778), [【ссылка на PDF】](http://www.inm.ras.ru/vtm/lection/all.pdf), [【ссылка на описание】](http://lib.mexmat.ru/books/67843).
  * `3-8` - Jonathan Richard Shewchuk, An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [【ссылка на PDF】](http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
  * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [【ссылка на PDF】](http://arxiv.org/abs/physics/9806030)
@@ -97,11 +97,11 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `15-11` - David MacKay. Information Theory, Inference, and Learning Algorithms [【ссылка на PDF】](http://www.inference.org.uk/itprnn/book.pdf), [【ссылка на мультимедиа ресурс】](http://videolectures.net/course_information_theory_pattern_recognition/).
 
 # `[16]` Анализ многомерных данных. Методы классификации.
- * `16-1` - M.Hagan H.Demuth - Neural Network Design (2nd Edition). [【ссылка на PDF】](http://hagan.okstate.edu/NNDesign.pdf)
+ * `16-1` - M.Hagan H.Demuth - **Neural Network Design** (2nd Edition). [【ссылка на PDF】](http://hagan.okstate.edu/NNDesign.pdf)
  * `16-2` - Andrew Ng - CS229 - Machine Learning [【ссылка на мультимедиа ресурс】](https://see.stanford.edu/Course/CS229)
- * `16-3` - Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R. [【ссылка на PDF】](http://www-bcf.usc.edu/~gareth/ISL/)
+ * `16-3` - Trevor Hastie, Robert Tibshirani et al. **An Introduction to Statistical Learning with Applications in R**. [【ссылка на PDF】](http://www-bcf.usc.edu/~gareth/ISL/)
  * `16-3` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011.  [【ссылка на описание#1】](http://www.greenteapress.com/thinkstats/),  [【ссылка на описание#2】](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml)
- * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning.  [【ссылка на описание】](http://www.deeplearningbook.org),  [【ссылка на русский перевод】](https://dmkpress.com/catalog/computer/data/978-5-97060-554-7/).
+ * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville. **Deep Learning**.  [【ссылка на описание】](http://www.deeplearningbook.org),  [【ссылка на русский перевод】](https://dmkpress.com/catalog/computer/data/978-5-97060-554-7/).
  * `16-6` - Mehryar Mohri Foundations of Machine Learning [【ссылка на описание】](http://www.cs.nyu.edu/~mohri/ml05/)
  * `16-7` - Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. [【ссылка на описание】](http://cs231n.stanford.edu/2017/)
  * `16-9` - Andrew Zisserman C19 Machine Learning lectures Hilary 2015. [【ссылка на описание】](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html)
@@ -110,7 +110,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-12`- Haykin S. Neural networks and learning machines / Simon Haykin.—3rd ed.
  * `16-13`- Trevor Hastie, Robert Tibshirani, Jerome Friedman The Elements of Statistical Learning: Data Mining Inference, and Prediction. [【ссылка на PDF】](https://web.stanford.edu/~hastie/ElemStatLearn/)
  * `16-14` - К. В. Воронцов Лекции по методу опорных векторов. [【ссылка на PDF】](http://www.ccas.ru/voron/download/SVM.pdf)
- * `16-15` -  Gilbert Strang Linear Algebra and Learning from Data. ISBN: 9780692196380 [【ссылка на описание】](http://math.mit.edu/~gs/learningfromdata/)
+ * `16-15` -  **Gilbert Strang** Linear Algebra and Learning from Data. ISBN: 9780692196380 [【ссылка на описание】](http://math.mit.edu/~gs/learningfromdata/)
 
 # `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
