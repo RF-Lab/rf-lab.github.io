@@ -448,22 +448,21 @@
 		\end{equation}								
 		</div>
    </page>
-    <page size="A5">
-		<header>
-			<div class="header">
-				<div class="image"></div><div class="text"><font size="7">LMS</font><BR><font size="6">Емкость канала с дискретным источником.</font></div>
-			</div>		
-		</header>
-		<div class="body">
-			Пропускная способность :
-			  \begin{equation}
-				С=\lim_{T \infty}\max_{P(x)} \frac{1}{T}\int\limits_{X}\int\limits_{Y}p(x,y)\log_2\frac{p(x,y)}{p(x)p(y)}dxdy
-				\label{Cap1}
-			  \end{equation}	
-			  Максимум в формуле (\ref{Cap1}) определяется среди всех возможных распределений \(P(x)\) 
-			  (среди всех возможных сигнально-кодовых конструкций).	
-		</div>
-   </page>
+   <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="7">Continuous Capacity</font><BR><font size="6">Пропускная способность непрерывного канала.</font></div>
+		</div>		
+	</header>	
+		Пропускная способность :
+		  \begin{equation}
+			С=\lim_{T \infty}\max_{P(x)} \frac{1}{T}\int\limits_{X}\int\limits_{Y}p(x,y)\log_2\frac{p(x,y)}{p(x)p(y)}dxdy
+			\label{Cap1}
+		  \end{equation}	
+		  Максимум в формуле (\ref{Cap1}) определяется среди всех возможных распределений \(P(x)\) 
+		  (среди всех возможных сигнально-кодовых конструкций).	
+    </page>
+
    
 </body>
 </html>
