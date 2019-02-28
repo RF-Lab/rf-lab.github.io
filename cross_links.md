@@ -80,6 +80,8 @@ permalink: /cross_links/
  * `12-23` - F. Tosato Simplified Soft-Output Demapper for Binary Interleaved
 COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Communications. Conference Proceedings. ICC 2002 (Cat. No.02CH37333) [【ссылка на PDF】](http://www.hpl.hp.com/techreports/2001/HPL-2001-246.pdf)
 * `12-24` - Optical Hybrid Enables Next-Generation Optical Communication. Optoplex Corp. [【ссылка на PDF】](http://www.optoplex.com/download/coherent_detection_and_optical_hybrid.pdf)
+* `12-25` - Philip Edward McIllree, CHANNEL CAPACITY CALCULATIONS FOR M–ARY
+N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.186&rep=rep1&type=pdf)
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[【ссылка на описание】](http://www.ozon.ru/context/detail/id/3001036/)
