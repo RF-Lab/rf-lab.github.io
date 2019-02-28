@@ -429,13 +429,17 @@
 			<div class="image"></div><div class="text"><font size="7">Continuous Capacity</font><BR><font size="6">Пропускная способность непрерывного канала.</font></div>
 		</div>		
 	</header>	
-		Пропускная способность :
+		Емкость канала для непрерывных величин (т.е. сигнал на передатчике и на приемнике принимает любые значения) на передатчике и приемнике :
 		  \begin{equation}
 			С=\lim_{T \infty}\max_{P(x)} \frac{1}{T}\int\limits_{X}\int\limits_{Y}p(x,y)\log_2\frac{p(x,y)}{p(x)p(y)}dxdy
 			\label{Cap_сontinuous}
 		  \end{equation}	
-		  Максимум в формуле (\ref{Cap1}) определяется среди всех возможных распределений \(P(x)\) 
-		  (среди всех возможных сигнально-кодовых конструкций).	
+		Если сигнал на передающей стороне может принимать лишь значения из фискированного набора \x\in{x_1,x_2,\ldots x_C}\ то выражение 
+		(\ref{Cap_сontinuous}) примет вид [12-25]:
+		  \begin{equation}
+			С_{DCMC}=\max_{p(x_1,\ldots,x_M)} \frac{1}{T}\int\limits_{X}\int\limits_{Y}p(x,y)\log_2\frac{p(x,y)}{p(x)p(y)}dxdy
+			\label{Cap_сontinuous}
+		  \end{equation}	
     </page>
 	   
     <page size="A5">
