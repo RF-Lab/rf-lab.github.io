@@ -482,7 +482,7 @@
 		Подставляя (\ref{subst_py1}) в (\ref{Cap_DCMC1}):
     	        \begin{equation}
 		\begin{aligned}		
-			С_{DCMC} &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{\sum_{m=1}{M}p(y|x_m)p(x_m)}dy \\ 
+			С_{DCMC} &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{\sum_{m=1}^{M}p(y|x_m)p(x_m)}dy \\ 
 		                 &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2 p(y|x_m)dy \\  
 		                 &- \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\left[\sum_{m=1}^{M}p(y|x_m)p(x_m)\right]dy
 		  \end{aligned}	
@@ -510,11 +510,14 @@
 			\label{pxy_AWGN}
 		  \end{equation}	
 		Подставляя (\ref{pxy_AWGN}) в (\ref{Cap_DCMC2}), получаем:
-		  \begin{align}
-			С_{DCMC} &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left(\frac{(y(n)-x_m(n))^2}{2\sigma_{\varepsilon}^2}\right)p(x_m)\log_2 \frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left(\frac{(y(n)-x_m(n))^2}{2\sigma_{\varepsilon}^2}\right)dy \\  
-		                 &- \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left(\frac{(y(n)-x_m(n))^2}{2\sigma_{\varepsilon}^2}\right)p(x_m)\log_2\left[\sum_{m=1}^{M}\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left(\frac{(y(n)-x_m(n))^2}{2\sigma_{\varepsilon}^2}\right)p(x_m)\right]dy  \nonumber
-			\label{Cap_DCMC3}
-		  \end{align}	
+		  \begin{equation}
+		  \begin{aligned}
+			С_{DCMC} = \\
+		                 \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left[\frac{(y-x_m)^2}{2\sigma_{\varepsilon}^2}\right]p(x_m)\log_2 \frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left[\frac{(y-x_m)^2}{2\sigma_{\varepsilon}^2}\right]dy \\  
+		                 - \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left(\frac{(y(n)-x_m(n))^2}{2\sigma_{\varepsilon}^2}\right)p(x_m)\log_2\left[\sum_{m=1}^{M}\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left[\frac{(y-x_m)^2}{2\sigma_{\varepsilon}^2}\right]p(x_m)\right]dy
+		  \end{aligned}	
+	          \label{Cap_DCMC3}
+		  \end{equation}	
     </page>	   
 </body>
 </html>
