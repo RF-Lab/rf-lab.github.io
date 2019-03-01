@@ -471,6 +471,25 @@
    <page size="A5">
 	<header>
 		<div class="header">
+			<div class="image"></div><div class="text"><font size="6">DCMC</font><BR><font size="5">Вывод выражения для расчета.</font></div>
+		</div>		
+	</header>	
+		Определять y(p) экспериментально или аналитически неудобно. Вместо этого используем:
+		  \begin{equation}
+			p(y) = \sum_{m=1}{M}p(y|x_m)p(x_m)
+			\label{subst_py1}
+		  \end{equation}	
+		Подставляя (\ref{subst_py1}) в (\ref{Cap_DCMC1}):
+		\begin{aligned}
+			С_{DCMC}=\max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{\sum_{m=1}{M}p(y|x_m)p(x_m)}dy \\
+		                = \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\p(y|x_m)dy - 
+		                  \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\\sum_{m=1}{M}p(y|x_m)p(x_m)dy
+			\label{Cap_DCMC1}
+		  \end{aligned}	
+    </page>
+   <page size="A5">
+	<header>
+		<div class="header">
 			<div class="image"></div><div class="text"><font size="6">AWGN</font><BR><font size="5">Канал с аддитивным шумом.</font></div>
 		</div>		
 	</header>	
