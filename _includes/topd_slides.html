@@ -463,7 +463,7 @@
 		Если сигнал на передающей стороне может принимать лишь значения из фискированного набора \(x\in{x_1,x_2,\ldots x_M}\) то выражение 
 		(\ref{Cap_сontinuous}) примет вид [12-25]:
 		  \begin{equation}
-			С_{DCMC}=\max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{p(x)}dy
+			С_{DCMC}=\max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{p(y)}dy
 			\label{Cap_DCMC1}
 		  \end{equation}	
 		При этом должно выполняться условие \(\sum_{m=1}^{M}p(x_m)=1\). 
@@ -487,6 +487,11 @@
 		  \begin{equation}
 			p(y(n)|x_m(n))=\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}exp\left(\frac{(y(n)-x_m(n))^2}{2\sigma_{\varepsilon}^2}\right)
 			\label{pxy_AWGN}
+		  \end{equation}	
+		Подставляя (\ref{pxy_AWGN}) в (\ref{Cap_DCMC1}), получаем:
+		  \begin{equation}
+			С_{DCMC}=\max_{p(x_1),\ldots,p(x_M)} \frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\sum_{m=1}^{M}\int\limits_{Y}exp\left(\frac{(y(n)-x_m(n))^2}{2\sigma_{\varepsilon}^2}\right)p(x_m)\log_2\frac{p(y|x_m)}{p(y)}dy
+			\label{Cap_DCMC2}
 		  \end{equation}	
     </page>
 </body>
