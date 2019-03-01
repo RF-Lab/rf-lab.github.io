@@ -480,12 +480,14 @@
 			\label{subst_py1}
 		  \end{equation}	
 		Подставляя (\ref{subst_py1}) в (\ref{Cap_DCMC1}):
-		\begin{align}		
-			С_{DCMC} &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{\sum_{m=1}{M}p(y|x_m)p(x_m)}dy \\  \nonumber
+    	        \begin{equation}
+		\begin{aligned}		
+			С_{DCMC} &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{\sum_{m=1}{M}p(y|x_m)p(x_m)}dy \\ 
 		                 &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2 p(y|x_m)dy \\  
-		                 &- \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\left[\sum_{m=1}^{M}p(y|x_m)p(x_m)\right]dy  \nonumber
-			\label{Cap_DCMC2}
-		  \end{align}	
+		                 &- \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\left[\sum_{m=1}^{M}p(y|x_m)p(x_m)\right]dy
+		  \end{aligned}	
+    	         \label{Cap_DCMC2}
+		\end{equation}
     </page>
    <page size="A5">
 	<header>
