@@ -111,6 +111,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-13`- Trevor Hastie, Robert Tibshirani, Jerome Friedman The Elements of Statistical Learning: Data Mining Inference, and Prediction. [【ссылка на PDF】](https://web.stanford.edu/~hastie/ElemStatLearn/)
  * `16-14` - К. В. Воронцов Лекции по методу опорных векторов. [【ссылка на PDF】](http://www.ccas.ru/voron/download/SVM.pdf)
  * `16-15` -  **Gilbert Strang** Linear Algebra and Learning from Data. ISBN: 9780692196380 [【ссылка на описание】](http://math.mit.edu/~gs/learningfromdata/)
+ * `16-16` - Jason D. M. Rennie Regularized Logistic Regression is Strictly Convex. [【ссылка на PDF】](http://www.qwone.com/~jason/writing/convexLR.pdf)
 
 # `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
