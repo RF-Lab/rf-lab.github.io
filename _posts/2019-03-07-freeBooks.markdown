@@ -2,7 +2,7 @@
 layout: post
 title:  Бесплатные книги по ИИ, анализу данных и визуализации от KDnuggets
 date:   2019-03-07 13:45:12
-categories: news, ML, AI
+categories: news
 ---
 ### Бесплатные книги по ИИ, анализу данных и визуализации от KDnuggets
 
