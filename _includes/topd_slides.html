@@ -476,7 +476,7 @@
 	</header>	
 		Определять y(p) экспериментально или аналитически неудобно. Вместо этого используем:
 		  \begin{equation}
-			p(y) = \sum_{m=1}{M}p(y|x_m)p(x_m)
+			p(y) = \sum_{k=1}{M}p(y|x_k)p(x_k)
 			\label{subst_py1}
 		  \end{equation}	
 		Подставляя (\ref{subst_py1}) в (\ref{Cap_DCMC1}):
@@ -484,7 +484,7 @@
 		\begin{aligned}		
 			С_{DCMC} &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{\sum_{m=1}^{M}p(y|x_m)p(x_m)}dy \\ 
 		                 &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2 p(y|x_m)dy \\  
-		                 &- \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\left[\sum_{m=1}^{M}p(y|x_m)p(x_m)\right]dy
+		                 &- \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\left[\sum_{k=1}^{M}p(y|x_k)p(x_k)\right]dy
 		  \end{aligned}	
     	         \label{Cap_DCMC2}
 		\end{equation}
