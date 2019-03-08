@@ -103,7 +103,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-3` - Trevor Hastie, Robert Tibshirani et al. **An Introduction to Statistical Learning with Applications in R**. [【ссылка на PDF】](http://www-bcf.usc.edu/~gareth/ISL/)
  * `16-3` - Allen B. Downey Think Stats: Probability and Statistics for Programmers. Green Tea Press. -2011.  [【ссылка на описание#1】](http://www.greenteapress.com/thinkstats/),  [【ссылка на описание#2】](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html 10-free-mustread-ml)
  * `16-5` - Ian Goodfellow and Yoshua Bengio and Aaron Courville. **Deep Learning**.  [【ссылка на описание】](http://www.deeplearningbook.org),  [【ссылка на русский перевод】](https://dmkpress.com/catalog/computer/data/978-5-97060-554-7/).
- * `16-6` - Mehryar Mohri Foundations of Machine Learning [【ссылка на описание】](http://www.cs.nyu.edu/~mohri/ml05/)
+ * `16-6` - Mehryar Mohri Foundations of Machine Learning, 2nd edition [【ссылка на описание】](https://cs.nyu.edu/~mohri/mlbook/), [【ссылка на PDF】](https://www.dropbox.com/s/7voitv0vt24c88s/10290.pdf?dl=1)
  * `16-7` - Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. [【ссылка на описание】](http://cs231n.stanford.edu/2017/)
  * `16-9` - Andrew Zisserman C19 Machine Learning lectures Hilary 2015. [【ссылка на описание】](http://www.robots.ox.ac.uk/~az/lectures/ml/index.html)
  * `16-10`- MIT 6.S191: Introduction to Deep Learning [【ссылка на описание】](http://introtodeeplearning.com/index.html)
