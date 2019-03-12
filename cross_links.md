@@ -22,6 +22,7 @@ permalink: /cross_links/
  * `3-9` - Alan Edelman, T.A. Arias, Steven T. Smith, The Geometry of Algorithms with Orthogonality Constraints. - Phys. Rev. Lett. 69, 1077 (1992). [【ссылка на PDF】](http://arxiv.org/abs/physics/9806030)
  * `3-10` - Philip Klein Coding the Matrix, Fall 2014. [【ссылка на мультимедиа ресурс】](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/).
  * `3-11` - Stephen Boyd and Lieven Vandenberghe Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares. [【ссылка на описание】](http://vmls-book.stanford.edu/), [【ссылка на PDF】](http://vmls-book.stanford.edu/vmls.pdf).
+ * `3-12` - Алберт А. Регрессия, псевдоинверсия и рекуррентное оценивание. М.: Наука, 1977. - 224 с. [【ссылка на описание】](https://www.elsevier.com/books/regression-and-the-moore-penrose-pseudoinverse/albert/978-0-12-048450-8).
 
 # `[10]` Теория управления/Теория систем
  * `10-1` - Воронов А.А. Теория автоматического управления. Теория линейных систем автоматического управления. Москва Высшая школа, 1977. -304c. [【ссылка на описание】](http://lib.mexmat.ru/books/98189)
