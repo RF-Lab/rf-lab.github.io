@@ -9,7 +9,7 @@ permalink: /research/
 ### На основе методов глубокого обучения 
 1. [Nils Ackermann Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences (https://blog.goodaudience.com)](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf).
 2. [Rita Laezza Deep Neural Networks
-for Myoelectric Pattern Recognition] (http://publications.lib.chalmers.se/records/fulltext/254980/254980.pdf)
+for Myoelectric Pattern Recognition](http://publications.lib.chalmers.se/records/fulltext/254980/254980.pdf)
 
 ### С использованием автокодирования
 1. [Marwa Farouk Ibrahim Ibrahim*
