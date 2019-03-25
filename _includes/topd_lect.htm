@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <style>
+		body {
+		  background: rgb(0,74,134); 
+		  background: repeating-linear-gradient(-60deg, rgb(230,230,230) 0,rgb(230,230,230)  1px, transparent 1px, transparent 5px);
+   		  counter-reset: page_num ;			
+		}
+		page {
+		  background: white;
+		  display: block;
+		  margin: .5cm auto;
+		  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+		}
+		page[size="A5"] {  
+		  width: 22cm;
+		  height: 14.8cm; 
+		}
+		page[size="A4"] {  
+		  width: 21cm;
+		  height: 29.7cm; 
+		}
+		page[size="A4"][layout="portrait"] {
+		  width: 29.7cm;
+		  height: 21cm;  
+		}
+		@media print {
+		  body, page {
+			margin: 0;
+			box-shadow: 0;
+		  }
+		}
+		header {			
+			padding: 0 0 0 0 ;
+			color: white;
+			background-color: rgb(0,130,200) ;
+			clear: bottom;
+			text-align: left;
+   		    counter-reset: page_num ;
+		}
+		
+		.header {
+			border:1px solid darkgray ;
+		}
+		.header .image {
+			background: url("https://pp.userapi.com/c629212/v629212097/12726/KO-KSydbMF8.jpg") no-repeat;
+			width: 100px;
+			height: 90px;
+			border:0px solid green;
+		}
+		.header .text {
+			font: x-large Times New Roman ;
+			border:0px solid blue;
+		}
+		.header .image, 
+		.header .text {
+			display: inline-block;
+			vertical-align: middle;
+		}
+		.body {
+			margin : 5px ;
+		}
+		.page_count :
+		{
+			width: 100px;
+			height: 90px;
+			content: "page"+counter(page_num) ;
+			counter-increment: page_num ;
+		}
+		.page_count .text {
+			border:2px solid white;
+			text-align: right;			
+			font: x-large Times New Roman ;
+		}
+	</style>
+	<script type="text/javascript" async
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>
+	<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+		TeX: { equationNumbers: { autoNumber: "AMS" } }
+		});
+	</script>
+</head>
+<body>
+
+    <page size="A4">
+		<header>
+			<div class="header">
+				<div class="text"><font size="6">Лекция 1.</font><font size="6">Энтропия дискретного источника.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+		Энтропия \(H\) дискретного источника может быть представлена в виде(\ref{Entropy}):
+		\begin{equation}
+			H = -K\sum_{i=1}^{n}p_i\log p_i
+		  \label{Entropy}
+		\end{equation}	
+		Для случая когда источник генерирует одно из двух возможных сообщений:
+		\begin{equation}
+			H = -K(p \log p + q\log q)
+		  \label{Entropy2}
+		\end{equation}	
+		</div>
+		<img src="http://www5a.wolframalpha.com/Calculate/MSP/MSP64881c1beadd87fgid890000641i4befa63ae3e7?MSPStoreType=image/gif&s=52&w=300.&h=183.&cdf=RangeControl" align="middle">
+
+		<div class="footer">1. C. E. Shannon, Bell Syst. Tech. J. 27, 379 (1948). </div>		
+   </page>
+
+    <page size="A4">
+	    <H1>Энтропия</H1>
+		Энтропия \(H(x,y)\) двух источников:
+		\begin{equation}
+			H(x,y) = -\sum_{i,j}p(i,j)\log p(i,j)
+		  \label{Entropyxy}
+		\end{equation}	
+		\begin{equation}
+			H(x) = -\sum_{i,j}p(i,j)\log \sum_{j} p(i,j)
+		  \label{Entropy_x}
+		\end{equation}	
+		\begin{equation}
+			H(y) = -\sum_{i,j}p(i,j)\log \sum_{i} p(i,j)
+		  \label{Entropy_y}
+		\end{equation}	
+		И
+		\begin{equation}
+			H(x,y) \leq H(x)+H(y)
+		\end{equation}	
+		Равенство \(H(x,y) = H(x)+H(y)\) выполняется когда \(x\) и \(y\) независимы.
+    </page>
+
+    <page size="A5">
+	    Вероятность того, что переменная \(y\) примет значение \(j\) при условии, что переменная \(x\) приняла значение \(i\):
+		\begin{equation}
+			p_i(j)=\frac{p(i,j)}{\sum_{j}p(i,j)}
+		\end{equation}			
+		Условная энтропия \(H_x(y)\) :
+		\begin{aligned}
+			H_x(y) = -\sum_{i,j}p(i,j)\log p_i(j)=-\sum_{i,j}p(i,j)\log \frac{p(i,j)}{\sum_{j}p(i,j)}= \\
+			-\sum_{i,j}p(i,j)\log p(i,j)+\sum_{i,j}p(i,j)\log \sum_{j}p(i,j)=\\
+			H(x,y)-H(x)
+		\end{aligned}	
+	    Таким образом
+		\begin{equation}
+			H(x,y) = H_x(y) + H(x)
+		\end{equation}					
+		Условная энтропия показывает меру неопределенности \(y\) при условии, что \(x\) известно.
+		\begin{equation}
+			H(x)+H(y) \geq H(x,y)=H_x(y) + H(x) \\
+		\end{equation}					
+		\begin{equation}
+			H(y) \geq H_x(y)
+		\end{equation}					
+    </page>
+
+</body>
+</html>
