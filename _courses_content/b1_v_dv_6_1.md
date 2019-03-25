@@ -12,7 +12,7 @@ title: Теория обработки и передачи данных
 
 # 8 семестр 
 72 часа, 8 ч. лаб., зачет.
- * `CAP` - Слайды по математической теории теории информации. [MARKDOWN](topd_slides_stub),[HTML](topd_slides.html)
+ * `CAP` - Слайды по математической теории теории информации. [【ссылка на html】](topd_slides_stub).
  * `ЛР1` - Лабораторная работа "Реализация процедуры помехоустойчивого кодирования на основе линейного блочного кода Хэмминга."
- * `ЛР2` - Лабораторная работа "Реализация процедуры обнаружения сигнала GPS." [DOC](https://github.com/estel1/it6/blob/master/course_materials_umk/lab1_topd.docx?raw=true), [PDF](https://github.com/estel1/it6/blob/master/course_materials_umk/lab1_topd.pdf)
+ * `ЛР2` - Лабораторная работа "Реализация процедуры обнаружения сигнала GPS." [【ссылка на DOC】](https://github.com/estel1/it6/blob/master/course_materials_umk/lab1_topd.docx?raw=true), [【ссылка на PDF】](https://github.com/estel1/it6/blob/master/course_materials_umk/lab1_topd.pdf)
 
