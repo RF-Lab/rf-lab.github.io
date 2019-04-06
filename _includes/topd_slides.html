@@ -528,14 +528,14 @@
 		  \begin{equation}
 		  \begin{aligned}
 			& С_{DCMC} = \\
-		         &  \sum_{m=1}^{M} \frac{p(x_m)}{\sigma_{\varepsilon}^2 2\pi} \int\limits_{Y}\left[\exp\left[\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right] \log_2 \left( \frac{1}{\sigma_{\varepsilon}^2 2\pi}\exp\left[\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right] \right) \right] dy \\  
-		       - &  \sum_{m=1}^{M} \frac{p(x_m)}{\sigma_{\varepsilon}^2 2\pi}\int\limits_{Y}\left[\exp\left(\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right) \log_2\left[\sum_{k=1}^{M}\frac{1}{\sigma_{\varepsilon}^2 2\pi}\exp\left[\frac{(y-x_k)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right]p(x_k)\right]\right]dy 
+		         &  \sum_{m=1}^{M} \frac{p(x_m)}{\sigma_{\varepsilon}^2 2\pi} \int\limits_{Y}\left[\exp\left[-\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right] \log_2 \left( -\frac{1}{\sigma_{\varepsilon}^2 2\pi}\exp\left[\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right] \right) \right] dy \\  
+		       - &  \sum_{m=1}^{M} \frac{p(x_m)}{\sigma_{\varepsilon}^2 2\pi}\int\limits_{Y}\left[\exp\left(-\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right) \log_2\left[\sum_{k=1}^{M}\frac{1}{\sigma_{\varepsilon}^2 2\pi}\exp\left[-\frac{(y-x_k)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right]p(x_k)\right]\right]dy 
 		  \end{aligned}	
 	          \label{Cap_DCMC3}
 		  \end{equation}
 		\(Y\)-комплексное, но подинтегральное выражение действительное. Тогда интеграл можно вычислять в виде:
 		  \begin{equation}
-		     \int\limits_{Y}\exp\left[\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right]\ldots = \int\limits_{Re(Y)}\int\limits_{Im(Y)}\exp\left[\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right]\ldots
+		     \int\limits_{Y}\exp\left[-\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right]\ldots = \int\limits_{Re(Y)}\int\limits_{Im(Y)}\exp\left[\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right]\ldots
 		  \end{equation}
 		
     </page>	   
