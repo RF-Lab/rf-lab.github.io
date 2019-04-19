@@ -92,7 +92,12 @@
 			</div>		
 		</header>
 		<div class="body">
-		Рассмотрим вектор
+		Плотность распределения одномерной гауссовой СВ:
+		\begin{equation}
+			p(x)=\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left(-\frac{(x-m_x)^2}{2\sigma_{\varepsilon}^2}\right)
+			\label{gauss}
+		 \end{equation}		
+		Рассмотрим вектор \(\vec{x})\ содержищий две случайных гауссовых величины
 		\begin{equation}
 		  x = \left( 
 		    \begin{pmatrix}
@@ -103,91 +108,18 @@
 		  \label{RandomVector2}	
 		\end{equation}	
 		
-		Рассмотрим дискретное множество \(\Omega\)[<a href="#Kolmogorov1">Kolmogorov1</a>],[<a href="#Boss1">Boss1</a>],[<a href="#Grimmet1">Grimmet1</a>]. Каждому элементу \(\omega_i\in\Omega\) 
-		поставим в соответствие число 		\(p_i\in[0\ldots1]\) таким образом, чтобы \(\sum\limits_{p_i\in\Omega}p_i = 1\). 
-		Тогда любое подмножество \(A\in\Omega\)	называется случайным событием \(A\), а величина \(p(A)=\sum\limits_{p_i\in A}p_i \) есть вероятность случайного события \(A\).
-		</div>
-	        <ol>
-  			<li id="Kolmogorov1">А.Н. Колмогоров Основные понятия теории вероятностей. -Ленанд. 2018г.</li>
-  			<li id="Boss1">В. Босс Лекции по математике: вероятность, информация, статистика. Т. 4 </li>
-			<li id="Grimmet1"> Geoffrey R. Grimmett David R. Stirzaker Probability And Random Processes. Oxford University Press. 2004 </li>
-		</ol>
    </page>
 	
     <page size="A4">
-		<header>
-			<div class="header">
-				<div class="text"><font size="6">Лекция 2.</font><font size="6">Энтропия дискретного источника.</font></div>
-			</div>		
-		</header>
-		<div class="body">
-	        Рассмотрим два текстовых файла: первый файл содержит произвольные случайные символы.  Второй файл содержит лишь 
-	        символы <code>A</code> и <code>B</code> в произвольном порядке. Каждый файл содержит <code>1000</code> символов.
-		Каждый символ представляется байтовым значением <code>0..255</code>. Объем второго файла можно значительно сократить,
-		если использовать лишь один бит для представления символов <code>A</code> и <code>B</code>. Например, символ <code>A</code>
-	        представляется значением <code>0</code>, а символ <code>B</code> - значением <code>1</code>. В этом случае объем второго 
-		файла будет равен <code>1000</code> бит. А объем первого файла составляет по-прежнему <code>8000</code> бит. На основании этого 
-		примера можно определить количество информации в файле как минимальный размер такого файла позволяющий сохранить всю информацию 
-		без потерь. 
-	        Рассмотрим второй пример: Файл содержит символы <code>A,B,C,D</code> в произвольном порядке, при этом количество символов
-		<code>A-500</code>, количество символов <code>B-480</code>, количество символов <code>С-15</code> и количество символов 
-		<code>D-5</code>. Необходимо определить количество информации в файле. Так как количество различных символов равно 4, то 
-		для их представления требуется 2 бита на символ. В этом случае размер файла составляет <code>4*1000=4000</code> бит. Этот 
-		формат представления не является оптимальным так как никак не учитывает, что количество символов <code>A и B</code> 
-		значительно превышает количество символов <code>C и D</code>. Вместо поиска оптимального правила для хранения такого набора 
-		символов используем вероятностное описание. Будем рассматривать факт появления каждого из символов <code>A,B,C,D</code> как
-		наступление одного из четырех случайных событий \(A, B, C, D\) с вероятностями \(p(A)=\frac{500}{1000}\), \(p(B)=\frac{480}{1000}\),
-		\(p(C)=\frac{15}{1000}\) и \(p(D)=\frac{5}{1000}\), составляющими полную группу. Определим количество информации необходимое для
-		хранения каждого из четырех типов символов. Символ <code>A</code> появляется в файле с вероятностью \(p(A)=0.5\). Если рассматривать 
-		такой символ отдельно, то соответсвующая ему полная группа равновероятных событий будет содержать два события: \(A\) и не-\(A\). 
-		Количество бит необходимое для представления элемента такой группы равно 1. Но используется такой символ
-		с вероятностью \(0.5\), т.е. в среднее количество бит для представления этого символа без потерь равно \(0.5\). Полная
-		группа несовместных событий для второго символа содержит дробное количество элементов \(\frac{1000}{480}\). Понимать
-		это следует "в среднем". Т.е. в большинстве случаев эта группа состоит из двух элементов, но иногда из трех. Среднее количество
-		бит для этого символа \(\log_2\left(\frac{1000}{480}\right)\), но сспользоваться такой символ будет с вероятностью \(p(B)=\frac{480}{1000}\). 
-		Поэтому окончательно для символа \(B\) получаем \(\frac{480}{1000}\log_2\left(\frac{1000}{480}\right)\). Общее количество информации
-		в этом файле: \(\left[\frac{500}{1000}\log_2\left(\frac{1000}{500}\right) + \frac{480}{1000}\log_2\left(\frac{1000}{480}\right) 
-			+ \frac{15}{1000}\log_2\left(\frac{1000}{15}\right) + \frac{5}{1000}\log_2\left(\frac{1000}{5}\right) \right]\times1000=1137.37165703039 \)
-		</div>
+	<header>
+		<div class="header">
+			<div class="text"><font size="6">Лекция 2.</font><font size="6">Энтропия дискретного источника.</font></div>
+		</div>		
+	</header>
+	<div class="body">
+	</div>
    </page>
 
-    <page size="A4">
-    <div class="body">
-	Обобщая на произвольный размер алфавита, информационная энтропия (количество информации) дискретного источника может быть представлена в виде(\ref{Entropy}):
-	\begin{equation}
-		H = \sum_{i=1}^{n}p_i\log_2\frac{1}{p_i}=-\sum_{i=1}^{n}p_i\log_2 p_i
-	  \label{Entropy}
-	\end{equation}	
-	<img src="data:image/jpeg;base64,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" align="middle">
-	<ol>
-		<li id="Shannon">C. E. Shannon, Bell Syst. Tech. J. 27, 379 (1948).</li>
-	</ol>
-    </div>
-    </page>
-
-    <page size="A5">
-	    Вероятность того, что переменная \(y\) примет значение \(j\) при условии, что переменная \(x\) приняла значение \(i\):
-		\begin{equation}
-			p_i(j)=\frac{p(i,j)}{\sum_{j}p(i,j)}
-		\end{equation}			
-		Условная энтропия \(H_x(y)\) :
-		\begin{aligned}
-			H_x(y) = -\sum_{i,j}p(i,j)\log p_i(j)=-\sum_{i,j}p(i,j)\log \frac{p(i,j)}{\sum_{j}p(i,j)}= \\
-			-\sum_{i,j}p(i,j)\log p(i,j)+\sum_{i,j}p(i,j)\log \sum_{j}p(i,j)=\\
-			H(x,y)-H(x)
-		\end{aligned}	
-	    Таким образом
-		\begin{equation}
-			H(x,y) = H_x(y) + H(x)
-		\end{equation}					
-		Условная энтропия показывает меру неопределенности \(y\) при условии, что \(x\) известно.
-		\begin{equation}
-			H(x)+H(y) \geq H(x,y)=H_x(y) + H(x) \\
-		\end{equation}					
-		\begin{equation}
-			H(y) \geq H_x(y)
-		\end{equation}					
-    </page>
 
 </body>
 </html>
