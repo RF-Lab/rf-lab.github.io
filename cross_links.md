@@ -96,7 +96,6 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `15-9` - Steven M. Kay Fundamentals of Statistical Signal Processing, Volume III: Practical Algorithm Development. Prentice Hall, 2013. [【ссылка на PDF】](http://ptgmedia.pearsoncmg.com/images/9780132808033/samplepages/013280803X.pdf).
  * `15-10` - Dimitri P. Bertsekas, John N. Tsitsiklis  Introduction to Probability, 2nd Edition [【ссылка на мультимедиа ресурс】](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/).
  * `15-11` - David MacKay. Information Theory, Inference, and Learning Algorithms [【ссылка на PDF】](http://www.inference.org.uk/itprnn/book.pdf), [【ссылка на мультимедиа ресурс】](http://videolectures.net/course_information_theory_pattern_recognition/).
- * `15-12` - Richard S. Sutton and Andrew G. Barto Reinforcement Learning: An Introduction, 2nd edition [【ссылка на описание】](http://incompleteideas.net/book/the-book-2nd.html) [【ссылка на PDF】](http://incompleteideas.net/book/RLbook2018.pdf)
  * `15-13` - Чернова Н. И. Теория вероятностей: Учеб. пособие / Новосиб. гос. ун-т. Новосибирск, 2007. 160 с. [【ссылка на описание】](https://nsu.ru/mmf/tvims/chernova/tv/index.html)
 
 # `[16]` Анализ многомерных данных. Методы классификации.
@@ -115,6 +114,8 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-14` - К. В. Воронцов Лекции по методу опорных векторов. [【ссылка на PDF】](http://www.ccas.ru/voron/download/SVM.pdf)
  * `16-15` -  **Gilbert Strang** Linear Algebra and Learning from Data. ISBN: 9780692196380 [【ссылка на описание】](http://math.mit.edu/~gs/learningfromdata/)
  * `16-16` - Jason D. M. Rennie Regularized Logistic Regression is Strictly Convex. [【ссылка на PDF】](http://www.qwone.com/~jason/writing/convexLR.pdf)
+ * `16-17` - Richard S. Sutton and Andrew G. Barto Reinforcement Learning: An Introduction, 2nd edition [【ссылка на описание】](http://incompleteideas.net/book/the-book-2nd.html) [【ссылка на PDF】](http://incompleteideas.net/book/RLbook2018.pdf)
+
 
 # `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
