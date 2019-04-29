@@ -150,10 +150,18 @@
     <page size="A4">
 	<header>
 		<div class="header">
-			<div class="text"><font size="6">Лекция 2.</font><font size="6">Метод максимального правдоподобия.</font></div>
+			<div class="text"><font size="6">Лекция 2.</font><font size="6"><Байесовский классификатор.</font></div>
 		</div>		
 	</header>
 	<div class="body">
+	<p>
+	Рассмотрим задачу классификации. В качестве критерия качества \(P\) будем использовать:
+	\begin{equation}
+		P_{class}=\frac{1}{n}\sum\limits_{i=1}^{n}I\left(y_i\ne\hat{y}_i\right)
+		\label{pclass}
+	 \end{equation}		
+	</p>
+		
 	Метод максимального правдоподобия определяет способ оценки неизвестного параметра \(x\) на основе имеющихся наблюдений \(\vec{y}\) и 
 	совместной вероятности \(p(x,\vec{y})\). В качестве оценки максимального правдоподобия принимается значение максимизирующее вероятность
 	\(p(x,\vec{y})\) для заданных наблюдений \(\vec{y}\).
@@ -187,6 +195,7 @@
 	<H1>Список литературы.</H1> 
 	<p>
 	<ol>
+	  <li><a name="ISL1"></a> 				<a href="http://www-bcf.usc.edu/~gareth/ISL/">Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R. </a> </li>
 	  <li><a name="CourseraBayesClassifier"></a> 		<a href="https://ru.coursera.org/lecture/supervised-learning/baiiesovskaia-klassifikatsiia-sodierzhaniie-uroka-6Qh0L">Байесовская классификация. - Coursera. Машинное обучение и анализ данных. </a> </li>
 	  <li><a name="CourseraNaiveBayesClassifier"></a> 	<a href="https://ru.coursera.org/lecture/supervised-learning/spam-fil-try-i-naivnyi-baiiesovskii-klassifikator-8RMf8">Спам-фильтры и наивный байесовский классификатор. - Coursera. Машинное обучение и анализ данных. </a> </li>
 	</ol>			
