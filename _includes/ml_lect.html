@@ -171,16 +171,7 @@
 	Можно доказать, что для минимизации критерия (\ref{pclass}) следует выбирать такой номер класса \(k\), для которого
 	условная вероятность \(p_k\left(y_i=k|\vec{x_i}\right)\) была максимальной среди всех классов \(k\in 1\ldots K\) [<a href="#ISL1">ISL1</a>].
 	Такой алгоритм классификации называется Байесовским классификатором.
-	</p>	
-	Метод максимального правдоподобия определяет способ оценки неизвестного параметра \(x\) на основе имеющихся наблюдений \(\vec{y}\) и 
-	совместной вероятности \(p(x,\vec{y})\). В качестве оценки максимального правдоподобия принимается значение максимизирующее вероятность
-	\(p(x,\vec{y})\) для заданных наблюдений \(\vec{y}\).
-	\begin{equation}
-		\hat{x} = \arg \max_{x}\left( p(x,\vec{y}) \right)
-	  \label{MaximumLikelihood}
-	\end{equation}	
-	В роли \(x\) может выступать неслучайная величина, например, параметр распределения: математическое ожидание или дисперсия.
-		
+	</p>			
 	<H1>Список литературы.</H1> 
 	<p>
 	<ol>
@@ -236,11 +227,31 @@
     <page size="A4">
 	<header>
 		<div class="header">
-			<div class="text"><font size="6">Лекция 2.</font><font size="6">Энтропия дискретного источника.</font></div>
+			<div class="text"><font size="6">Лекция 3.</font><font size="6">Метод максимума правдоподобия.</font></div>
 		</div>		
 	</header>
 	<div class="body">
+	<p>
+	Метод максимального правдоподобия определяет способ оценки неизвестного параметра \(x\) на основе имеющихся наблюдений \(\vec{y}\) и 
+	совместной вероятности \(p(x,\vec{y})\). В качестве оценки максимального правдоподобия принимается значение максимизирующее вероятность
+	\(p(x,\vec{y})\) для заданных наблюдений \(\vec{y}\).
+	\begin{equation}
+		\hat{x} = \arg \max_{x}\left( p(x,\vec{y}) \right)
+	  \label{MaximumLikelihood}
+	\end{equation}	
+	В роли \(x\) может выступать неслучайная величина, например, параметр распределения: математическое ожидание или дисперсия.
+	</p>
+	
+	<H1>Список литературы.</H1> 
+	<p>
+	<ol>
+	  <li><a name="ISL1"></a> 				<a href="http://www-bcf.usc.edu/~gareth/ISL/">Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R. стр. 37.</a> </li>
+	  <li><a name="CourseraBayesClassifier"></a> 		<a href="https://ru.coursera.org/lecture/supervised-learning/baiiesovskaia-klassifikatsiia-sodierzhaniie-uroka-6Qh0L">Байесовская классификация. - Coursera. Машинное обучение и анализ данных. </a> </li>
+	  <li><a name="CourseraNaiveBayesClassifier"></a> 	<a href="https://ru.coursera.org/lecture/supervised-learning/spam-fil-try-i-naivnyi-baiiesovskii-klassifikator-8RMf8">Спам-фильтры и наивный байесовский классификатор. - Coursera. Машинное обучение и анализ данных. </a> </li>
+	</ol>			
+	</p>
 	</div>
+	
    </page>
 
 
