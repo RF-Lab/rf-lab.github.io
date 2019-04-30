@@ -173,7 +173,11 @@
 	Такой алгоритм классификации называется Байесовским классификатором.
 	</p>
 	На практике оценивать \(p_k\left(y_i=k|\vec{x_i}\right)\) по обучающей выборке неудобно [<a href="#CourseraBayesClassifier">Coursera1</a>]. Вместо этого оценивают
-	\(p_i\left(\vec{x_i}|y_i=k\right)\).
+	\(p_i\left(\vec{x_i}|y_i=k\right)\). Затем, пользуясь формулой Байеса, получают вероятность \(p_k\).
+	\begin{equation}
+		p_k\left(y_i=k|\vec{x_i}\right) = \(p_i\left(\vec{x_i}|y_i=k\right)\)
+		\label{Bayes1}
+	 \end{equation}		
 	<H1>Список литературы.</H1> 
 	<p>
 	<ol>
