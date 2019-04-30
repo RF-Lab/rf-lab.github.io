@@ -209,22 +209,25 @@
 		</div>		
 	</header>
 	<div class="body">
-	Рассмотрим набор данных \(E\) состоящий из случайных векторов \(x_i\)
+	<p>
+	Рассмотрим набор данных \(E\) состоящий из случайных векторов \(x_i\), \(i\in 1\ldots n\)
 	\begin{equation}
-	  \vec{x} = 
+	  \vec{x_i} = 
 	    \begin{pmatrix}
-		x_1 \\
-		x_2 \\
+		x_{1,i} \\
+		x_{2,i} \\
 		\ldots \\
-		x_D
+		x_{D,i}
 	    \end{pmatrix}
 	  \label{RandomVector2}	
 	\end{equation}	
 	распределение которых задано с помощью многомерной гауссовой плотности:
 	\begin{equation}
-		p(\vec{x})=\frac{1}{(2\pi)^\frac{K}{2}\Sigma^\frac{1}{2}}\exp\left[-\frac{1}{2}\left(\vec{x}-\vec{\mu_x}\right)^H\Sigma^{-1}\left(\vec{x}-\vec{\mu_x}\right)\right]
+		p(\vec{x_i})=\frac{1}{(2\pi)^\frac{K}{2}|\Sigma|^\frac{1}{2}}\exp\left[-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^H\Sigma^{-1}\left(\vec{x}-\vec{\mu_x}\right)\right]
 		\label{vgauss}
-	 \end{equation}		
+	 \end{equation}
+	Каждому вектору \(x_i\) поставлено в соответствие целое число \(t_i\in 1,\ldots K\), обозначающее номер класса. 
+	</p>
 	<H1>Список литературы.</H1> 
 	<p>
 	<ol>
