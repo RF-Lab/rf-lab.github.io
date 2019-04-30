@@ -17,6 +17,11 @@
 		  display: block;
 		  margin: .5cm auto;
 		  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+	          counter-increment: page ;
+		  @bottom-right {
+			  padding-right:20px ;
+			  content: "Page " counter(page) ;
+		      }			
 		}
 		page[size="A5"] {  
 		  width: 22cm;
