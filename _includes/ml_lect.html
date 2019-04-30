@@ -12,6 +12,10 @@
 		  padding-left: 	10px ;
 		  padding-right: 	10px ;
 	        }
+		H1::before {
+		  counter-increment: section ;
+		  content: "Section " counter(section) ": " ;
+		}	    
 		page {
 		  background: white;
 		  display: block;
