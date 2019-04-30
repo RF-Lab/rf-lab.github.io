@@ -5,7 +5,6 @@
 		body {
 		  background: rgb(0,74,134); 
 		  background: repeating-linear-gradient(-60deg, rgb(230,230,230) 0,rgb(230,230,230)  1px, transparent 1px, transparent 5px);
-   		  counter-reset: page_num ;			
          	  font: large Times New Roman ;
 		  text-align: justify ;
 		}
@@ -43,7 +42,6 @@
 			background-color: rgb(0,130,200) ;
 			clear: bottom;
 			text-align: left;
-   		    counter-reset: page_num ;
 		}
 		
 		.header {
@@ -66,18 +64,6 @@
 		}
 		.body {
 			margin : 5px ;
-		}
-		.page_count :
-		{
-			width: 100px;
-			height: 90px;
-			content: "page"+counter(page_num) ;
-			counter-increment: page_num ;
-		}
-		.page_count .text {
-			border:2px solid white;
-			text-align: right;			
-			font: x-large Times New Roman ;
 		}
 	</style>
 	<script type="text/javascript" async
