@@ -209,23 +209,18 @@
 		</div>		
 	</header>
 	<div class="body">
-	Плотность распределения одномерной гауссовой СВ:
-	\begin{equation}
-		p(x)=\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left(-\frac{(x-m_x)^2}{2\sigma_{\varepsilon}^2}\right)
-		\label{gauss}
-	 \end{equation}		
-	Рассмотрим вектор \(\vec{x}\) содержищий \(K\) случайных гауссовых величин
+	Рассмотрим набор данных \(E\) состоящий из случайных векторов \(x_i\)
 	\begin{equation}
 	  \vec{x} = 
 	    \begin{pmatrix}
 		x_1 \\
 		x_2 \\
 		\ldots \\
-		x_K
+		x_D
 	    \end{pmatrix}
 	  \label{RandomVector2}	
 	\end{equation}	
-	Плотность распределения многомерной гауссовой СВ:
+	распределение которых задано с помощью многомерной гауссовой плотности:
 	\begin{equation}
 		p(\vec{x})=\frac{1}{(2\pi)^\frac{K}{2}\Sigma^\frac{1}{2}}\exp\left[-\frac{1}{2}\left(\vec{x}-\vec{\mu_x}\right)^H\Sigma^{-1}\left(\vec{x}-\vec{\mu_x}\right)\right]
 		\label{vgauss}
