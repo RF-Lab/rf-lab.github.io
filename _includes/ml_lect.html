@@ -16,6 +16,8 @@
 		  counter-increment: section ;
 		  content: "Section " counter(section) ": " ;
 		}	    
+		@page { counter-increment: page; size: auto;  margin: 12mm 12mm 12mm 25mm; color:#000 !important; } 
+		@page { @bottom-right { content: counter(page) " of " counter(pages); } }	    
 		page {
 		  background: white;
 		  display: block;
