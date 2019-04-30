@@ -18,8 +18,6 @@
 		  margin: .5cm auto;
 		  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
 		}
-	    	@page { counter-increment: page }
-		@page { @bottom-right { content: counter(page) " of " counter(pages); } }		
 	        page[size="A5"] {  
 		  width: 22cm;
 		  height: 14.8cm; 
@@ -67,6 +65,20 @@
 		.body {
 			margin : 5px ;
 		}
+	    
+		#content {
+		    display: table;
+		}
+
+		#pageFooter {
+		    display: table-footer-group;
+		}
+
+		#pageFooter:after {
+		    counter-increment: page;
+		    content: counter(page);
+		}	    
+	    
 	</style>
 	<script type="text/javascript" async
 		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
