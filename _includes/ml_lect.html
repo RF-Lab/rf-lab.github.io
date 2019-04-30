@@ -214,19 +214,20 @@
 	\begin{equation}
 	  \vec{x_i} = 
 	    \begin{pmatrix}
-		x_{1,i} \\
-		x_{2,i} \\
+		x_{1} \\
+		x_{2} \\
 		\ldots \\
-		x_{D,i}
+		x_{D}
 	    \end{pmatrix}
 	  \label{RandomVector2}	
 	\end{equation}	
 	распределение которых задано с помощью многомерной гауссовой плотности:
 	\begin{equation}
-		p(\vec{x_i})=\frac{1}{(2\pi)^\frac{K}{2}|\Sigma|^\frac{1}{2}}\exp\left[-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^H\Sigma^{-1}\left(\vec{x}-\vec{\mu_x}\right)\right]
+		p(\vec{x_i},k)=\frac{1}{(2\pi)^\frac{D}{2}|\Sigma|^\frac{1}{2}}\exp\left[-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^H\Sigma_k^{-1}\left(\vec{x}-\vec{\mu_k}\right)\right]
 		\label{vgauss}
 	 \end{equation}
-	Каждому вектору \(x_i\) поставлено в соответствие целое число \(t_i\in 1,\ldots K\), обозначающее номер класса. 
+	Каждому вектору \(x_i\) поставлено в соответствие целое число (метка, label, target) \(k\in 1,\ldots K\), обозначающее номер класса, которое определяет вектор математического 
+	ожидания \(\mu_k\) и корреляционную матрицу \(\Sigma_k\) для \(k\)-го класса.
 	</p>
 	<H1>Список литературы.</H1> 
 	<p>
