@@ -6,12 +6,16 @@ permalink: /research/
 
 ## Разработка программно-математических средств для распознавания сигналов электромиографии. 
 
-### На основе методов глубокого обучения 
+### На основе методов глубокого обучения
+Цель: Определение структуры нейронной сети для распознавания сигналов ЭМГ. 
+В основе данного исследования должна лежать какая-то гипотеза о структуре сигнала ЭМГ или о способе его формирования. 
+Полагаясь на эту гипотезу можно предположить сколько необходимо иметь слоев, какие должны быть слои и т.п.
 1. [Nils Ackermann Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences (https://blog.goodaudience.com)](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf).
 2. [Rita Laezza Deep Neural Networks
 for Myoelectric Pattern Recognition](http://publications.lib.chalmers.se/records/fulltext/254980/254980.pdf)
 
 ### С использованием автокодирования
+Цель: поиск Bottleneck вектора (вектора классификационных признаков) для сигнала ЭМГ. Такой вектор может быть получен путем некоторого преобразования входного сигнала ЭМГ, в данном случае это преобразование выполняет многослойная нейронная сеть. 
 1. [Marwa Farouk Ibrahim Ibrahim*
 , Adel Ali Al-Jumaily](https://www.astesj.com/publications/ASTESJ_030111.pdf).
 2. [Martin Sp¨uler Extracting Muscle Synergy Patterns from EMG
@@ -23,18 +27,24 @@ Data Using Autoencoders](https://www.researchgate.net/publication/306081011_Extr
 to EMG Gesture Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7555990)
 
 ### Классификация EMG с использованием Ensemble Classifiers
+Сейчас нет информации по этому направлению.
 
 ### На основе математических моделей EMG сигнала
+Определение классификационных признаков на основе математической модели сигнала ЭМГ.
 D. Farina ; A. Crosetti ; R. Merletti A model for the generation of synthetic intramuscular EMG signals to test decomposition algorithms. [link](https://ieeexplore.ieee.org/document/900250)
+
+### Мокрая биология
+Имеется в виду работа с оборудованием для ЭМГ. На защиту может выноситься только в составе работы, железячников наша кафедра не выпускает!
+1. Анализ мышечной усталости. Проведение серии экспериментов во времени по измерению ЭМГ сигнала без перемещения электродов.
+Идеальный результат - построение примерной модели которая может объяснять изменения в ЭМГ вследствие нагрузки на мышцу. Еще лучше если удастся это скомпенсировать.
+2. Анализ зависимости ЭМГ сигнала от человека. Проведение серии экспериментов на разных людях. необходимо правильно организовать 
+эксперимент. Цель -поиск классификационных признаков независящих от человека.
 
 ### EMG signal processing platform
 [EMG signal processing platform](https://github.com/RF-Lab/emg_platform)
 
 ## Обнаружение шумоподобных сигналов на основе методов параметрического спектрального анализа 
 Процедура обнаружения сигнала в системах с кодовым разделением доступа (пример- GPS, CDMA) является одной из наиболее затратных составляющих частей современного цифрового приемника. Использование авторегрессионных моделей вместо традиционных алгоритмов на основе метода максимального правдоподобия позволяет существенно снизить вычислительные затраты и продлить время автономной работы мобильных беспроводных устройств.
-
-## Разработка программных средств для оценки производительности беспроводной системы передачи данных на канальном и физическом уровнях (Link level simulator) 
-Разрабатываемый симулятор физического уровня беспроводной сети передачи данных позволит производить сравнение эффективности алгоритмов распределения ресурсов, оценки канала, MIMO декодирования и т.п. в соответствии со стандартом LTE/LTE-A для различных условий распространения сигнала.
 
 ## Реализация системы передачи данных на базе CMOS сенсора
 Takaya Yamazato, Image-Sensor-Based Visible Light Communication for Automotive Applications. - [VISIBLE LIGHT COMMUNICATIONS, IEEE Communications Magazine, July 2014]( http://www.comsoc.org/files/Publications/Tech%20Focus/2015/auto/1.pdf)www.comsoc.org
@@ -43,6 +53,3 @@ Takaya Yamazato, Image-Sensor-Based Visible Light Communication for Automotive A
 [Implementing Positioning Algorithms Using
 Accelerometers, freescale](http://cache.freescale.com/files/sensors/doc/app_note/AN3397.pdf?fsrch=1&sr=2)
 
-## Дополнительные темы (пока не берем, но можно и взять) ==
-[wiki:Nonlinear_channel_model Построение модели в пространстве состояний для нелинейного канала связи.] [[BR]]
-Разработка аппаратной платформы и программных средств для создания радара непрерывного действия (FMCW).
