@@ -28,6 +28,8 @@ Roberto Merletti Dario Farina    Surface Electromyography : Physiology, Engineer
 Цель: Определение структуры нейронной сети для распознавания сигналов ЭМГ. 
 В основе данного исследования должна лежать какая-то гипотеза о структуре сигнала ЭМГ или о способе его формирования. 
 Полагаясь на эту гипотезу можно предположить сколько необходимо иметь слоев, какие должны быть слои и т.п.
+Пример гипотезы: можно обучить сеть на одном человеке и получить универсальный до некоторой степени набор признаков (bottleneck).
+Для использования этой сети на другом человеке необходимо лишь переобучить выходной слой - softmax или SVM.
 1. [Nils Ackermann Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences (https://blog.goodaudience.com)](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf).
 2. [Rita Laezza Deep Neural Networks
 for Myoelectric Pattern Recognition](http://publications.lib.chalmers.se/records/fulltext/254980/254980.pdf)
