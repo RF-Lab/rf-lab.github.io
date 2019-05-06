@@ -8,8 +8,11 @@ permalink: /research/
 
 ### Что такое электромиография и зачем она нужна
 [Распознавание жестов (биотехнические интерфейсы)](https://www.youtube.com/watch?v=mkEL9Fm22J4)
+
 [Распознавание с помощью старого красного носка и NVidia Tegra](https://www.youtube.com/watch?v=OY_BMnhqeok)
+
 [В спорте](https://www.youtube.com/watch?v=Ix561IWFEso)
+
 Вы можете найти кучу аналогичных примеров.
 
 ### Книги 
