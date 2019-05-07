@@ -21,6 +21,9 @@ Roberto Merletti Dario Farina    Surface Electromyography : Physiology, Engineer
 ### Google, Youtube, Yandex и т.п.
 Ищите EMG Gesture recognition
 
+### Capacitive EMG (бесконтактная ЭМГ для одежды)
+[Parin Dedhia (prd47), Roland Krieger (rk447), Nini Munoz (nlm9) CAPACITIVELY COUPLED EMG ELECTRODES WITH FINGER GESTURE RECOGNITION](https://people.ece.cornell.edu/land/courses/ece5030/FinalProjects/s2013/prd47_nlm9_rk447/Capacitive%20EMG%20electrode/CapacitiveEMGElectrode.html)
+
 ### На основе метода опорных векторов
 Эта тема самая популярная на нашей кафедре. Но настал момент двигаться дальше. 
 
