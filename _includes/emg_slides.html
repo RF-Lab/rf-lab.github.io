@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <style>
+		body {
+		  background: rgb(0,74,134); 
+   		  counter-reset: page_num ;			
+		}
+		page {
+		  background: white;
+		  display: block;
+		  margin: .5cm auto;
+		  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+		}
+		page[size="A5"] {  
+		  width: 22cm;
+		  height: 14.8cm; 
+		}
+		page[size="A4"] {  
+		  width: 21cm;
+		  height: 29.7cm; 
+		}
+		page[size="A4"][layout="portrait"] {
+		  width: 29.7cm;
+		  height: 21cm;  
+		}
+		@media print {
+		  body, page {
+			margin: 0;
+			box-shadow: 0;
+		  }
+		}
+		header {			
+			padding: 0 0 0 0 ;
+			color: white;
+			background-color: rgb(0,130,200) ;
+			clear: bottom;
+			text-align: left;
+   		    counter-reset: page_num ;
+		}
+		
+		.header {
+			border:1px solid darkgray ;
+		}
+
+		.header .image {
+			background: url("https://ikbsp.ru/uploads/images/mgupi.png") no-repeat;
+			background-size: 90px;
+			width: 100px;
+			height: 90px;
+			border:0px solid green;
+		}
+
+		.header .text {
+			font: x-large Times New Roman ;
+			border:0px solid blue;
+		}
+
+		.header .image, 
+		.header .text {
+			display: inline-block;
+			vertical-align: middle;
+		}
+		.body {
+			margin : 5px ;
+		}
+		.page_count :
+		{
+			width: 100px;
+			height: 90px;
+			content: "page"+counter(page_num) ;
+			counter-increment: page_num ;
+		}
+		.page_count .text {
+			border:2px solid white;
+			text-align: right;			
+			font: x-large Times New Roman ;
+		}
+	</style>
+	<script type="text/javascript" async
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>
+	<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+		TeX: { equationNumbers: { autoNumber: "AMS" } }
+		});
+	</script>
+</head>
+<body>
+
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">Entropy</font><BR><font size="6">Энтропия дискретного источника.</font></div>
+				<page_count>1</page_count>
+			</div>		
+		</header>
+		<div class="body">
+		Энтропия \(H\) дискретного источника может быть представлена в виде[1]:
+		\begin{equation}
+			H = -K\sum_{i=1}^{n}p_i\log p_i
+		  \label{Entropy}
+		\end{equation}	
+		Для случая когда источник генерирует одно из двух возможных сообщений:
+		\begin{equation}
+			H = -K(p \log p + q\log q)
+		  \label{Entropy2}
+		\end{equation}	
+		</div>
+		<img src="http://www5a.wolframalpha.com/Calculate/MSP/MSP64881c1beadd87fgid890000641i4befa63ae3e7?MSPStoreType=image/gif&s=52&w=300.&h=183.&cdf=RangeControl" align="middle">
+
+		<div class="footer">1. C. E. Shannon, Bell Syst. Tech. J. 27, 379 (1948). </div>		
+   </page>
+
+    <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="7">Entropy</font><BR><font size="6">Совместная энтропия.</font></div>
+		</div>		
+	</header>	
+		Энтропия \(H(x,y)\) двух источников:
+		\begin{equation}
+			H(x,y) = -\sum_{i,j}p(i,j)\log p(i,j)
+		  \label{Entropyxy}
+		\end{equation}	
+		\begin{equation}
+			H(x) = -\sum_{i,j}p(i,j)\log \sum_{j} p(i,j)
+		  \label{Entropy_x}
+		\end{equation}	
+		\begin{equation}
+			H(y) = -\sum_{i,j}p(i,j)\log \sum_{i} p(i,j)
+		  \label{Entropy_y}
+		\end{equation}	
+		И
+		\begin{equation}
+			H(x,y) \leq H(x)+H(y)
+		\end{equation}	
+		Равенство \(H(x,y) = H(x)+H(y)\) выполняется когда \(x\) и \(y\) независимы.
+    </page>
+
+    <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="7">Entropy</font><BR><font size="6">Условная энтропия.</font></div>
+		</div>		
+	</header>	
+	    Вероятность того, что переменная \(y\) примет значение \(j\) при условии, что переменная \(x\) приняла значение \(i\):
+		\begin{equation}
+			p_i(j)=\frac{p(i,j)}{\sum_{j}p(i,j)}
+		\end{equation}			
+		Условная энтропия \(H_x(y)\) :
+		\begin{aligned}
+			H_x(y) = -\sum_{i,j}p(i,j)\log p_i(j)=-\sum_{i,j}p(i,j)\log \frac{p(i,j)}{\sum_{j}p(i,j)}= \\
+			-\sum_{i,j}p(i,j)\log p(i,j)+\sum_{i,j}p(i,j)\log \sum_{j}p(i,j)=\\
+			H(x,y)-H(x)
+		\end{aligned}	
+	    Таким образом
+		\begin{equation}
+			H(x,y) = H_x(y) + H(x)
+		\end{equation}					
+		Условная энтропия показывает меру неопределенности \(y\) при условии, что \(x\) известно.
+		\begin{equation}
+			H(x)+H(y) \geq H(x,y)=H_x(y) + H(x) \\
+		\end{equation}					
+		\begin{equation}
+			H(y) \geq H_x(y)
+		\end{equation}					
+    </page>
+
+    <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="7">Capacity</font><BR><font size="6">Пропускная способность канала с шумом.</font></div>
+		</div>		
+	</header>	
+	    Скорость передачи:
+		\begin{equation}
+			R = H(x) - H_x(y)
+		\end{equation}			
+		Пропускная способность канала с шумом:
+		\begin{equation}
+			С = \max_{x}(H(x)-H_y(x))
+		\end{equation}					
+		Здесь максимум определяется среди всех возможных \(x\).
+    </page>
+
+    <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="6">Continuous</font><BR><font size="6">Энтропия непрерывного распределения.</font></div>
+		</div>		
+	</header>	
+	    Энтропия непрерывного распределения:
+		\begin{equation}
+			H(x) = -\int\limits_{-\infty}^{\infty}p(x)\log p(x) dx
+		\end{equation}			
+		Для многомерной плотности \(p(x_1,x_2,\ldots x_n)\)
+		\begin{equation}
+			H = -\int\limits_{-\infty}^{\infty}\ldots \int\limits_{-\infty}^{\infty} (p(x_1,x_2,\ldots x_n)\log p(x_1,x_2,\ldots x_n) dx
+		\end{equation}			
+		Совместная энтропия двух непрерывных распределений:
+		\begin{equation}
+			H(x,y) = -\int\limits_{-\infty}^{\infty}\int\limits_{-\infty}^{\infty}p(x,y)\log p(x,y) dxdy
+		\end{equation}					
+    </page>
+
+    <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="7">Continuous</font><BR><font size="6">Условная энтропия непрерывного распределения.</font></div>
+		</div>		
+	</header>	
+		Условная энтропия непрерывного распределения
+		\begin{equation}
+			H_y(x) = -\int\limits_{-\infty}^{\infty}\int\limits_{-\infty}^{\infty}p(x,y)\log \frac{p(x,y)}{p(x)} dxdy
+		\end{equation}					
+		\begin{equation}
+			H_x(y) = -\int\limits_{-\infty}^{\infty}\int\limits_{-\infty}^{\infty}p(x,y)\log \frac{p(x,y)}{p(y)} dxdy
+		\end{equation}					
+		Здесь
+		\begin{equation}
+			p(x) = -\int\limits_{-\infty}^{\infty}p(x,y) dy
+		\end{equation}					
+		\begin{equation}
+			p(y) = -\int\limits_{-\infty}^{\infty}p(x,y) dx
+		\end{equation}					
+    </page>
+
+    <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="7">Continuous Rate</font><BR><font size="6">Скорость непрерывного канала.</font></div>
+		</div>		
+	</header>	
+	    Рассматриваются сигналы ограниченные в полосе \(W\). Такие сигналы могут быть однозначно представлены \(n=2TW\) отсчетами во времени.
+ 	    \begin{equation}
+		P(x_1,x_2, \ldots x_n) = P(x)
+		\end{equation}
+		Скорость передачи
+		\begin{equation}
+			R = H(x) - H_y(x)
+		\end{equation}			
+		\begin{equation}
+			R = -\int\limits_{-\infty}^{\infty}p(x)\log p(x) dx + \int\limits_{-\infty}^{\infty}\int\limits_{-\infty}^{\infty}p(x,y)\log \frac{p(x,y)}{p(y)} dxdy=
+			\int\limits_{-\infty}^{\infty}\int\limits_{-\infty}^{\infty}p(x,y)\log \frac{p(x,y)}{p(x)p(y)} dxdy
+		\end{equation}			
+		Так как 
+		\begin{equation}
+			\int\limits_{-\infty}^{\infty}\int\limits_{-\infty}^{\infty}p(x,y)\log p(x) dxdy=\int\limits_{-\infty}^{\infty}p(x)\log p(x)dx
+		\end{equation}			
+    </page>
+
+    <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="7">Continuous Capacity</font><BR><font size="6">Пропускная способность непрерывного канала.</font></div>
+		</div>		
+	</header>	
+		Пропускная способность :
+		  \begin{equation}
+			С=\lim_{T \infty}\max_{P(x)} \frac{1}{T}\int\limits_{X}\int\limits_{Y}p(x,y)\log_2\frac{p(x,y)}{p(x)p(y)}dxdy
+			\label{Cap1}
+		  \end{equation}	
+		  Максимум в формуле (\ref{Cap1}) определяется среди всех возможных распределений \(P(x)\) 
+		  (среди всех возможных сигнально-кодовых конструкций).	
+    </page>
+
+    <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="7">Average power limitation</font><BR><font size="6">Сигнал с ограничением средней мощности.</font></div>
+		</div>		
+	</header>	
+		Для случая белого гауссовского шума со спектральной плотностью \(N\) и сигнала с ограниченной средней мощностью \(P\) в полосе \(W\) энтропии выражаются следующим образом.
+		  \begin{equation}
+		  H(y) = W\log 2\pi e(P+N)
+		  \end{equation}			
+		  \begin{equation}
+		  H(n) = W\log 2\pi e N
+		  \end{equation}		
+          Пропускная способность
+		  \begin{equation}
+		  С = H(y)-H(n) = W \log \frac{P+N}{N}
+		  \end{equation}		
+		  
+    </page>
+	
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">Passband signal</font><BR><font size="6">Полосовой сигнал.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+			Сигнал \(s(t)\) ограниченный в полосе \(W\) может быть однозначно представлен \(N=2WT\) символами \(s_1,s_2, \ldots s_N\) на интервале \(T\). При этом 
+			абсолютное расположение на частотной оси не определено - спектр \(S(\omega)\) дискретной последовательности \(s_n\) является периодической функцией 
+			частоты с периодом \(W=\frac{N}{2T}\). Обратное преобразование Фурье действительнозначного полосового сигнала может быть представлено в виде:
+			\begin{equation}
+			s_n = \int\limits_{-\omega_0-W/2}^{-\omega_0+W/2}S(\omega)e^{j\omega n}d\omega+\int\limits_{\omega_0-W/2}^{\omega_0+W/2}S(\omega)e^{j\omega n}d\omega=
+			\Re\left[\int\limits_{\omega_0-W/2}^{\omega_0+W/2}S(\omega)e^{j\omega n}d\omega\right]			
+			\label{passband_signal}
+			\end{equation}			
+			
+			<iframe frameborder="0" style="width:100%;height:207px;" src="https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=passband%20spectre.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Festel1%2Fit6%2Fmaster%2Fcourse_materials_umk%2Fpassband%2520spectre.xml"></iframe>						
+		</div>
+   </page>
+
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">Baseband signal</font><BR><font size="6">Cигнал в базовой полосе частот.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+			<iframe frameborder="0" style="width:100%;height:207px;" src="https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=baseband_spectre.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Festel1%2Fit6%2Fmaster%2Fcourse_materials_umk%2FIMAGES%2Fbaseband_spectre.xml"></iframe>			
+			Путем замены переменной интервал интегрирования в выражении \((\ref{passband_signal}\)) может быть центрирован около нуля:
+			\begin{equation}
+			s_n = \Re\left[\int\limits_{\omega_0-W/2}^{\omega_0+W/2}S(\omega)e^{j\omega n}d\omega\right]=
+				\Re\left[\int\limits_{-W/2}^{W/2}S(\omega)e^{j(\omega+\omega_0) n}d\omega\right]=
+				\Re\left[e^{j\omega_0 n}\int\limits_{-W/2}^{W/2}S(\omega)e^{j\omega n}d\omega\right]
+			\end{equation}						
+			Введем обозначение
+			\begin{equation}
+			x_n = \int\limits_{-W/2}^{W/2}S(\omega)e^{j\omega n}d\omega
+			\end{equation}									
+		</div>
+   </page>
+
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">Baseband signal</font><BR><font size="6">Cигнал в базовой полосе частот.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+		Последовательность \(x_n\) определяет сигнал в базовой полосе частот \(-\frac{W}{2}\ldots \frac{W}{2}\). 
+		Последовательность \(s_n\) определяет полосовой сигнал на радиочастоте.
+		\begin{equation}
+		s_n = \Re\left[e^{j\omega_0 n}\int\limits_{-W/2}^{W/2}S(\omega)e^{j\omega n}d\omega\right]=\Re\left[e^{j\omega_0 n}x_n\right]
+		\end{equation}											
+		Примеры
+		<ol>
+			<li>Сигнал в базовой полосе \(x_n=const=1\). Радиосигнал \(s_n = cos(\omega_0 n)\)</li>
+			<li>Сигнал в базовой полосе \(x_n=const=e^{j\frac{\pi}{2}}\). Радиосигнал \(s_n = \cos(\omega_0 n + \frac{\pi}{2})\)</li>
+			<li>Сигнал в базовой полосе \(x_n=const=10e^{j\frac{\pi}{2}}\). Радиосигнал \(s_n = 10\cos(\omega_0 n + \frac{\pi}{2})\)</li>
+		</ol>
+		Последовательность \(x_n\) в общем случае - последовательность комплекснозначных чисел.
+		</div>
+   </page>
+   
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">Keying/Mapping</font><BR><font size="6">Модуляция в базовой полосе.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+			<p align="center"><img src="https://www.researchgate.net/profile/Arun_Agarwal5/publication/287208899/figure/fig4/AS:307948250255363@1450431992487/BPSK-4-QAM-and-16-QAM-constellation-diagrams-10.png" width="600" align="center"></p>
+		</div>
+   </page>
+   
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">AWGN Channel</font><BR><font size="6">Модель канала AWGN.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+		Канал с аддитивным белым гауссовым шумом:
+		\begin{equation}
+			r_n = x_n + e_n
+		\end{equation}
+		Плотность распределения шума:
+		\begin{equation}
+			p(e_n) = \frac{1}{\sigma_e\sqrt{2\pi}}e^{-\frac{e_n^2}{2\sigma_e^2}}
+		\end{equation}		
+		</div>
+   </page>
+   
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">Demapping</font><BR><font size="6">Демодуляция.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+		\begin{equation}
+			p(x_n|r) = \frac{q_n p(r|x_n)}{\sum_{k=1}^K q_k p(r|x_k)}
+		\end{equation}		
+		\begin{equation}
+			p(r|x_k) = \frac{1}{2\pi\sigma_e}e^{\frac{(r-x_k)^*(r-x_k)}{2\sigma_e^2}}
+		\end{equation}		
+		\begin{equation}
+			d_k(r) = -\frac{1}{2}(r-x_k)^*(r-x_k)
+		\end{equation}		
+		Следовательно демодуляция сигнала \(r\) на фоне белого гаусового шума сводится к поиску ближайшего символа \(x_k\) к принятому сигналу \(r\) на комплексной плоскости.
+		</div>
+   </page>
+   
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">Fading channel model</font><BR><font size="6">Искажения в канале.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+		Канал с замираниями, частотно-селективный канал, частотно-селективные помехи.
+		<img src="">
+		<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWlAcQoRy9nYLkKONtthNzY6rD79CpvcMLemo37v4z_riIXt4GXA" align="center,middle"></p>		
+		</div>
+   </page>
+   
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">Adaptive equalizer</font><BR><font size="6">Адаптивный эквалайзер с обратной связью по решению.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+		<iframe frameborder="0" style="width:100%;height:259px;" src="https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=adapt_eqalizer.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Festel1%2Fit6%2Fmaster%2Fcourse_materials_umk%2FIMAGES%2Fadapt_eqalizer.xml"></iframe>
+		<div class="footer">2. Джиган В.И. Адаптивная фильтрация сигналов: теория и алгоритмы. М.:Техносфера, 2014.<BR>
+		3. Уидроу Б., Стирнз С. Адаптивная обработка сигналов. М.: Радио и связь, 1989. - 440 с.: ил.</div>
+		</div>
+   </page>
+    <page size="A5">
+		<header>
+			<div class="header">
+				<div class="image"></div><div class="text"><font size="7">LMS</font><BR><font size="6">Алгоритм LMS.</font></div>
+			</div>		
+		</header>
+		<div class="body">
+		Ошибка эквалайзера:
+		\begin{equation}
+		\varepsilon_n=d_n-y_n
+		\end{equation}				
+		Критерий оптимизации
+		\begin{equation}
+		\min J_n = \min \varepsilon^*_n \cdot \varepsilon_n
+		\end{equation}				
+		Эквалайзер:
+		\begin{equation}
+		y_n = \sum\limits_{m=-M}^M c_n(m) \cdot r_{n-m}
+		\end{equation}						
+		Адаптация:
+		\begin{equation}
+		c_{n+1}(m) = c_n(m) -\mu \frac{\partial (\varepsilon^*_n \cdot \varepsilon_n)}{\partial c_n(m)}=c_n(m) +\mu \varepsilon_n r^*_{n-m}
+		\end{equation}								
+		</div>
+   </page>
+   <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="6">DCMC</font><BR><font size="5">Канал с дискретным входом и непрерывным выходом.</font></div>
+		</div>		
+	</header>	
+		Discrete input Continuous output Memoryless Channel (DCMC).
+		
+		Емкость канала для непрерывных величин (т.е. сигнал на передатчике и на приемнике принимает любые значения) на передатчике и приемнике :
+		  \begin{equation}
+			С=\lim_{T \infty}\max_{P(x)} \frac{1}{T}\int\limits_{X}\int\limits_{Y}p(x,y)\log_2\frac{p(x,y)}{p(x)p(y)}dxdy
+			\label{Cap_сontinuous}
+		  \end{equation}	
+		Если сигнал на передающей стороне может принимать лишь значения из фискированного набора \(x\in{x_1,x_2,\ldots x_M}\) то выражение 
+		(\ref{Cap_сontinuous}) примет вид [12-25]:
+		  \begin{equation}
+			С_{DCMC}=\max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{p(y)}dy
+			\label{Cap_DCMC1}
+		  \end{equation}	
+		При этом должно выполняться условие \(\sum_{m=1}^{M}p(x_m)=1\). 
+    </page>
+   <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="6">DCMC</font><BR><font size="5">Вывод выражения для расчета.</font></div>
+		</div>		
+	</header>	
+		Определять y(p) экспериментально или аналитически неудобно. Вместо этого используем:
+		  \begin{equation}
+			p(y) = \sum_{k=1}^{M}p(y|x_k)p(x_k)
+			\label{subst_py1}
+		  \end{equation}	
+		Подставляя (\ref{subst_py1}) в (\ref{Cap_DCMC1}):
+    	        \begin{equation}
+		\begin{aligned}		
+			С_{DCMC} &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\frac{p(y|x_m)}{\sum_{m=1}^{M}p(y|x_m)p(x_m)}dy \\ 
+		                 &= \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2 p(y|x_m)dy \\  
+		                 &- \max_{p(x_1),\ldots,p(x_M)} \sum_{m=1}^{M}\int\limits_{Y}p(y|x_m)p(x_m)\log_2\left[\sum_{k=1}^{M}p(y|x_k)p(x_k)\right]dy
+		  \end{aligned}	
+    	         \label{Cap_DCMC2}
+		\end{equation}
+		<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.186&rep=rep1&type=pdf">Philip Edward McIllree, CHANNEL CAPACITY CALCULATIONS FOR...</a>
+    </page>
+   <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="6">AWGN</font><BR><font size="5">Канал с аддитивным шумом.</font></div>
+		</div>		
+	</header>	
+		Канал с аддитивным белым гауссовым шумом без памяти.
+		
+		Сигнал на приемной стороне для \(n-\)го принятого символа:		
+		  \begin{equation}
+			y(n) = x(n) + \sigma_{\varepsilon}\varepsilon(n)
+			\label{AWGN1}
+		  \end{equation}	
+		Здесь последовательность \(\varepsilon(n)\) - белый гауссов шум с единичной дисперсией и нулевым средним. 
+		
+		Для такого канала условная плотность выроятности \(p(y(n)|x_m(n))\)
+		  \begin{equation}
+			p(y|x_m)=\frac{1}{\sigma_{\varepsilon}\sqrt{2\pi}}\exp\left(-\frac{(y-x_m)^2}{2\sigma_{\varepsilon}^2}\right)
+			\label{pxy_AWGN}
+		  \end{equation}
+		Учитывая, что \(x\) и \(y\) комплексные:
+		  \begin{equation}
+			p(y|x_m)=\frac{1}{\sigma_{\varepsilon}^2 2\pi}\exp\left(-\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right)
+			\label{pxy_AWGN2}
+		  \end{equation}
+		
+		Подставляя (\ref{pxy_AWGN2}) в (\ref{Cap_DCMC2}), получаем:
+    </page>	   
+   <page size="A5">
+	<header>
+		<div class="header">
+			<div class="image"></div><div class="text"><font size="6">AWGN</font><BR><font size="5">Емкость канала AWGN для дискретной модуляции.</font></div>
+		</div>		
+	</header>	
+		Подставляя (\ref{pxy_AWGN2}) в (\ref{Cap_DCMC2}), получаем:
+		  \begin{equation}
+		  \begin{aligned}
+			& С_{DCMC} = \\
+		         &  \sum_{m=1}^{M} \frac{p(x_m)}{\sigma_{\varepsilon}^2 2\pi} \int\limits_{Y}\left[\exp\left[-\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right] \log_2 \left( -\frac{1}{\sigma_{\varepsilon}^2 2\pi}\exp\left[-\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right] \right) \right] dy \\  
+		       - &  \sum_{m=1}^{M} \frac{p(x_m)}{\sigma_{\varepsilon}^2 2\pi}\int\limits_{Y}\left[\exp\left(-\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right) \log_2\left[\sum_{k=1}^{M}\frac{1}{\sigma_{\varepsilon}^2 2\pi}\exp\left[-\frac{(y-x_k)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right]p(x_k)\right]\right]dy 
+		  \end{aligned}	
+	          \label{Cap_DCMC3}
+		  \end{equation}
+		\(Y\)-комплексное, но подинтегральное выражение действительное. Тогда интеграл можно вычислять в виде:
+		  \begin{equation}
+		  \begin{aligned}
+		     & \int\limits_{Y}\exp\left[-\frac{(y-x_m)\overline{(y-x_m)}}{2\sigma_{\varepsilon}^2}\right]\ldots dY = \\
+		     & \int\limits_{\Re(Y)}\int\limits_{\Im(Y)}\exp\left[-\frac{\left(\Re(y)-\Re(x_m)\right)^2+\left(\Im(y)-\Im(x_m)\right)^2}{2\sigma_{\varepsilon}^2}\right]\ldots d\Re(y) d\Im(y)
+		  \end{aligned}	
+		  \end{equation}
+		
+    </page>	   
+</body>
+</html>
