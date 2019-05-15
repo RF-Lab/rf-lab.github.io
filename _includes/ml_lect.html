@@ -212,7 +212,7 @@
 	\end{equation}	
 	распределение которых задано с помощью многомерной гауссовой плотности:
 	\begin{equation}
-		p(\vec{x_i},k)=\frac{1}{(2\pi)^\frac{D}{2}|\Sigma_k|^\frac{1}{2}}\exp\left[-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^H\Sigma_k^{-1}\left(\vec{x}-\vec{\mu_k}\right)\right]
+		p(\vec{x_i},k)=\frac{1}{(2\pi)^\frac{D}{2}|\Sigma_k|^\frac{1}{2}}\exp\left[-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^T\Sigma_k^{-1}\left(\vec{x}-\vec{\mu_k}\right)\right]
 		\label{vgauss}
 	 \end{equation}
 	Каждому вектору \(x_i\) поставлено в соответствие целое число (метка, label, target) \(k\in 1,\ldots K\), обозначающее номер класса, которое определяет вектор математического 
@@ -229,7 +229,7 @@
 	 \end{equation}		
 	Знаменатель в (\ref{BayesExs1}) не зависит от номера класса \(k\). Числитель домноженный на общий для всех классов коэффициент \((2\pi)^\frac{D}{2}\) после логарифмирования:
 	\begin{equation}
-		\phi_k(\vec{x_i})=\ln\left((2\pi)^\frac{D}{2}p(\vec{x_i},k)\right)=\frac{1}{|\Sigma_k|^\frac{1}{2}}\left(-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^H\Sigma_k^{-1}\left(\vec{x}-\vec{\mu_k}\right)\right)
+		\phi_k(\vec{x_i})=\ln\left((2\pi)^\frac{D}{2}p(\vec{x_i},k)\right)=\frac{1}{|\Sigma_k|^\frac{1}{2}}\left(-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^T\Sigma_k^{-1}\left(\vec{x}-\vec{\mu_k}\right)\right)
 		\label{LogNum1}
 	 \end{equation}		
 	Логарифм является монотонной функцией, поэтому выражение (\ref{LogNum1}) можно использовать вместо (\ref{BayesExs1}) для классификации.
