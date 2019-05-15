@@ -224,7 +224,7 @@
 	<p>
 	Условная вероятность 
 	\begin{equation}
-		p_k\left(y_i=k|\vec{x_i}\right) = \frac{p_i\left(\vec{x_i}|y_i=k\right)p(y_i=k)}{p(\vec{x_i})} = \frac{p\left(\vec{x_i},k\right)\frac{1}{K}}{\sum\limits_{k=1}^{K}p(\vec{x_i},k)}
+		p_k\left(y_i=k|\vec{x_i}\right) = \frac{p_i\left(\vec{x_i}|y_i=k\right)p(y_i=k)}{p(\vec{x_i})} = \frac{p\left(\vec{x_i},k\right)\frac{1}{K}}{\sum\limits_{m=1}^{K}p(\vec{x_i},m)}
 		\label{BayesExs1}
 	 \end{equation}		
 	Знаменатель в (\ref{BayesExs1}) не зависит от номера класса \(k\). Числитель домноженный на общий для всех классов коэффициент \((2\pi)^\frac{D}{2}\) после логарифмирования:
@@ -232,6 +232,7 @@
 		\ln\left((2\pi)^\frac{D}{2}p(\vec{x_i},k)\right)=\frac{1}{|\Sigma_k|^\frac{1}{2}}\left(-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^H\Sigma_k^{-1}\left(\vec{x}-\vec{\mu_k}\right)\right)
 		\label{LogNum1}
 	 \end{equation}		
+	Логарифм является монотонной функцией, поэтому выражение (\ref{LogNum1}) можно использовать вместо (\ref{BayesExs1}) для классификации.
 	</p>
 	<H1>Список литературы.</H1> 
 	<p>
