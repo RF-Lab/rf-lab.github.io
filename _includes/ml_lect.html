@@ -229,10 +229,12 @@
 	 \end{equation}		
 	Знаменатель в (\ref{BayesExs1}) не зависит от номера класса \(k\). Числитель домноженный на общий для всех классов коэффициент \((2\pi)^\frac{D}{2}\) после логарифмирования:
 	\begin{equation}
-		\ln\left((2\pi)^\frac{D}{2}p(\vec{x_i},k)\right)=\frac{1}{|\Sigma_k|^\frac{1}{2}}\left(-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^H\Sigma_k^{-1}\left(\vec{x}-\vec{\mu_k}\right)\right)
+		\phi_k(\vec{x_i})=\ln\left((2\pi)^\frac{D}{2}p(\vec{x_i},k)\right)=\frac{1}{|\Sigma_k|^\frac{1}{2}}\left(-\frac{1}{2}\left(\vec{x}-\vec{\mu_k}\right)^H\Sigma_k^{-1}\left(\vec{x}-\vec{\mu_k}\right)\right)
 		\label{LogNum1}
 	 \end{equation}		
 	Логарифм является монотонной функцией, поэтому выражение (\ref{LogNum1}) можно использовать вместо (\ref{BayesExs1}) для классификации.
+	Процедура байесовской классификации в этом случае сводится к выбору такого класса \(\tilde{k}\) для вектора \(\vec{x_i}\), для которого
+	функция \phi_{\tilde{k}}(\vec{x_i}) будет иметь максимальное значение в сравнении с другими \(k\neq\tilde{k}\).
 	</p>
 	<H1>Список литературы.</H1> 
 	<p>
