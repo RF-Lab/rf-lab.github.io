@@ -258,7 +258,35 @@
 	\begin{equation}
 		\phi_k(\vec{x_i})=-\frac{ \vec{x_i}^T\Sigma_k^{-1}\vec{x_i} - \vec{x_i}^T\Sigma_k^{-1}\vec{\mu_k} - \vec{\mu_k}^T\Sigma_k^{-1}\vec{x_i} + \vec{\mu_k}^T\Sigma_k^{-1}\vec{\mu_k} }{2|\Sigma_k|^\frac{1}{2}}
 		\label{Fisher2}
-	 \end{equation}		
+	 \end{equation}
+	Рассмотрим двумерный случай \(D=2\). Введем следующие обозначения:		
+	\begin{equation}
+	  \vec{x_i} = 
+	    \begin{pmatrix}
+		x_{1}(i) \\
+		x_{2}(i) \\
+	    \end{pmatrix}
+	  \label{RandomVector_x}	
+	\end{equation}	
+
+	\begin{equation}
+	  \vec{\mu_k} = 
+	    \begin{pmatrix}
+		\mu_1(k) \\
+		\mu_2(k) \\
+	    \end{pmatrix}
+	  \label{Vector_mu}	
+	\end{equation}	
+		
+	\begin{equation}
+	  \Sigma_k^{-1} = 
+	    \begin{pmatrix}
+		s_11(k) s_12(k) \\
+		s_21(k) s_22(k) \\
+	    \end{pmatrix}
+	  \label{matrix_s1}	
+	\end{equation}	
+		
 	</p>	
 	<H1>Список литературы.</H1> 
 	<p>
