@@ -256,7 +256,7 @@
 	<div class="body">
 	<p>
 	\begin{equation}
-		\phi_k(\vec{x_i})=-\frac{ \vec{x}^T\Sigma_k^{-1}\vec{x} - \vec{x}^T\Sigma_k^{-1}\vec{\mu_k} }{2|\Sigma_k|^\frac{1}{2}}
+		\phi_k(\vec{x_i})=-\frac{ \vec{x}^T\Sigma_k^{-1}\vec{x} - \vec{x}^T\Sigma_k^{-1}\vec{\mu_k} - \vec{\mu_k}^T\Sigma_k^{-1}\vec{x} + \vec{\mu_k}^T\Sigma_k^{-1}\vec{\mu_k} }{2|\Sigma_k|^\frac{1}{2}}
 		\label{Fisher2}
 	 \end{equation}		
 	</p>	
