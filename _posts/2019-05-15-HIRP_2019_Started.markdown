@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  HIRP 2019 стартовал!
-date:   2019-03-15 13:45:12
+date:   2019-05-15 13:45:12
 categories: news
 ---
 ### Стартовал HIRP 2019!
