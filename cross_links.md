@@ -112,7 +112,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-12`- Haykin S. Neural networks and learning machines / Simon Haykin.—3rd ed.
  * `16-13`- Trevor Hastie, Robert Tibshirani, Jerome Friedman The Elements of Statistical Learning: Data Mining Inference, and Prediction. [【ссылка на PDF】](https://web.stanford.edu/~hastie/ElemStatLearn/)
  * `16-14` - К. В. Воронцов Лекции по методу опорных векторов. [【ссылка на PDF】](http://www.ccas.ru/voron/download/SVM.pdf)
- * `16-15` -  **Gilbert Strang** Linear Algebra and Learning from Data. ISBN: 9780692196380 [【ссылка на описание】](http://math.mit.edu/~gs/learningfromdata/)
+ * `16-15` -  **Gilbert Strang** Linear Algebra and Learning from Data. ISBN: 9780692196380 [【ссылка на описание】](http://math.mit.edu/~gs/learningfromdata/) **Video Lectures** [【ссылка на мультимедиа ресурс】](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
  * `16-16` - Jason D. M. Rennie Regularized Logistic Regression is Strictly Convex. [【ссылка на PDF】](http://www.qwone.com/~jason/writing/convexLR.pdf)
  * `16-17` - Richard S. Sutton and Andrew G. Barto Reinforcement Learning: An Introduction, 2nd edition [【ссылка на описание】](http://incompleteideas.net/book/the-book-2nd.html) [【ссылка на PDF】](http://incompleteideas.net/book/RLbook2018.pdf)
 
