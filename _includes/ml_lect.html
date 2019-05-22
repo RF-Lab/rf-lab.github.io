@@ -377,7 +377,7 @@
 	\end{equation}	
 	Оценка маскимального правдоподобия для математического ожидания гауссовой величины:
 	\begin{equation}
-		\hat{\mu}=\frac{1}{n}\sum_{i=1}^{n}x_i
+		\hat{\mu}_{ML}=\frac{1}{n}\sum_{i=1}^{n}x_i
 	  \label{MaxLogMu}
 	\end{equation}	
 	</p>
@@ -393,6 +393,19 @@
 		</div>		
 	</header>
 	<div class="body">
+	<p>
+	Оценки максимального правдоподобия обладают важными свойствами: несмещенностью, состоятельностью и эффективностью. 
+	Несмещенность означает, что с ростом объема выборки оценка \(\hat{\theta}\) стремится к истинному значению \(\theta\).
+	\begin{equation}
+		\lim_{n\rightarrow \infty} \hat{\theta}_{ML} = \theta
+	  \label{UnbiasedML1}
+	\end{equation}	
+	Под состоятельностью оценки понимается уменьшение дисперсии оценки (величины ошибки) с ростом объема выборки:
+	\begin{equation}
+	     \lim_{n\rightarrow \infty} \var\hat{\theta}_{ML} = 0
+	  \label{VarianceML1}
+	\end{equation}	
+	</p>
 		
 	<H1>Примеры вопросов.</H1> 
 	<p>
