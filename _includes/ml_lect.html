@@ -402,12 +402,12 @@
 	\end{equation}	
 	Под состоятельностью оценки понимается уменьшение дисперсии оценки (величины ошибки) с ростом объема выборки:
 	\begin{equation}
-	     \lim_{n\rightarrow \infty} \mathrm{var} \hat{\theta}_{ML} = 0
+	     \lim_{n\rightarrow \infty} \mathrm{var} \left[\hat{\theta}_{ML}\right] = 0
 	  \label{VarianceML1}
 	\end{equation}	
 	</p>
-	Оценка называется эффективной если среди всех других способов получения оценки для заданного объема выборки данная оценка 
-	демонстрирует наименьшую дисперсию ошибки. Проверить это свойство можно с помощью матрицы информации Фишера и критерия Крамера-Рао.
+	Оценка называется эффективной если среди всех других оценок для заданных сзначений смещения и объема выборки данная оценка 
+	демонстрирует наименьшую дисперсию ошибки. Доказать это свойство можно с помощью матрицы информации Фишера и критерия Крамера-Рао [\ref{Chernova1}].
 		
 	<H1>Примеры вопросов.</H1> 
 	<p>
@@ -421,7 +421,7 @@
 	<ol>
 	  <li><a name="ISL1"></a> 				<a href="http://www-bcf.usc.edu/~gareth/ISL/">Trevor Hastie, Robert Tibshirani et al. An Introduction to Statistical Learning with Applications in R. стр. 37.</a> </li>
 	  <li><a name="CourseraMaximumLikelihood"></a> 		<a href="https://ru.coursera.org/lecture/supervised-learning/mietod-maksimal-nogho-pravdopodobiia-sMQ9F">Метод максимального правдоподобия. - Coursera. Машинное обучение и анализ данных. </a> </li>
-	  <li><a name="RaoKramer"></a> 				<a href="https://nsu.ru/mmf/tvims/chernova/ms/lec/node24.html">Эффективные оценки. - Н.И.Чернова Лекции по математической статистике.</a> </li>
+	  <li><a name="Chernova1"></a> 				<a href="https://nsu.ru/mmf/tvims/chernova/ms/lec/node24.html">Эффективные оценки. - Н.И.Чернова Лекции по математической статистике.</a> </li>
 	  <li><a name="Josh Meyer's Website"></a> 		<a href="http://jrmeyer.github.io/machinelearning/2017/08/18/mle.html">Josh Meyer's Website. Maximum Likelihood Estimation of Gaussian Parameters</a> </li>
 	  <li><a name="CourseraBayesClassifier"></a> 		<a href="https://ru.coursera.org/lecture/supervised-learning/baiiesovskaia-klassifikatsiia-sodierzhaniie-uroka-6Qh0L">Байесовская классификация. - Coursera. Машинное обучение и анализ данных. </a> </li>
 	  <li><a name="CourseraNaiveBayesClassifier"></a> 	<a href="https://ru.coursera.org/lecture/supervised-learning/spam-fil-try-i-naivnyi-baiiesovskii-klassifikator-8RMf8">Спам-фильтры и наивный байесовский классификатор. - Coursera. Машинное обучение и анализ данных. </a> </li>
