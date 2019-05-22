@@ -347,7 +347,7 @@
 		L(\vec{x_1},\ldots \vec{x_n},\vec{\theta}) = \prod_{i=1}^{n}p(\vec{x_i},\vec{\theta})
 	  \label{Likelihood1}
 	\end{equation}	
-	Функция L(\vec{x},\vec{\theta}) называется функцией правдоподобия. Логарифмическую функция правдоподобия:
+	Функция \(L(\vec{x},\vec{\theta})\) называется функцией правдоподобия. Логарифмическая функция правдоподобия:
 	\begin{equation}
 		\ln L(\vec{x},\vec{\theta}) = \ln \prod_{i=1}^{n}p(\vec{x_i},\vec{\theta}) = \sum_{i=1}^{n}\ln p(\vec{x_i},\vec{\theta})
 	  \label{LogLikelihood1}
@@ -357,8 +357,14 @@
 	<H3>Пример</H3>
 	Оценить математическое ожидание гауссовой случайной величины методом максимального правдоподобия. Функция правдоподобия:
 	\begin{equation}
-		L(x_1,\ldots x_n,\mu) = \prod_{i=1}^{n}\frac{1}{\sigma\sqrt{2\pi}}exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)
+		L(x_1,\ldots x_n,\mu) = \prod_{i=1}^{n}\frac{1}{\sigma\sqrt{2\pi}}exp\left(-\frac{(x_i-\mu)^2}{2\sigma^2}\right)
 	  \label{Likelihood2}
+	\end{equation}	
+	Логарифмическая функция правдоподобия:
+	\begin{equation}
+		\ln L(x_1,\ldots x_n,\mu) = n \ln \frac{1}{\sigma\sqrt{2\pi}} \sum_{i=1}^{n} \left(-\frac{(x_i-\mu)^2}{2\sigma^2}\right)
+	  \label{LogLikelihood2}
+	\end{equation}	
 	</p>
 	
 	<H1>Список литературы.</H1> 
