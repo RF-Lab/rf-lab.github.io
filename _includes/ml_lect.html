@@ -370,9 +370,14 @@
 		\frac{\partial \ln L(x_1,\ldots x_n,\mu)}{\partial \mu} = n \ln \left(\frac{1}{\sigma\sqrt{2\pi}}\right) \sum_{i=1}^{n}  \frac{\partial \left(-\frac{(x_i-\mu)^2}{2\sigma^2}\right)}{\partial \mu} = \frac{n}{\sigma^2}\ln \left(\frac{1}{\sigma\sqrt{2\pi}}\right) \sum_{i=1}^{n} (x_i-\mu)
 	  \label{DLogLikelihood2}
 	\end{equation}	
+	Необходимое условие максимума дщгарифмической функции правдоподобия:
+	\begin{equation}
+		\sum_{i=1}^{n} (x_i-\mu) = \sum_{i=1}^{n}x_i - \sum_{i=1}^{n}\mu = \sum_{i=1}^{n}x_i - n\mu = 0
+	  \label{MaxCondition1}
+	\end{equation}	
 	Оценка маскимального правдоподобия для математического ожидания гауссовой величины:
 	\begin{equation}
-		\hat{\mu}=
+		\hat{\mu}=\frac{1}{n}\sum_{i=1}^{n}x_i
 	  \label{MaxLogMu}
 	\end{equation}	
 	</p>
