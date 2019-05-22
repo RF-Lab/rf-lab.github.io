@@ -362,12 +362,12 @@
 	\end{equation}	
 	Логарифмическая функция правдоподобия:
 	\begin{equation}
-		\ln L(x_1,\ldots x_n,\mu) = n \ln \frac{1}{\sigma\sqrt{2\pi}} \sum_{i=1}^{n} \left(-\frac{(x_i-\mu)^2}{2\sigma^2}\right)
+		\ln L(x_1,\ldots x_n,\mu) = n \ln \left(\frac{1}{\sigma\sqrt{2\pi}}\right) \sum_{i=1}^{n} \left(-\frac{(x_i-\mu)^2}{2\sigma^2}\right)
 	  \label{LogLikelihood2}
 	\end{equation}	
 	Максимум логарифмического правдоподобия достигается в точке где производная по \(\mu\) равна 0.
 	\begin{equation}
-		\frac{\partial \ln L(x_1,\ldots x_n,\mu)}{\partial \mu} = n \ln \frac{1}{\sigma\sqrt{2\pi}} \sum_{i=1}^{n}  \frac{\partial \left(-\frac{(x_i-\mu)^2}{2\sigma^2}\right)}{\partial \mu}
+		\frac{\partial \ln L(x_1,\ldots x_n,\mu)}{\partial \mu} = n \ln \left(\frac{1}{\sigma\sqrt{2\pi}}\right) \sum_{i=1}^{n}  \frac{\partial \left(-\frac{(x_i-\mu)^2}{2\sigma^2}\right)}{\partial \mu} = 
 	  \label{DLogLikelihood2}
 	\end{equation}	
 	</p>
