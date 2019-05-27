@@ -96,7 +96,7 @@
     <page size="A4">
 	<header>
 		<div class="header">
-			<p><div class="text"><font size="6">Лекция 1.</font><font size="6">Список условных обозначений.</font></div></p>
+			<p><div class="text"><font size="6"></font><font size="6">Список условных обозначений.</font></div></p>
 		</div>		
 	</header>
 	<div class="body">
@@ -518,11 +518,16 @@
 	<p>
 	Линейный классификатор может быть реализован с помощью функции вида:
 	\begin{equation}
-		\psi_k(\vec{x}) = \vec{c}^T\vec{x_i}+c_0
+		\psi_k(\vec{x}) = \vec{c_k}^T\vec{x_i}+c_{0,k}
 	  \label{LDA1}
 	\end{equation}	
 	Классификатор относит вектор \(\vec{x_i}\) к такому классу \(y_i=k\), для которого значение \(\psi_k(\vec{x})\) максимально. Логично 
-	рассматривать \(\psi_k(\vec{x})\) как аппроксимацию условной вероятности \(p_k\left(y_i=k|\vec{x_i}\right)\).
+	рассматривать \(\psi_k(\vec{x})\) как аппроксимацию условной вероятности \(p_k\left(y_i=k|\vec{x_i}\right)\). В качестве критерия качества 
+	можно использовать долю неправильных ответов:
+	\begin{equation}
+		P_k(vec{c_k}) = \frac{1}{n}\sum\limits_{i=1}^n \left[\psi_k(\vec{x}_i)\ne y_i\right]
+	  \label{LDAP1}
+	\end{equation}	
 	</p>	    
 	<H1>Список литературы.</H1> 
 	<p>
