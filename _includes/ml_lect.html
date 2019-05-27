@@ -70,8 +70,17 @@
 			margin : 5px ;
 		}
 	    
-	    	.twocolumn li {display:block;width:50%;float:left;}
-	    
+	   dt {
+	    float: left; /* Выстраиваем по горизонтали */
+	    width: 150px; /* Ширина термина */
+	    overflow: hidden;  /* Обрезаем длинную строку */
+	    text-align: right; /* Выравниваем вправо */
+	    text-overflow: ellipsis; /* Добавляем многоточие */
+	   }
+	   dd {
+	    margin-left: 170px; /* Отступ слева */
+	    margin-bottom: 5px; /* Расстояние между терминами */
+	   }	
 	</style>
 	<script type="text/javascript" async
 		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
@@ -92,17 +101,14 @@
 	</header>
 	<div class="body">
 	<p>
-	<ul class="twocolumn">
-	  <li>\(A\)</li>  				<li>Алгоритм.</li>
-	  <li>\(T\)</li>  		  		<li>Задача машинного обучения.</li>
-	  <li>\(E\)</li>	  			<li>Обучающая выборка.</li>
-	  <li>\(P\)</li>  			
-	  <li>Критерий качества.</li>
-	  <li>\(\vec{x}_i\)</li>  		
-	  <li>i-ый экземпляр данных.</li>
-	  <li>\(y_i\)</li>  			
-	  <li>Ненаблюдаемая величина для i-го экземпляра данных.</li>
-	</ul>
+	<dl>
+	  <dt>\(A\)</dt> 		<dd>Алгоритм.</dd>
+	  <dt>\(T\)</dt> 		<dd>Задача машинного обучения.</dd>
+	  <dt>\(E\)</dt> 		<dd>Обучающая выборка.</dd>
+	  <dt>\(P\)</dt> 		<dd>Критерий качества.</dd>
+	  <dt>\(\vec{x}_i\)</dt> 	<dd>i-ый экземпляр данных.</dd>
+	  <dt>\(y_i\)</dt> 		<dd>Ненаблюдаемая величина для i-го экземпляра данных.</dd>
+	</dl>
 	</p>
 	</div>
    </page>
