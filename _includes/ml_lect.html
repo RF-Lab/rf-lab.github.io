@@ -531,7 +531,7 @@
 	рассматривать \(\psi_k(\vec{x})\) как аппроксимацию условной вероятности \(p_k\left(y_i=k|\vec{x_i}\right)\). В качестве критерия качества 
 	можно использовать долю неправильных ответов:
 	\begin{equation}
-		P_k(\vec{c_k}) = \frac{1}{n}\sum\limits_{i=1}^n \left[\psi_k(\vec{x}_i)\ne y_i\right]
+		P(\vec{c_1},\vec{c_2}\ldots \vec{c_K}) = \frac{1}{n}\sum\limits_{i=1}^n I\left[ \arg_{k} \max_{k \in 1,2\ldots K} \left(\psi_k(\vec{x}_i)\right)\ne y_i\right]
 	  \label{LDAP1}
 	\end{equation}	
 	</p>	    
