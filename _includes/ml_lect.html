@@ -528,12 +528,13 @@
 	  \label{LDA1}
 	\end{equation}	
 	Классификатор относит вектор \(\vec{x_i}\) к такому классу \(\hat{y_i}=k\), для которого значение \(\psi_k(\vec{x})\) максимально. Логично 
-	рассматривать \(\psi_k(\vec{x})\) как аппроксимацию условной вероятности \(p_k\left(y_i=k|\vec{x_i}\right)\). В качестве критерия качества 
+	рассматривать \(\psi_k(\vec{x})\) как аппроксимацию условной вероятности \(p\left(y_i=k|\vec{x_i}\right)\). В качестве критерия качества 
 	можно использовать долю неправильных ответов:
 	\begin{equation}
 		P(\vec{c_1},\vec{c_2}\ldots \vec{c_K}) = \frac{1}{n}\sum\limits_{i=1}^n I\left[ \arg \left( \max_{k \in 1,2\ldots K} \left(\psi_k(\vec{x}_i)\right) \right) \ne y_i\right]
 	  \label{LDAP1}
 	\end{equation}	
+	Критерий (\ref{LDAP1}) будет минимальным, если \(\psi_k(\vec{x})\eq p\left(y_i=k|\vec{x_i}\right)\). 
 	</p>	    
 	<H1>Список литературы.</H1> 
 	<p>
