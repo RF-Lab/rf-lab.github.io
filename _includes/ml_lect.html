@@ -520,11 +520,11 @@
 	<p>
 	Линейный классификатор может быть реализован с помощью функции вида:
 	\begin{equation}
-		\psi_k(\vec{x}) = \vec{c_k}^T\vec{x_i}+c_{0,k} = \left[ \vec{c_k}:c_{0,k} \right]^T 	    
-			\begin{pmatrix}
+		\psi_k(\vec{x}) = \vec{c_k}^T\vec{x_i}+c_{0,k} = \left[ \vec{c_k}^T:c_{0,k} \right] 	    
+			\begin{bmatrix}
 			\vec{x_i} \\
 			c_{0,k}
-			\end{pmatrix}
+			\end{bmatrix}
 	  \label{LDA1}
 	\end{equation}	
 	Классификатор относит вектор \(\vec{x_i}\) к такому классу \(\hat{y_i}=k\), для которого значение \(\psi_k(\vec{x})\) максимально. Логично 
