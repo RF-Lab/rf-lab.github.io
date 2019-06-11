@@ -83,6 +83,9 @@ COFDM with Application to HIPERLAN/2. 2002 IEEE International Conference on Comm
 * `12-24` - Optical Hybrid Enables Next-Generation Optical Communication. Optoplex Corp. [【ссылка на PDF】](http://www.optoplex.com/download/coherent_detection_and_optical_hybrid.pdf)
 * `12-25` - Philip Edward McIllree, CHANNEL CAPACITY CALCULATIONS FOR M–ARY
 N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.186&rep=rep1&type=pdf)
+* `12-26` - John Barry. Equalization. School of Electrical and Computer Engineering Georgia Institute of Technology Atlanta, GA 30332-0250, mailto:barry@ece.gatech.edu. [【ссылка на PDF】](http://barry.ece.gatech.edu/6603/handouts/eq.pdf)
+* `12-27` - Joachim Hagenauer The Turbo Principle: Tutorial Introduction and State of the Art. Technical University of Munich Department of Communications Engineering Arcisstr. 21, 80290 Munich, Germany [【ссылка на PDF】](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.7546&rep=rep1&type=pdf)
+* `12-28` - Javier Céspedes, Pablo M. Olmos, Member, IEEE, Matilde Sánchez-Fernández, Senior Member, IEEE, and Fernando Perez-Cruz, Senior Member, IEEE Expectation Propagation Detection for High-Order High-Dimensional MIMO Systems.
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[【ссылка на описание】](http://www.ozon.ru/context/detail/id/3001036/)
