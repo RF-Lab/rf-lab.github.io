@@ -1,0 +1,8 @@
+---
+layout: post
+title:  21 gestures > 90 %!
+date:   2019-06-17 13:20:00
+categories: news
+---
+
+[A wearable electromyography-based hand gesture recognition system with real-time on-board incremental learning and classification](https://arxiv.org/ftp/arxiv/papers/1901/1901.00234.pdf)
