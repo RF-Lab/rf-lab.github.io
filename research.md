@@ -24,6 +24,10 @@ Roberto Merletti Dario Farina    Surface Electromyography : Physiology, Engineer
 ### Capacitive EMG (бесконтактная ЭМГ для одежды)
 [Parin Dedhia (prd47), Roland Krieger (rk447), Nini Munoz (nlm9) CAPACITIVELY COUPLED EMG ELECTRODES WITH FINGER GESTURE RECOGNITION](https://people.ece.cornell.edu/land/courses/ece5030/FinalProjects/s2013/prd47_nlm9_rk447/Capacitive%20EMG%20electrode/CapacitiveEMGElectrode.html)
 
+### Бесконтактные "touch-screen" интерфейсы на основе EMG
+Keywords:  Touch user interface, Gesture interface, Natural user interface
+[Gonzalo Pomboza‑Junez, Juan A. Holgado‑Terriza, Nuria Medina‑Medina Toward the gestural interface: comparative analysis between touch user interfaces versus gesture‑based user interfaces on mobile devices](https://link.springer.com/content/pdf/10.1007%2Fs10209-017-0580-6.pdf)
+
 ### На основе метода опорных векторов
 Эта тема самая популярная на нашей кафедре. Но настал момент двигаться дальше. 
 
