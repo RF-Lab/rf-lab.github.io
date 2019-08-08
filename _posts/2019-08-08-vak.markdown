@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Вниманию поступающих в аспирантуру.
+date:   2019-08-08 13:10:00
+categories: news
+---
+В силу ряда обстоятельств вместо [05.13.01](https://teacode.com/online/vak/p05-13-01.html) и [05.13.11](https://teacode.com/online/vak/p05-13-11.html) предлагается подавать документы на специальность [05.13.18](https://teacode.com/online/vak/p05-13-18.html).
