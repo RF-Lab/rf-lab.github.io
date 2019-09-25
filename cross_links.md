@@ -119,6 +119,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-15` -  **Gilbert Strang** Linear Algebra and Learning from Data. ISBN: 9780692196380 [【ссылка на описание】](http://math.mit.edu/~gs/learningfromdata/) **Video Lectures** [【ссылка на мультимедиа ресурс】](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/index.htm)
  * `16-16` - Jason D. M. Rennie Regularized Logistic Regression is Strictly Convex. [【ссылка на PDF】](http://www.qwone.com/~jason/writing/convexLR.pdf)
  * `16-17` - Richard S. Sutton and Andrew G. Barto Reinforcement Learning: An Introduction, 2nd edition [【ссылка на описание】](http://incompleteideas.net/book/the-book-2nd.html) [【ссылка на PDF】](http://incompleteideas.net/book/RLbook2018.pdf)
+ * `16-18` - David J.C. MacKay Information Theory, Inference, and Learning Algorithms [【ссылка на PDF (только просмотр, не для печати)】](https://www.inference.org.uk/itprnn/book.pdf)
 
 
 # `[17]` Импульсная техника
