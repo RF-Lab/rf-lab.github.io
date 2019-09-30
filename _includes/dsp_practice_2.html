@@ -1,0 +1,113 @@
+<html>
+<!--https://www.antennahouse.com/CSSInfo/CSS-Page-Tutorial-en.pdf-->
+<head>
+	<meta charset="utf-8">
+    <style>
+		body {
+		  background: rgb(0,74,134); 
+		  background: repeating-linear-gradient(-60deg, rgb(230,230,230) 0,rgb(230,230,230)  1px, transparent 1px, transparent 5px);
+         	  font: large Times New Roman ;
+		  text-align: justify ;
+		}
+	        p H1 {
+		  padding-left: 	10px ;
+		  padding-right: 	10px ;
+	        }
+		page {
+		  background: white;
+		  display: block;
+		  margin: .5cm auto;
+		  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+		}
+	        page[size="A5"] {  
+		  width: 22cm;
+		  height: 14.8cm; 
+		}
+		page[size="A4"] {  
+		  width: 21cm;
+		  height: 29.7cm; 
+		}
+		page[size="A4"][layout="portrait"] {
+		  width: 29.7cm;
+		  height: 21cm;  
+		}
+		@media print {
+		  body, page {
+			margin: 0;
+			box-shadow: 0;
+		  }
+		}
+		header {			
+			padding-left: 	5px ;
+			padding-right: 	2px ;
+			/* padding: 0 0 0 0 ; */
+			color: white;
+			background-color: rgb(0,130,200) ;
+			clear: bottom;
+			text-align: left;
+		}
+		
+		.header {
+			/*border:1px solid darkgray ;*/
+			border:0px solid rgb(0,130,200) ;
+		}
+		.header .image {
+			background: url("https://pp.userapi.com/c629212/v629212097/12726/KO-KSydbMF8.jpg") no-repeat;
+			width: 100px;
+			height: 90px;
+			border:0px solid green;
+		}
+		.header .text {
+			font: x-large Times New Roman ;
+			border:0px solid blue;
+		}
+		.header .image, 
+		.header .text {
+			display: inline-block;
+			vertical-align: middle;
+		}
+		.body {
+			margin : 5px ;
+		}
+	    
+	   dt {
+	    float: left; /* Выстраиваем по горизонтали */
+	    width: 100px; /* Ширина термина */
+	    overflow: hidden;  /* Обрезаем длинную строку */
+	    text-align: right; /* Выравниваем вправо */
+	    text-overflow: ellipsis; /* Добавляем многоточие */
+	   }
+	   dd {
+	    margin-left: 170px; /* Отступ слева */
+	    margin-bottom: 5px; /* Расстояние между терминами */
+	   }	
+	</style>
+	<script type="text/javascript" async
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>
+	<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+		TeX: { equationNumbers: { autoNumber: "AMS" } }
+		});
+	</script>
+</head>
+<body>
+
+    <page size="A4">
+	<header>
+		<div class="header">
+			<p><div class="text"><font size="6">ПР 1.</font><font size="6">Ряд Фурье для периодических функций.</font></div></p>
+		</div>		
+	</header>
+	<div class="body">
+	<p>
+	<H1>Периодическую функцию удовлетворяющую условиям Дирихле можно представить в виде ряда Фурье:</H1> 
+	</p>
+	<p>
+	</p>
+	</div>
+   </page>
+	
+
+</body>
+</html>
