@@ -126,8 +126,17 @@
 	</p>
 	<p><H3>Задание</H3></p>
 	<p>
-		Экспериментально исследовать сходимость разложения в ряд Фурье для периодической функции \(x(t)\) с периодом \(T\), т.ч. 
+		Экспериментально исследовать сходимость разложения в ряд Фурье периодической функции \(x(t)\) с периодом \(T\), т.ч. 
 		\(x(t)=-1, \forall x\in \left[-T/2\ldots 0\right), +1 \forall x\in \left[0\ldots T/2\right] \).
+	</p>
+	<p><H3>Теоретическая часть</H3></p>
+	<p>
+		Определим коэффициенты Фурье для заданной функции:
+		\begin{equation}
+			X_k = \frac{1}{T}\int\limits_{t_0}^{t_0+T}x(t)\cdot e^{-j\omega_0kt}dt=
+				\frac{1}{T}\left(\int\limits_{-T/2}^{0}-e^{-j\omega_0kt}dt+\int\limits_{0}^{T/2}e^{-j\omega_0kt}dt\right)
+			\label{FourierCoe2}
+		 \end{equation}			
 	</p>
 	</div>
    </page>
