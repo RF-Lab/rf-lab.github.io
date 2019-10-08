@@ -186,19 +186,19 @@
 	<page size="A4">
 	<header>
 		<div class="header">
-			<p><div class="text"><font size="6">ПР 4.</font><font size="6">Дискретное преобразование Фурье.</font></div></p>
+			<p><div class="text"><font size="6">ПР 4.</font><font size="6">Растекание спектра ДПФ.</font></div></p>
 		</div>		
 	</header>
 	<div class="body">
 	<p>
 	Рассмотрим дискретное преобразование Фурье для комплексной экспоненты \(e^{j\omega n}\):
 	\begin{equation}
-		X_k = \sum_{n=0}^{N-1}e^{j\omega n}e^{-j\frac{2\pi}{N}kn}= \sum_{n=-(N/2-1)}^{N/2-1}e^{j\omega n}e^{-j\frac{2\pi}{N}kn}=
-			\sum_{n=0}^{N-1}e^{j(\omega-\frac{2\pi}{N}k)n}=\sum_{n=0}^{N-1}e^{j\theta n}
+		X_k = \sum_{n=-(N-1)/2}^{(N-1)/2}e^{j\omega n}e^{-j\frac{2\pi}{N}kn}=
+			\sum_{n=-(N-1)/2}^{(N-1)/2}e^{j(\omega-\frac{2\pi}{N}k)n}=\sum_{n=-(N-1)/2}^{(N-1)/2}e^{j\theta n}
 		\label{Dft1}
 	 \end{equation}			
 	Где \(\omega\)-произвольное значение частоты в пределах \(0\ldots \pi\) и \(\theta=\omega-\frac{2\pi}{N}k\). Выражение (\(\ref{Dft1}\)) является суммой геометрической
-	прогрессии \(b_n=b_{n-1}q\), где \(b_0=1\) и \(q=e^{j(\omega-\frac{2\pi}{N}k)}\). Сумма \(N\) первых членов геометрической прогрессии:
+	прогрессии \(b_n=b_{n-1}q\), где \(b_0=e^{-j\theta\frac{N-1}{2}}\) и \(q=e^{j(\omega-\frac{2\pi}{N}k)}\). Сумма \(N\) первых членов геометрической прогрессии:
 	\begin{equation}
 		\sum_{n=0}^{N-1}b_n = \frac{b_0(1-q^N)}{1-q}\bigg|_{b_0=1,q=e^{j\theta}} = \frac{1-e^{j\theta N}}{1-e^{j\theta}}
 		\label{GeometricProgression}
