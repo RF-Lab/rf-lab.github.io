@@ -193,16 +193,16 @@
 	<p>
 	Рассмотрим дискретное преобразование Фурье для комплексной экспоненты \(e^{j\omega n}\):
 	\begin{equation}
-		X_k = \sum_{n=-(N-1)/2}^{(N-1)/2}e^{j\omega n}e^{-j\frac{2\pi}{N}kn}=
-			\sum_{n=-(N-1)/2}^{(N-1)/2}e^{j(\omega-\frac{2\pi}{N}k)n}=\sum_{n=-(N-1)/2}^{\frac{N-1}{2}}e^{j\theta n}
+		X_k = \sum_{n=-\frac{N-1}{2}}^{\frac{N-1}{2}}e^{j\omega n}e^{-j\frac{2\pi}{N}kn}=
+			\sum_{n=-\frac{N-1}{2}}^{\frac{N-1}{2}}e^{j(\omega-\frac{2\pi}{N}k)n}=\sum_{n=-\frac{N-1}{2}}^{\frac{N-1}{2}}e^{j\theta n}
 		\label{Dft1}
 	 \end{equation}			
 	Где \(\omega\)-произвольное значение частоты в пределах \(0\ldots \pi\) и \(\theta=\omega-\frac{2\pi}{N}k\). Выражение (\(\ref{Dft1}\)) является суммой геометрической
 	прогрессии \(b_n=b_{n-1}q\), где \(b_0=e^{-j\theta\frac{N-1}{2}}\) и \(q=e^{j\theta}\). Сумма \(N\) первых членов геометрической прогрессии:
-	\begin{equation}
-		\sum_{n=-(N-1)/2}^{(N-1)/2}b_n = \frac{b_0(1-q^N)}{1-q}\bigg|_{b_0=e^{-j\theta\frac{N-1}{2}},q=e^{j\theta}} = \frac{e^{-j\theta \frac{N-1}{2}}(1-e^{j\theta N})}{1-e^{j\theta}}
+	\begin{align}
+		\sum_{n=-\frac{N-1}{2}}^{\frac{N-1}{2}}b_n = \frac{b_0(1-q^N)}{1-q}\bigg|_{b_0=e^{-j\theta\frac{N-1}{2}},q=e^{j\theta}} = \frac{e^{-j\theta \frac{N-1}{2}}(1-e^{j\theta N})}{1-e^{j\theta}}
 		\label{GeometricProgression}
-	 \end{equation}					
+	 \end{align}					
 	</p>
 	<H3>Литература</H3>
 	<p>
