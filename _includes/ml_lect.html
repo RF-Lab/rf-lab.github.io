@@ -647,7 +647,7 @@
 	Если теперь вместо отступа подставить выход линейного классификатора, получим модель логистической регрессии:
 																 
 	\begin{equation}
-	  \hat{p} = \frac{1}{1+e^{-\bar{\psi}(\vec{x})}}= \frac{1}{1+e^{-\left(\vec{c}^T\vec{x_i}+c_{0}\right)}}
+	  \hat{p}(\vec{x};\vec{c}) = \frac{1}{1+e^{-\bar{\psi}(\vec{x})}}= \frac{1}{1+e^{-\left(\vec{c}^T\vec{x_i}+c_{0}\right)}}
 	  \label{LogReg}
 	\end{equation}
 																 
@@ -655,15 +655,17 @@
 	В качестве критерия оптимизации будем использовать критерий максимального правдоподобия:
 																 
 	\begin{equation}
-	  Q(\vec{c}) = \prod_{i=1}{n}\left(\frac{1}{1+e^{-\bar{\psi}(\vec{x})}}\right)^{y_i}\left(1-\frac{1}{1+e^{-\bar{\psi}(\vec{x})}}\right)^{1-y_i} \\
+	  Q(\vec{c}) = \prod_{i=1}^{n}\left(\hat{p}(\vec{x};\vec{c})\right)^{y_i}\left(1-\hat{p}(\vec{x};\vec{c})\right)^{1-y_i} \\
 	  \label{LogRegMLCriteria}
 	\end{equation}
 																 
 	После логарифмирования:
 																 
 	\begin{equation}
-	  L(\vec{c}) = \log Q(\vec{c})
+	\begin{aligned}		
+	  L(\vec{c}) = \log Q(\vec{c})=\sum_{i=1}^{n}\left(y_i\log
 	  \label{LogRegMLToCrossEntropy}
+	\begin{aligned}		
 	\end{equation}
 																 
 	</p>	    
