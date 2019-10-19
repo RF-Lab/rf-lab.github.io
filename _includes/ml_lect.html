@@ -651,6 +651,21 @@
 	  \label{LogReg}
 	\end{equation}
 																 
+	Для поиска вектора коэффициентов \(\vec{c}\) воспользуемся методом оптимизации по стохастическому градиенту (LMS).
+	В качестве критерия оптимизации будем использовать критерий максимального правдоподобия:
+																 
+	\begin{equation}
+	  Q(\vec{c}) = \Prod_{i=1}{n}\(\frac{1}{1+e^{-\bar{\psi}(\vec{x})}}\)^{y_i}\(1-\frac{1}{1+e^{-\bar{\psi}(\vec{x})}}\)^{1-y_i} \\
+	  \label{LogRegMLCriteria}
+	\end{equation}
+																 
+	После логарифмирования:
+																 
+	\begin{equation}
+	  L(\vec{c}) = \log Q(\vec{c})
+	  \label{LogRegMLToCrossEntropy}
+	\end{equation}
+																 
 	</p>	    
 	</div>	
    </page>
