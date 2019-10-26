@@ -655,7 +655,7 @@
 	В качестве критерия оптимизации будем использовать критерий максимального правдоподобия:
 																 
 	\begin{equation}
-	  Q(\vec{c}) = \prod_{i=1}^{n}\left(\hat{p}(\vec{x};\vec{c})\right)^{y_i}\left(1-\hat{p}(\vec{x};\vec{c})\right)^{1-y_i} \\
+	  Q(\vec{c}) = \prod_{i=1}^{n}\left(\hat{p}(\vec{x};\vec{c})\right)^{p_i}\left(1-\hat{p}(\vec{x};\vec{c})\right)^{1-p_i} \\
 	  \label{LogRegMLCriteria}
 	\end{equation}
 																 
@@ -663,7 +663,7 @@
 																 
 	\begin{equation}
 	\begin{aligned}		
-	  L(\vec{c}) = \log Q(\vec{c})=\sum_{i=1}^{n}\left(y_i\log (\hat{p}(\vec{x};\vec{c})) + (1-y_i)\log (1-\hat{p}(\vec{x};\vec{c}))\right)
+	  L(\vec{c}) = \log Q(\vec{c})=\sum_{i=1}^{n}\left(p_i\log (\hat{p}(\vec{x};\vec{c})) + (1-p_i)\log (1-\hat{p}(\vec{x};\vec{c}))\right)
 	  \label{LogRegMLToCrossEntropy}
 	\end{aligned}		
 	\end{equation}
