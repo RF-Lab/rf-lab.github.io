@@ -664,8 +664,8 @@
 	\begin{equation}
 	\begin{aligned}		
 	  L(\vec{c}) = \log Q(\vec{c})=\sum_{i=1}^{n}\left(p_i\log (\hat{p}(\vec{x};\vec{c})) + (1-p_i)\log (1-\hat{p}(\vec{x};\vec{c}))\right)
-	  \label{LogRegMLToCrossEntropy}
 	\end{aligned}		
+	  \label{LogRegMLToCrossEntropy}
 	\end{equation}
 	
 	Выражение (\ref{LogRegMLToCrossEntropy}) определяет кросс-энтропию между истинным распределением \(p(\vec{x})\) 
@@ -687,12 +687,12 @@
 	Т.е. решается задача максимизации
 																 
 	\begin{equation}
-	  \hat{\vec{c}} = \arg\max L(\vec{c})= \arg\max Q(\vec{c}) 
+	  \vec{c}^* = \arg\max L(\vec{c})= \arg\max Q(\vec{c}) 
 	\end{equation}
 		
 	Уравнение адаптации коэффициентов:
 	\begin{equation}
-	  \hat{\vec{c}(k+1)} = \hat{\vec{c}(k)} + \alpha \nabla (Q(\hat{\vec{c}(k)}))
+	  \vec{c}(k+1) = \vec{c}(k) + \alpha \nabla (Q(\vec{c}(k)))
 	\end{equation}
 	
 	</p>
