@@ -670,11 +670,7 @@
 	
 	Выражение (\ref{LogRegMLToCrossEntropy}) определяет кросс-энтропию между истинным распределением \(p(\vec{x})\) 
 	и его оценкой на основе логистической регрессии \(\hat{p}(\vec{x};\vec{c})\). Чем больше значение кросс-энтропии 
-	тем ближе распределение \(\hat{p}(\vec{x};\vec{c})\) к желаемому \(p(\vec{x})\). Т.е. решается задача максимизации
-																 
-	\begin{equation}
-	  \hat{\vec{c}} = \arg\max Q(\vec{c}) 
-	\end{equation}
+	тем ближе распределение \(\hat{p}(\vec{x};\vec{c})\) к желаемому \(p(\vec{x})\). 
 																 
 	</p>	    
 	</div>	
@@ -688,6 +684,12 @@
 	</header>
 	<div class="body">
 	<p>
+	Т.е. решается задача максимизации
+																 
+	\begin{equation}
+	  \hat{\vec{c}} = \arg\max L(\vec{c})= \arg\max Q(\vec{c}) 
+	\end{equation}
+		
 	Уравнение адаптации коэффициентов:
 	\begin{equation}
 	  \hat{\vec{c}(k+1)} = \hat{\vec{c}(k)} + \alpha \grad (Q(\hat{\vec{c}(k)}))
