@@ -692,12 +692,12 @@
 		
 	Уравнение адаптации коэффициентов:
 	\begin{equation}
-	  \vec{c}(k+1) = \vec{c}(k) + \alpha \nabla (Q(\vec{c}(k)))
+	  \vec{c}(k+1) = \vec{c}(k) + \alpha \nabla (L(\vec{c}(k)))
 	\end{equation}
 
 	Компоненты вектора градиента:
 	\begin{equation}
-	  \frac{\partial L}{\partial c_d} = 
+	  \frac{\partial L}{\partial c_d} = \frac{\partial}{\partial c_d}\sum_{i=1}^{n}\left(p_i\log (\hat{p}(\vec{x};\vec{c})) + (1-p_i)\log (1-\hat{p}(\vec{x};\vec{c}))\right)
 	\end{equation}
 	
 	</p>
