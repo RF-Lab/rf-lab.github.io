@@ -9,6 +9,9 @@ permalink: /cross_links/
  * `1-1` - Краснов М.Л., Макаренко Г.И., Киселев А.И. Операционное исчисление. Теория устойчивости. Задачи и примеры с подробными решениями. - Либроком. 2009г.
  * `1-2` - Калинин В.В. Обыкновенные дифференциальные уравнения. (Пособие для практических занятий) - "Нефть и Газ". 2005г.
  * `1-3` - Бесов О.В. Тригонометрические ряды Фурье. Учебно-методическое пособие (для студентов 2-го курса).МФТИ. М., 2004. 31 с. [【ссылка на PDF】](https://mipt.ru/education/chair/mathematics/upload/8ec/besov_f-arph0dsdzp7.pdf)
+ * `1-4` - Арнольд В.И. Обыкновенные дифференциальные уравнения.
+ * `1-5` - Прасолов В. В.  Задачи и теоремы линейной алгебры. — 2-е изд. — М., 2008.
+ 
 
 # `[3]` Линейная алгебра/матричный анализ
  * `3-1` - Р.Хорн Ч. Джонсон Матричный анализ. - 1987. [【ссылка на описание】](http://lib.mexmat.ru/books/128977)
@@ -87,6 +90,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
 * `12-26` - John Barry. Equalization. School of Electrical and Computer Engineering Georgia Institute of Technology Atlanta, GA 30332-0250, mailto:barry@ece.gatech.edu. [【ссылка на PDF】](http://barry.ece.gatech.edu/6603/handouts/eq.pdf)
 * `12-27` - Joachim Hagenauer The Turbo Principle: Tutorial Introduction and State of the Art. Technical University of Munich Department of Communications Engineering Arcisstr. 21, 80290 Munich, Germany [【ссылка на PDF】](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.7546&rep=rep1&type=pdf)
 * `12-28` - Javier Céspedes, Pablo M. Olmos, Member, IEEE, Matilde Sánchez-Fernández, Senior Member, IEEE, and Fernando Perez-Cruz, Senior Member, IEEE Expectation Propagation Detection for High-Order High-Dimensional MIMO Systems.
+* `12-29` - William E. Ryan, Shu Lin Channel Codes. Classical and Modern. © Cambridge University Press 2009.
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[【ссылка на описание】](http://www.ozon.ru/context/detail/id/3001036/)
@@ -120,7 +124,8 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-16` - Jason D. M. Rennie Regularized Logistic Regression is Strictly Convex. [【ссылка на PDF】](http://www.qwone.com/~jason/writing/convexLR.pdf)
  * `16-17` - Richard S. Sutton and Andrew G. Barto Reinforcement Learning: An Introduction, 2nd edition [【ссылка на описание】](http://incompleteideas.net/book/the-book-2nd.html) [【ссылка на PDF】](http://incompleteideas.net/book/RLbook2018.pdf)
  * `16-18` - David J.C. MacKay Information Theory, Inference, and Learning Algorithms [【ссылка на PDF (только просмотр, не для печати)】](https://www.inference.org.uk/itprnn/book.pdf)
-
+ * `16-19` - Paul D. Allison Convergence Failures in Logistic Regression. [【ссылка на PDF】](https://pdfs.semanticscholar.org/4f17/1322108dff719da6aa0d354d5f73c9c474de.pdf).
+ 
 
 # `[17]` Импульсная техника
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
