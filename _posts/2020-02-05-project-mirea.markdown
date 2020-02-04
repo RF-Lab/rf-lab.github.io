@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  Центр студенческого проектирования МИРЭА.
-date:   2020-02-05 02:45:01
+date:   2020-02-05 01:45:01
 categories: news
 ---
 ### Центр студенческого проектирования МИРЭА
 
-https://project-mirea.ru/
+[Подробно->](https://project-mirea.ru/)
+
 
 
