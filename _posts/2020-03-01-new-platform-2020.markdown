@@ -13,7 +13,7 @@ categories: news
 
 [Плата->](https://github.com/RF-Lab/emg_platform/blob/master/hw_platform/ADS1299EMG8x/pcb.pdf)
 
-[BOM->](https://github.com/RF-Lab/emg_platform/blob/master/hw_platform/ADS1299EMG8x/BOM.pdf)
+[BOM->](https://github.com/RF-Lab/emg_platform/blob/master/hw_platform/ADS1299EMG8x/BOM.xlsx)
 
 Как минимум планируется один диплом с использованием этой платформы (защита зимой 2020/2021). Платформа должна получиться значительно проще чем OLIMEX т.к. все мелкие компоненты интегрированы внутрь ADS1299. 
 Пробную микросхему заказал - приедет где-то через месяц.
