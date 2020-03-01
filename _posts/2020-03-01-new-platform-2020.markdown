@@ -1,0 +1,19 @@
+---
+layout: post
+title:  8-ми канальная платформа EMG  
+date:   2020-03-01 23:03:02
+categories: news
+---
+### Платформа на базе ADS1299
+
+Сегодня начал работу над новой аппаратной платформой на базе микросхемы, которую предложил Андрей Лукьянчиков. Пока накидал основные компоненты и оценил размеры платы.
+[ADS1299->](https://www.ti.com/product/ADS1299?utm_source=google&utm_medium=cpc&utm_campaign=asc-null-null-GPN_EN-cpc-pf-google-wwe&utm_content=ADS1299&ds_k=ADS1299&DCM=yes&gclid=Cj0KCQiA1-3yBRCmARIsAN7B4H1yLLTcEn5dXVXSD5oKEw4g6xSzsF17-KDJokGz63VBMk7K-H7ymXIaAgM5EALw_wcB&gclsrc=aw.ds)
+
+[Схема->](https://github.com/RF-Lab/emg_platform/blob/master/hw_platform/ADS1299EMG8x/schematic.pdf)
+
+[Плата->](https://github.com/RF-Lab/emg_platform/blob/master/hw_platform/ADS1299EMG8x/pcb.pdf)
+
+[BOM->](https://github.com/RF-Lab/emg_platform/blob/master/hw_platform/ADS1299EMG8x/BOM.pdf)
+
+Как минимум планируется один диплом с использованием этой платформы (защита зимой 2020/2021). Платформа должна получиться значительно проще чем OLIMEX т.к. все мелкие компоненты интегрированы внутрь ADS1299. 
+Пробную микросхему заказал - приедет где-то через месяц.
