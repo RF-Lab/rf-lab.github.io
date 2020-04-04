@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  Установка ESP-IDF для процессора Espressive ESP под Windows  
+title:  Установка ESP-IDF для процессора Espressive ESP32 под Windows  
 date:   2020-04-04 17:10:00
 categories: news
 ---
-### Установка ESP-IDF для процессора Espressive ESP под Windows
+### Установка ESP-IDF для процессора Espressive ESP32 под Windows
+
+Данная инструкция составлена на основе личного опыта и может не совпадать с оригинальной документацией (https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup-scratch.html).
 
 ## Получение ESP-IDF
-1. [Установите Git] (https://git-scm.com/downloads)
-2. С помощью Git загрузите ропозиторий:
+1. [Установите пакет Anaconda](https://www.anaconda.com/distribution/#download-section)
+2. [Установите Git](https://git-scm.com/downloads)
+3. С помощью Git загрузите ропозиторий:
 
 ````
    git clone --recursive https://github.com/espressif/esp-idf.git
@@ -16,4 +19,6 @@ categories: news
 
    Обратите внимание: GitHub’s “Download zip file” не сработает корректно для ESP-IDF!!!
    
+ 4. Запустите Anaconda Prompt (первый раз придется запустить Anaconda Navigator и из него запустить Anaconda Prompt). Находясь в командной строке Anaconda, перейдите в папку %Home%/ESP-IDF/, где %Home%/ - директория, в которую вы клонировали ESP-IDF.  
+ 
 
