@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  Установка ESP-IDF для процессора Espressive ESP  
+title:  Установка ESP-IDF для процессора Espressive ESP под Windows  
 date:   2020-04-04 17:10:00
 categories: news
 ---
-### Установка ESP-IDF для процессора Espressive ESP
+### Установка ESP-IDF для процессора Espressive ESP под Windows
+
+## Получение ESP-IDF
+1. Установите Git (https://git-scm.com/downloads)
+2. С помощью Git загрузите ропозиторий:
+   git clone --recursive https://github.com/espressif/esp-idf.git
+   Обратите внимание: GitHub’s “Download zip file” не сработает корректно для ESP-IDF!!!
+   
 
