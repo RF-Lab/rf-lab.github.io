@@ -17,8 +17,7 @@ categories: news
    git clone --recursive https://github.com/espressif/esp-idf.git
 ````
 
-   Обратите внимание: GitHub’s “Download zip file” не сработает корректно для ESP-IDF!!!
-   
- 4. Запустите Anaconda Prompt (первый раз придется запустить Anaconda Navigator и из него запустить Anaconda Prompt). Находясь в командной строке Anaconda, перейдите в папку %Home%/ESP-IDF/, где %Home%/ - директория, в которую вы клонировали ESP-IDF.  
+   Обратите внимание: GitHub’s “Download zip file” не сработает корректно для ESP-IDF!!!   
+4. Запустите Anaconda Prompt (первый раз придется запустить Anaconda Navigator и из него запустить Anaconda Prompt). Находясь в командной строке Anaconda, перейдите в папку %Home%/ESP-IDF/, где %Home%/ - директория, в которую вы клонировали ESP-IDF. Последовательно запустить install.bat, export.bat.  
  
 
