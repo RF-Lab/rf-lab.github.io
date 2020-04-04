@@ -9,9 +9,11 @@ categories: news
 ## Получение ESP-IDF
 1. [Установите Git] (https://git-scm.com/downloads)
 2. С помощью Git загрузите ропозиторий:
-''''
+
+````
    git clone --recursive https://github.com/espressif/esp-idf.git
-''''
+````
+
    Обратите внимание: GitHub’s “Download zip file” не сработает корректно для ESP-IDF!!!
    
 
