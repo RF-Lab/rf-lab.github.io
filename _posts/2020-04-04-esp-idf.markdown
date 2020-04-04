@@ -6,7 +6,7 @@ categories: news
 ---
 ### Установка ESP-IDF для процессора Espressive ESP32 под Windows
 
-Данная инструкция составлена на основе личного опыта и может не совпадать с оригинальной документацией (https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup-scratch.html).
+Данная инструкция составлена на основе личного опыта и может не совпадать с [оригинальной документацией](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup-scratch.html).
 
 ## Получение ESP-IDF
 1. [Установите пакет Anaconda](https://www.anaconda.com/distribution/#download-section)
