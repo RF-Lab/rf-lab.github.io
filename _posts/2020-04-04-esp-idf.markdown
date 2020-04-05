@@ -18,6 +18,53 @@ categories: news
 ````
 
    Обратите внимание: GitHub’s “Download zip file” не сработает корректно для ESP-IDF!!!   
-4. Запустите Anaconda Prompt (первый раз придется запустить Anaconda Navigator и из него запустить Anaconda Prompt). Находясь в командной строке Anaconda, перейдите в папку %Home%/ESP-IDF/, где %Home%/ - директория, в которую вы клонировали ESP-IDF. Последовательно запустить install.bat, export.bat.  
- 
+4. Запустите Anaconda Prompt (первый раз придется запустить Anaconda Navigator и из него запустить Anaconda Prompt). Находясь в командной строке Anaconda, перейдите в папку %Home%/ESP-IDF/, где %Home%/ - директория, в которую вы клонировали ESP-IDF. Последовательно запустите install.bat, export.bat. Установка ESP-IDF завершена.
+5. [Установите драйвер USB->COM port](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/establish-serial-connection.html). Подключите плату с процессором к любому порту USB. Запустите Anaconda Prompt. Проверьте правильность подключения с помощью команды mode.
+````
+(base) C:\ESP\esp-idf\examples\wifi\getting_started\station>mode
+Состояние устройства COM3:
+---------------------------
+    Скорость:              115200
+    Четность:              None
+    Биты данных:           8
+    Стоповые биты:         1
+    Таймаут:               OFF
+    XON/XOFF:              OFF
+    Синхронизация CTS:     OFF
+    Синхронизация DSR:     OFF
+    Чувствительность DSR:  OFF
+    Цепь DTR:              OFF
+    Цепь RTS:              OFF
 
+Состояние устройства CON:
+--------------------------
+    Строки:                300
+    Столбцы:               80
+    Скорость клавиатуры:   31
+    Задержка клавиатуры:   1
+    Кодовая страница:      866
+
+
+(base) C:\ESP\esp-idf\examples\wifi\getting_started\station>
+````
+Плата подключена через виртуальный COM-порт 3. 
+
+6. Скомпилируйте и запустите готовый пример. Запустите Anaconda Prompt. Перейдите в папку %Home%/ESP-IDF/examples/wifi/getting_started/station, где %Home%/ - директория, в которую вы клонировали ESP-IDF. Выполните команду 
+````
+idf.py menuconfig
+````
+В появившемся меню выберите Example configuration->WIFI SSID. Укажите имя вашей сети WIFI. При необходимости выберите Example configuration->WIFI Password и укажите пароль для доступа с wifi сети. Вернитесь в главное меню, нажмите Esc для выхода, нажмите Y для сохранения изменений.
+
+7. Компиляция. Выполните команду 
+````
+idf.py build
+````
+8. Загрузка прошивки в процессор. Выполните команду
+````
+idf.py -p COM3 flash
+````
+Нажмите на плате кнопку разрешения записи в кристал
+9. Для просмотра отладочной информации из процессора выполните команду 
+````
+idf.py -p COM3 monitor
+````
