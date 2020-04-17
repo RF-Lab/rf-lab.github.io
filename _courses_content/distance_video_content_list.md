@@ -13,7 +13,7 @@ title: Видео материалы по всем курсам в хронол�
 |11-04-20|Технология обработки и передачи данных 9_11_04_20_1040|[【Video】](https://youtu.be/jhGikgY2iP4) [【Colaboration】]() [【PDF】]()|
 |11-04-20|Методы и алгоритмы цифровой обработки сигналов_09_11_04_20_1310|[【Video】](https://youtu.be/GuC1gxGNDuM) [【Colaboration】](https://colab.research.google.com/drive/1tojkXx4sjpNIsMuQVm8oGWhYnlXGfymF) [【PDF】]()|
 |11-04-20|Методы и алгоритмы цифровой обработки сигналов_09_11_04_20_1400|[【Video】](https://youtu.be/oQu0bszhZEE) [【Colaboration】](https://colab.research.google.com/drive/1tojkXx4sjpNIsMuQVm8oGWhYnlXGfymF) [【PDF】]()|
-|11-04-20|Методы и алгоритмы цифровой обработки сигналов_09_11_04_20_1450|[【Video】](https://youtu.be/Mu2KANPbnks) [【Colaboration】]() [【PDF】]()|
-|11-04-20|Методы и алгоритмы цифровой обработки сигналов_09_11_04_20_1630|[【Video】](https://youtu.be/A7g7uJchSWg) [【Colaboration】]() [【PDF】]()|
+|11-04-20|Методы и алгоритмы цифровой обработки сигналов_09_11_04_20_1450|[【Video】](https://youtu.be/Mu2KANPbnks) [【Colaboration】](https://colab.research.google.com/drive/160GFQucFiMR-egmaLBQOlww3RH9Z0uOZ) [【PDF】]()|
+|11-04-20|Методы и алгоритмы цифровой обработки сигналов_09_11_04_20_1630|[【Video】](https://youtu.be/A7g7uJchSWg) [【Colaboration】](https://colab.research.google.com/drive/160GFQucFiMR-egmaLBQOlww3RH9Z0uOZ) [【PDF】]()|
 |16-04-20|Интеграция компонентов ИС_10_16_04_20|[【Video】](https://youtu.be/mt6ipzup5Do) [【Colaboration】]() [【PDF】]()|
 
