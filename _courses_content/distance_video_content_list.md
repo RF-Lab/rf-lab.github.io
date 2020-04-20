@@ -4,7 +4,7 @@ categories: [courses]
 title: Видео материалы по всем курсам в хронологическом порядке
 ---
 
-## Видео лекций и семинаров в период изоляции [COVID-19](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=fasta)
+## Видео лекций и семинаров в период изоляции [COVID-19](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202%20(SARS-CoV-2),%20taxid:2697049&SeqType_s=Nucleotide)
 
 | Дата          | Название      | Ссылки        |
 | ------------- | ------------- | ------------- |
