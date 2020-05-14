@@ -30,4 +30,4 @@ title: Видео материалы по всем курсам в хронол�
 |02-05-20|Методы_и_алгоритмы_распознавания_и_обработки_данных_12_02_05_20_1630|[【Video】](https://youtu.be/tE2YYAGU1_Y) [【Colaboration】]()|
 |02-05-20|Методы_и_алгоритмы_распознавания_и_обработки_данных_12_02_05_20_1810|[【Video】](https://youtu.be/srzcEawPu8E) [【Colaboration】]()|
 |14-05-20|Интеграция компонентов ИС_14_14_05_20_1810|[【Video】](https://youtu.be/epXdMcIyrNk)[【Colaboration】](https://colab.research.google.com/drive/1EYMFzQYMgJyH36QLWJ6FloMuLg3bxlmQ?usp=sharing)|
-|14-05-20|Интеграция компонентов ИС_14_14_05_20_1810|[【Video】]() [【Colaboration】]()|
+|14-05-20|Интеграция компонентов ИС_14_14_05_20_1810|[【Video】](https://youtu.be/1ochEfnOJy4) [【Colaboration】](https://colab.research.google.com/drive/1gbuQlBy8xKeXsH10x53GIQqvJaTFT2u4?usp=sharing)|
