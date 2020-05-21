@@ -34,3 +34,4 @@ title: Видео материалы по всем курсам в хронол�
 |16-05-20|Интеграция компонентов ИС_14_16_05_20_0900|[【Video】](https://youtu.be/-t1THKlVOh4) [【Colaboration】](https://colab.research.google.com/drive/17vFiwHrh6st_mQkB1khAcX_8AsJhvtul?usp=sharing)|
 |16-05-20|Интеграция компонентов ИС_14_16_05_20_1040|[【Video】](https://youtu.be/ceRWX7RdxF0) [【Colaboration】](https://colab.research.google.com/drive/1l2v8EX_OSiCYMVHE2Gu--Q9GehxMVgBV?usp=sharing)|
 |16-05-20|Интеграция компонентов ИС_14_16_05_20_1310|[【Video】](https://youtu.be/7NI4tUG858o) -Вопросы к тесту|
+|16-05-20|Методы_и_алгоритмы_распознавания_и_обработки_данных_14_16_05_20_1450|[【Video】](https://youtu.be/WvilFOogSbo) [【Colaboration】](https://colab.research.google.com/drive/1Lp0llmf7Qu_ZwxVC0mEUgRd-CuGNsUkE?usp=sharing)|
