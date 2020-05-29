@@ -39,3 +39,5 @@ title: Видео материалы по всем курсам в хронол�
 |23-05-20|Методы и алгоритмы цифровой обработки сигналов_15_23_05_20_1310|[【Video】](https://youtu.be/ZbRRgLuZpFg) [【Colaboration】](https://colab.research.google.com/drive/1BfjKf93WwHXz6ZACyNVQGI--YfykB8a_?usp=sharing)|
 |23-05-20|Методы и алгоритмы цифровой обработки сигналов_15_23_05_20_1450|[【Video】](https://youtu.be/k4gDfvXF1zg) Вопросы к тесту|
 |23-05-20|Методы и алгоритмы цифровой обработки сигналов_15_23_05_20_1630|[【Video】](https://youtu.be/pHQZTLaf25I) [【Colaboration】](https://colab.research.google.com/drive/1ACGLNOcLQTnn4CiVd_vlSPciHiqqWqOj?usp=sharing)|
+|28-05-20|Интеграция компонентов ИС_14_14_05_20_1810|[【Video】](https://youtu.be/GwP_Ou2MhN0) [【Colaboration】](https://colab.research.google.com/drive/17WBWC1NsJ8u61Nh0laxzUa7JzMOyW0G-?usp=sharing)|
+|28-05-20|Интеграция компонентов ИС_14_14_05_20_1810|[【Video】](https://youtu.be/V5T4vBd3xVk) |
