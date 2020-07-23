@@ -6,8 +6,8 @@ categories: news
 ---
 ### Теория LSTM и GRU
 
-* https://www.youtube.com/watch?v=Kv4NyVW9IZ4
-* http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* Andrey Sozykin Сети LSTM и GRU  [【ссылка на видео】](https://www.youtube.com/watch?v=Kv4NyVW9IZ4)
+* Christopher Olah Understanding LSTM Networks, Posted on August 27, 2015 [【ссылка на электронный ресурс】](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ### Классификация сигналов ЭМГ с помощью сетей на основе LSTM и GRU
 
