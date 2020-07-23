@@ -11,3 +11,5 @@ categories: news
 
 ### Классификация сигналов ЭМГ с помощью сетей на основе LSTM и GRU
 
+* [Li Zhang et al. sEMG Based Human Motion Intention Recognition (модели сигналов)【ссылка на pdf】](http://downloads.hindawi.com/journals/jr/2019/3679174.pdf) 
+
