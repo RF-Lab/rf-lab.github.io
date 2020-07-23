@@ -4,12 +4,10 @@ title:  Сети LSTM и GRU для классификации сигналов 
 date:   2020-07-23 12:00:00
 categories: news
 ---
-### Сети LSTM и GRU для классификации сигналов ЭМГ
-
-#### Теория LSTM и GRU
+### Теория LSTM и GRU
 
 * https://www.youtube.com/watch?v=Kv4NyVW9IZ4
 * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
-* Классификация сигналов ЭМГ с помощью сетей на основе LSTM и GRU
+### Классификация сигналов ЭМГ с помощью сетей на основе LSTM и GRU
 
