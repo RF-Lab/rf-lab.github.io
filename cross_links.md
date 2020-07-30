@@ -92,6 +92,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
 * `12-27` - Joachim Hagenauer The Turbo Principle: Tutorial Introduction and State of the Art. Technical University of Munich Department of Communications Engineering Arcisstr. 21, 80290 Munich, Germany [【ссылка на PDF】](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.7546&rep=rep1&type=pdf)
 * `12-28` - Javier Céspedes, Pablo M. Olmos, Member, IEEE, Matilde Sánchez-Fernández, Senior Member, IEEE, and Fernando Perez-Cruz, Senior Member, IEEE Expectation Propagation Detection for High-Order High-Dimensional MIMO Systems.
 * `12-29` - William E. Ryan, Shu Lin Channel Codes. Classical and Modern. © Cambridge University Press 2009.
+* `12-30` - Le Nguyen Binh Optical Fiber Communication Systems with MATLAB® and Simulink® Models. Huawei Technologies CO., LTD., Second Edition, CRC Press. © 2015 by Taylor & Francis Group, LLC. `Есть модель драйвера MZM в виде фильтр Бесселя`.
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[【ссылка на описание】](http://www.ozon.ru/context/detail/id/3001036/)
