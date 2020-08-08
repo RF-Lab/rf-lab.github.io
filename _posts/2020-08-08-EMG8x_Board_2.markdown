@@ -10,3 +10,5 @@ categories: news
 
 * Ситуация со старой платой [【ссылка на видео】](https://youtu.be/OpW4xbJmq8s)
 * Результаты пайки чипа [【ссылка на видео】](https://youtu.be/FfRi6EUIStY)
+* Кому интересно - здесь про флюс и пасту - [【ссылка на видео】](https://youtu.be/J9SKqiiM-64)
+* Паяльник CT-100 - [【ссылка на видео】](https://youtu.be/hjqqzLVKDI4)
