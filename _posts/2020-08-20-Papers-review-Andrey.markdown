@@ -15,3 +15,6 @@ categories: news
 * U. Cote-Allard, C. Fall, A. Drouin, A. Campeau-Lecours, C. Gosselin, K. Glette, F. Laviolette, and B. Gosselin, “Deep Learning for Electromyographic Hand Gesture Signal Classification Using Transfer Learning”, arXiv:1801.07756v4 [cs.LG] 19 Nov 2018 [【ссылка на электронный ресурс】](https://ieeexplore.ieee.org/document/8675262)
 ```Пока к сожалению толком не прочел, но посмотрел ссылки на эту статью и набрел на еще одну интересную статью с использованием рекуррентных сетей  https://arxiv.org/pdf/1901.06958.pdf - еще раз хочу обратить внимание на LSTM - надо бы помоделировать + там же есть ссылка на базу данных EMG dataset in lower limb, http://archive.ics.uci.edu/ml/datasets/emg+dataset+in+lower+limb, retrieved on 27.12.2018.```
 
+* Интересное видео (презентация продукта) по анализу сигналов ЭМГ от компании CTRL-labs (язык Английский). [【ссылка на Youtube】](https://www.youtube.com/watch?time_continue=526&v=D8pB8sNBGlE&feature=emb_logo) ```Компания CTRL-labs была выкуплена подразделением Facebook Reality Labs в 2019 году.```
+
+Спасибо Андрею Лукьянчикову за подготовку материалов. Пишите коменты в группу. 
