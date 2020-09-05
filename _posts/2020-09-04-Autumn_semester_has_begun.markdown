@@ -11,6 +11,8 @@ categories: news
 
 ![Суббота](https://drive.google.com/uc?export=view&id=1asZ1byb9457sEvCErzdn7E25A6r0hjxo)
 
+![Суббота2](https://drive.google.com/uc?export=view&id=13w0GanKOhaibCB9rDE2kRMA-DmGfX9VJ)
+
 ### Расписание на осенний семестр (Магистры)
 
 Каждый четверг. Стромынка. 
