@@ -127,6 +127,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-17` - Richard S. Sutton and Andrew G. Barto Reinforcement Learning: An Introduction, 2nd edition [【ссылка на описание】](http://incompleteideas.net/book/the-book-2nd.html) [【ссылка на PDF】](http://incompleteideas.net/book/RLbook2018.pdf)
  * `16-18` - David J.C. MacKay Information Theory, Inference, and Learning Algorithms [【ссылка на PDF (только просмотр, не для печати)】](https://www.inference.org.uk/itprnn/book.pdf)
  * `16-19` - Paul D. Allison Convergence Failures in Logistic Regression. [【ссылка на PDF】](https://pdfs.semanticscholar.org/4f17/1322108dff719da6aa0d354d5f73c9c474de.pdf).
+ * `16-20` - Stephen Boyd and Lieven Vandenberghe Convex Optimization. Cambridge University Press 2004. [【ссылка на PDF】](https://web.stanford.edu/~boyd/cvxbook/)
  
 
 # `[17]` Импульсная техника
