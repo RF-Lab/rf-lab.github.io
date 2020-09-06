@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Новсти EMG8x
+title:  Новости EMG8x
 date:   2020-09-06 16:30
 categories: news
 ---
