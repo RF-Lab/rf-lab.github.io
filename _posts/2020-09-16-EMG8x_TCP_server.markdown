@@ -6,7 +6,7 @@ categories: news
 ---
 ### Передача EMG данных по TCP с платы на ноутбук
 
-[Ссылка на YouTube видео]()
+[Ссылка на YouTube видео](https://youtu.be/Wa6-aIWuCYA)
 
 Исходники ESP32 [здесь](https://github.com/RF-Lab/emg_platform/blob/master/source/esp32/emg8x/main/app_main.c). 
 
