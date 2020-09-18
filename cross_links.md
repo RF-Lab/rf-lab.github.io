@@ -59,6 +59,7 @@ permalink: /cross_links/
  * `11-15` - Джиган В.И. Адаптивная фильтрация сигналов: теория и алгоритмы. Москва: Техносфера, 2013. — 528 с. — ISBN 978-5-94836-342-4. [【ссылка на описание】](https://www.ozon.ru/context/detail/id/20466605/)
  * `11-16` - А. Б. Сергиенко Алгоритмы адаптивной фильтрации:особенности реализации в MATLAB. Exponenta Pro. УДК 621.391.26. [【ссылка на PDF】](http://images.nature.web.ru/nature/2003/04/11/0001193683/06.pdf).
  * `11-17` - Paulo S.R. Diniz Adaptive Filtering. Algorithms and Practical Implementation. Fourth Edition. Springer - 2013. [【ссылка на описание】](https://www.springer.com/gp/book/9781461441052)
+ * `11-18` - Edited by Ginalber Luiz Serra. Kalman Filters: Theory for Advanced Applications. Instituto Federal do Maranhão, Brazil.[【ссылка на PDF】](https://www.intechopen.com/books/kalman-filters-theory-for-advanced-applications). 
 
 # `[12]` Цифровая связь, навигация, радиолокация
  * `12-1` - Прокис Дж. Цифровая связь. - Радио и Связь, 2000. [【ссылка на описание】](http://www.ozon.ru/context/detail/id/117618/)
