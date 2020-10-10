@@ -14,7 +14,7 @@ categories: news
   * 19:40 - БСМО-01-19, ИКИС,  - Очно, на Стромынке.
 
 * Суббота 10 Октября
-  * 9:00  - БСБО-09/10-17, ТОПД, [Удаленка Skype БСБО-09/10-17 ТОПД Осенний семестр](https://join.skype.com/nndD7yazRgSR) [youtube](https://youtu.be/0Og5CciFtko) [colab](https://colab.research.google.com/drive/1_666ICMCVZyA-13Dp3hb89Anguirn5Jc?usp=sharing)
+  * 9:00  - БСБО-09/10-17, ТОПД, [Удаленка Skype БСБО-09/10-17 ТОПД Осенний семестр](https://join.skype.com/nndD7yazRgSR) [【Video】](https://youtu.be/0Og5CciFtko) [【Colaboration】](https://colab.research.google.com/drive/1_666ICMCVZyA-13Dp3hb89Anguirn5Jc?usp=sharing)
   * 14:50 - БИСО-01/02-17, ТОПД, [Удаленка Skype БИСО-01/02-17 ТОПД Осенний семестр](https://join.skype.com/pQ5074dndgHs)
   * 16:30 - БИСО-01/02-17, ТОПД, [Удаленка Skype БИСО-01/02-17 ТОПД Осенний семестр](https://join.skype.com/pQ5074dndgHs)
 
