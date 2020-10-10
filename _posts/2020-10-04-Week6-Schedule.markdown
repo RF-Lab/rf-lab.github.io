@@ -15,6 +15,8 @@ categories: news
 
 * Суббота 10 Октября
   * 9:00  - БСБО-09/10-17, ТОПД, [Удаленка Skype БСБО-09/10-17 ТОПД Осенний семестр](https://join.skype.com/nndD7yazRgSR) [【Video】](https://youtu.be/0Og5CciFtko) [【Colaboration】](https://colab.research.google.com/drive/1_666ICMCVZyA-13Dp3hb89Anguirn5Jc?usp=sharing)
+  * 10:40 - БИСО-01/02-16, МАРОД, [Удаленка Skype БИСО-01/02-16 Методы и алгоритмы распознавания и обработки данных](https://join.skype.com/csfK3o6Z7mTX) 
+  * 12:40 - БИСО-01/02-16, МАРОД, [Удаленка Skype БИСО-01/02-16 Методы и алгоритмы распознавания и обработки данных](https://join.skype.com/csfK3o6Z7mTX) 
   * 14:50 - БИСО-01/02-17, ТОПД, [Удаленка Skype БИСО-01/02-17 ТОПД Осенний семестр](https://join.skype.com/pQ5074dndgHs)
   * 16:30 - БИСО-01/02-17, ТОПД, [Удаленка Skype БИСО-01/02-17 ТОПД Осенний семестр](https://join.skype.com/pQ5074dndgHs)
 
