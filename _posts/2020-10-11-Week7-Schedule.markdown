@@ -8,7 +8,7 @@ categories: news
 Следите за обновлениями этой страницы!
 
 * Четверг 
-  * 18:00 - БСМО-01-19, ИКИС,  - Очно, на Стромынке.
+  * 18:00 - БСМО-01-19, ИКИС,  - Очно, на Стромынке. [Платформа ESP RainMaker](https://colab.research.google.com/drive/14tOBuG6NeQYaBsBzuxqDtVb6UKiQTxIj?usp=sharing)
   * 19:40 - БСМО-01-19, ИКИС,  - Очно, на Стромынке.
 
 * Суббота 17 Октября
