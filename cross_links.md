@@ -135,3 +135,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
  * `17-2` - Jean-Pierre Deschamps, Gery J.A. Bioul, Gustavo D. Sutter. Synthesis of Arithmetic Circuits: FPGA, ASIC and Embedded Systems. - March 2006, Wiley. [【ссылка на описание】](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471687839.html)
  * `17-3` - Иосиф КАРШЕНБОЙМ. Краткий курс HDL. Часть 5. Написание кода, независимого от аппаратной платформы. - КОМПОНЕНТЫ и ТЕХНОЛОГИИ. 2008г., №9. [【ссылка на PDF】](http://iosifk.narod.ru/hdl_coding/hdl_coding_7_kit_9_08.pdf)
+
+# `[18]` Анализ многомерных данных. Методы классификации.
+ * `18-1` - Roberto Merletti (Editor), Dario Farina (Editor) Surface Electromyography: Physiology, Engineering, and Applications. [【ссылка на описание】](https://www.wiley.com/en-us/Surface+Electromyography%3A+Physiology%2C+Engineering%2C+and+Applications-p-9781118987025)
+ * `18-2` - Roberto Merletti (Editor), Philip J. Parker (Editor) Electromyography: Physiology, Engineering, and Non-Invasive Applications. [【ссылка на описание】](https://www.wiley.com/en-us/Electromyography%3A+Physiology%2C+Engineering%2C+and+Non+Invasive+Applications+-p-9780471675808)
