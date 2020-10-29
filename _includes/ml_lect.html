@@ -525,14 +525,22 @@
 	<a href="https://www.kaggle.com/uciml/sms-spam-collection-dataset"> SMS Spam Collection Dataset</a>, расположенную на ресурсе <a href="https://www.kaggle.com/">Kaggle.Com</a>.
 	</p>
 	<p>
+	Выборка содержит SMS сообщения двух типов - SPAM (нежелательные сообщения) и HAM (нормальные, легитимные сообщения).
+	</p>
+	<p>
 	<table style="width:100%">
-	<tr><th>label</th> <th>message</th><th>length</th></tr>
+	<tr><th>#</th><th>label</th> <th>message</th><th>length</th></tr>
 	<tr><th>0</th> <th>ham</th> <th>Go until jurong point, crazy.. Available only ...</th>	<th>111</th></tr>
 	<tr><th>1</th> <th>ham</th> <th>Ok lar... Joking wif u oni...</th>				<th>29</th></tr>
 	<tr><th>2</th> <th>spam</th> <th>Free entry in 2 a wkly comp to win FA Cup fina...</th>	<th>155</th></tr>
 	<tr><th>3</th> <th>ham</th> <th>U dun say so early hor... U c already then say...</th>	<th>49</th></tr>
 	<tr><th>4</th> <th>ham</th> <th>Nah I don't think he goes to usf, he lives aro...</th>	<th>61</th></tr>
 	</table>
+	</p>
+	<p>
+	На первом этапе следует провести анализ выборки и определить наиболее часто встречающиеся слова. Из этого набора слов следует удалить заведомо 
+	не информационные: междометия, знаки пунктуации и т.п.. Затем необходимо среди часто встречающихся слов отобрать те что бдут использованы в качестве обучающих признаков.
+	Предположим, мы отобрали таким образом N слов. В качестве классификационного вектора 
 	</p>
 	<H1>Список литературы.</H1> 
 	<p>
