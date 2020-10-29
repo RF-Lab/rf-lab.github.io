@@ -516,6 +516,13 @@
 	</header>
 	<div class="body">
 	<p>
+	Вспомним, что байесовский классификатор использует апостериорное распределение:
+	\begin{equation}
+		p\left(y_i=k|\vec{x_i}\right) = \frac{p\left(\vec{x_i}|y_i=k\right)p(y_i=k)}{p(\vec{x_i})} 
+		\label{Bayes1_2}
+	 \end{equation}
+	Попробуем применить классификатор (\ref{Bayes1_2}) к задаче фильтрации СПАМ сообщений. Для этого будем использовать обучающую выборку
+	[SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset) расположенную на ресурсе https://www.kaggle.com/. 
 	</p>	    
 	<H1>Список литературы.</H1> 
 	<p>
