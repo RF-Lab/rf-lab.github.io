@@ -13,10 +13,10 @@ categories: news
 
 * Суббота, 31 Октября
   * 9:00  - БИСО-01/02-17, ТОПД,  Очно, Стромынка, ауд. 350.  [для тех, кто дома - 【Discord】](https://discord.gg/JRaN4AU).  [【Материалы к лекции】](https://colab.research.google.com/drive/1OBXQAkgk2PUJKLw3SK63KU57nl11fhFh?usp=sharing)
-  * 10:40 - БИСО-01/02-17, ТОПД,  Очно, Стромынка, ауд. 258а. [для тех, кто дома - 【Discord】](https://discord.gg/JRaN4AU).
+  * 10:40 - БИСО-01/02-17, ТОПД,  Очно, Стромынка, ауд. 258а. [для тех, кто дома - 【Discord】](https://discord.gg/JRaN4AU). [【Материалы к лекции】](https://colab.research.google.com/drive/1QS_6GqOooF9loKtvwPH161vKb9xKWimW?usp=sharing)
   * 12:40 - БИСО-01/02-17, ТОПД,  Очно, Стромынка, ауд. 258а. [для тех, кто дома - 【Discord】](https://discord.gg/JRaN4AU).
-  * 14:50 - БСБО-09/10-17, ТОПД,  Очно, Стромынка, ауд. 376.  [для тех, кто дома - 【Discord】](https://discord.gg/V8ZUrmc)
-  * 16:30 - БСБО-09/10-17, ТОПД,  Очно, Стромынка, ауд. 376.  [для тех, кто дома - 【Discord】](https://discord.gg/V8ZUrmc)
+  * 14:50 - БСБО-09/10-17, ТОПД,  Очно, Стромынка, ауд. 376.  [для тех, кто дома - 【Discord】](https://discord.gg/V8ZUrmc).
+  * 16:30 - БСБО-09/10-17, ТОПД,  Очно, Стромынка, ауд. 376.  [для тех, кто дома - 【Discord】](https://discord.gg/V8ZUrmc).
   * У БИСО-01/02-16 на этой неделе моих пар нет.
 
 Физически в субботу я весь день на стромынке.
