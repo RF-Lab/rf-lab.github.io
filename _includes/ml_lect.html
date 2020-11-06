@@ -789,11 +789,15 @@
 	</header>
 	<div class="body">
 	<p>
-	Для оценки параметров модели (классификатора) можно предложить пошаговый алгоритм.
-	Перед запуском алгоритма задаются начальным (произвольным) набором параметров модели \(\boldsymbol c_0\). 
-	Далее на каждом шаге алгоритма вычисляют градиент критерия
+	Если критерий P(\boldsymbol c) задан аналитически вмести со своими частными производными первого порядка, то для оценки параметров модели 
+	(классификатора) можно предложить пошаговый алгоритм. Перед запуском алгоритма задаются начальным (произвольным) набором параметров модели \(\boldsymbol c(0)\). 
+	Далее на каждом \(i\)-ом шаге алгоритма вычисляют градиент критерия
 	\begin{equation}
-	\Delta P(\boldsymbol c)=\left(\frac{\partial P(\boldsymbol c)}{\partial c_1},\frac{\partial P(\boldsymbol c)}{\partial c_2}\ldots \frac{\partial P(\boldsymbol c)}{\partial c_D}\right)\tag{35}
+	\Delta \boldsymbol P=\left(\frac{\partial P(\boldsymbol c(i))}{\partial c_1},\frac{\partial P(\boldsymbol c(i))}{\partial c_2}\ldots \frac{\partial P(\boldsymbol c(i))}{\partial c_D}\right)\tag{35}
+	\end{equation}
+	И обновляют значения коэффициентов модели:		
+	\begin{equation}
+	\boldsymbol с(i+1) = \boldsymbol c(i) - \Delta \boldsymbol P\tag{36}
 	\end{equation}
 	</p>	    
 	</div>	
