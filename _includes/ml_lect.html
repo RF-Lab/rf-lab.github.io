@@ -81,6 +81,19 @@
 	    margin-left: 170px; /* Отступ слева */
 	    margin-bottom: 5px; /* Расстояние между терминами */
 	   }	
+
+	    .article {
+		counter-reset: figures ;
+	    }
+	    
+	    .figure {
+	        counter-increment: figures;
+	    }	
+	   
+	    .figure figcaption:before {
+		content: 'Fig. ' counter(figures) ' - ';
+	    }
+	    
 	</style>
 	<script type="text/javascript" async
 		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
