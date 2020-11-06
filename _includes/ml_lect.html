@@ -106,7 +106,7 @@
 		padding: .5em;
 		text-align: center;
 		color: #fff;
-		background: #2060b0;
+		background: #8080ff;
 	    }	    
 	    
 	</style>
@@ -789,11 +789,12 @@
 	</header>
 	<div class="body">
 	<p>
-	Для оценки параметров модели (классификатора) можно предложить пошаговый алгоритм. Суть алгоритма состоит в следующем:
-	<ol>
-	  <li>На первом шаге задаются начальным набором параметров модели \(\boldsymbol c_0\) и устанавливают индекс \(i=0\).</li>
-	  <li>На втором шаге из обучающей выборки берут \(i\)-ый экземпляр данных \(\boldsymbol x_i\) и вычисляют оценка ненаблюдаемой величины \(\hat x_i\).</li>
-	</ol>			
+	Для оценки параметров модели (классификатора) можно предложить пошаговый алгоритм.
+	Перед запуском алгоритма задаются начальным (произвольным) набором параметров модели \(\boldsymbol c_0\). 
+	Далее на каждом шаге алгоритма вычисляют градиент критерия
+	\begin{equation}
+	\Delta P(\boldsymbol c)=\left(\frac{\partial P(\boldsymbol c)}{\partial c_1},\frac{\partial P(\boldsymbol c)}{\partial c_2}\ldots \frac{\partial P(\boldsymbol c)}{\partial c_D}\right)\tag{35}
+	\end{equation}
 	</p>	    
 	</div>	
    </page>
