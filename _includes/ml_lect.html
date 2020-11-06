@@ -83,13 +83,20 @@
 	    margin-bottom: 5px; /* Расстояние между терминами */
 	   }	
 
-	    .figure {
+	    figure {
 	        counter-increment: figures;
 	    }	
 	   
-	    .figure figcaption:before {
+	    figure figcaption:before {
 		content: 'Fig. ' counter(figures) ' - ';
 	    }
+	    
+	   figure {
+		padding: 0.9em;
+		border: 3px solid #f5bca8;
+		background: #fff;
+		margin: 0 auto 1em;
+	    }	    
 
 	    figure figcaption {
 		font-weight: 700;
