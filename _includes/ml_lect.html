@@ -795,10 +795,23 @@
 	\begin{equation}
 	\Delta \boldsymbol{P}(i)=\left(\frac{\partial P\left(\boldsymbol c(i)\right)}{\partial c_1},\frac{\partial P(\boldsymbol c(i))}{\partial c_2}\ldots \frac{\partial P(\boldsymbol c(i))}{\partial c_D}\right)\tag{35}
 	\end{equation}
-	И обновляют значения коэффициентов модели:		
+	И обновляют значения коэффициентов модели:
 	\begin{equation}
-	\boldsymbol{с}(i+1) = \boldsymbol{c}(i) - \Delta \boldsymbol{P}(i)\tag{36}
+	\boldsymbol{с}(i+1) = \boldsymbol{c}(i) - \alpha \Delta \boldsymbol{P}(i)\tag{36}
 	\end{equation}
+	Этот метод называют алгоритмом наискорейшего спуска (Gradient Descent Algorithm - GDA).
+	Здесь \(\alpha\) - параметр алгоритма, определяющий скорость спуска к решению.
+	Если критерий \(P\) является квадратичным, как было в случае линейного классификатора в предыдущих лекциях, то решение существует и решение единственно, 
+	ему соответствует экстремальная точка \(\Delta P=\boldsymbol{0}\). Такая задача называется выпуклой (convex).
+	В более общем случае экстремальная точка \(\Delta P=\boldsymbol{0}\) не обязательно соответсвует минимуму критерия \(P\), более того, 
+	таких точек может быть много вплоть до бесконечного количества. Оптимальное решение может быть вообще говоря получено только перебором всех таких точек и сравнением
+        величины критерия. Такая задача называется невыпуклой (non-convex).
+	</p>	    
+	<H1>Список литературы.</H1> 
+	<p>
+	<ol>
+	  <li><a name="HaganNN"></a> <a href="http://hagan.okstate.edu/NNDesign.pdf">M.Hagan H.Demuth - Neural Network Design (2nd Edition). (10-2, ADALINE Network) </a> </li>
+	</ol>			
 	</p>	    
 	</div>	
    </page>
