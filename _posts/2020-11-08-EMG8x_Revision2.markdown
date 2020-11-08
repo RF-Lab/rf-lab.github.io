@@ -8,6 +8,8 @@ categories: news
 
 [【Файлы】](https://github.com/RF-Lab/emg_platform/tree/master/hw_platform/ADS1299EMG8xR2) проекта переданы в [REZONIT](https://www.rezonit.ru/)
 
+![Letter](https://drive.google.com/uc?export=view&id=1NIyc1sclnxlqXFBtHk4lDmxcQv-hqg8D)
+
 ![Схема (KiCAD Eeschema)](https://drive.google.com/uc?export=view&id=1L_DrWvEDwm783Buy2m62GdEQSulPrG8b)
 
 ![Front gerber](https://drive.google.com/uc?export=view&id=1hN0poB4uc8N73exoMtfLxHJGHW3u5dZl)
