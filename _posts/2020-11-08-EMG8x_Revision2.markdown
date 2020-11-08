@@ -6,8 +6,15 @@ categories: news
 ---
 ### EMG8xR2 отправлена в производство!
 
-Файлы проекта переданы в [REZONIT](https://www.rezonit.ru/)
+[【Файлы】](https://github.com/RF-Lab/emg_platform/tree/master/hw_platform/ADS1299EMG8xR2) проекта переданы в [REZONIT](https://www.rezonit.ru/)
 
 ![Схема (KiCAD Eeschema)](https://drive.google.com/uc?export=view&id=1L_DrWvEDwm783Buy2m62GdEQSulPrG8b)
 
 ![Front gerber](https://drive.google.com/uc?export=view&id=1hN0poB4uc8N73exoMtfLxHJGHW3u5dZl)
+
+![Back gerber](https://drive.google.com/uc?export=view&id=1BsafmD12kwoHVkJh0ndohjoeSAEMBt_H)
+
+![Front 3d](https://drive.google.com/uc?export=view&id=1ftYCHDupvvZYecgCGAcaD7Ab4m_XAcu0)
+
+![Back 3d](https://drive.google.com/uc?export=view&id=1MH8trmyGndIPEdMWTS9q-ZSTEHRyNE4C)
+
