@@ -6,6 +6,8 @@ categories: news
 ---
 ### EMG8xR2 отправлена в производство!
 
-Файлы проекта переданы в [REZONIT](www.resonit.ru)
+Файлы проекта переданы в [REZONIT](https://www.rezonit.ru/)
 
 ![Схема (KiCAD Eeschema)](https://drive.google.com/uc?export=view&id=1L_DrWvEDwm783Buy2m62GdEQSulPrG8b)
+
+![Front gerber](https://drive.google.com/uc?export=view&id=1hN0poB4uc8N73exoMtfLxHJGHW3u5dZl)
