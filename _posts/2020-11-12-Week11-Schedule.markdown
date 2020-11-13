@@ -12,9 +12,9 @@ categories: news
   * 19:40 - БСМО-01-19, Интеграция компонентов информационных систем, Очно, стромынка.
   
 * Суббота, 14 Ноября
-  * 9:00  - БИСО-01/02-17, ТОПД,  Online,  [【Discord】](https://discord.gg/JRaN4AU).
-  * 10:40 - БИСО-01/02-17, ТОПД,  Online,  [【Discord】](https://discord.gg/JRaN4AU).
-  * 12:40 - БИСО-01/02-17, ТОПД,  Online,  [【Discord】](https://discord.gg/JRaN4AU).
+  * 12:40 - БИСО-01/02-16, МАРОД, Online, [【Skype】](https://join.skype.com/csfK3o6Z7mTX).
   * 14:50 - БСБО-09/10-17, ТОПД,  Online,  [【Discord】](https://discord.gg/V8ZUrmc).
   * 16:30 - БСБО-09/10-17, ТОПД,  Online,  [【Discord】](https://discord.gg/V8ZUrmc).
+  * 18:10 - БСБО-09/10-17, ТОПД,  Online,  [【Discord】](https://discord.gg/V8ZUrmc).
   
+Господа дипломники, стучитесь сюда - [【Skype】](https://join.skype.com/jVkDp81Gfjjw)
