@@ -132,9 +132,15 @@
 	<div class="body">
 	<p>
 	
+	Линейный нерекурсивный фильтр может быть представлен в виде свертки для одной точки выхода:
 	\begin{equation}
-	    y_k=\sum_\limits_{m=0}^{M-1}c_m x_{k-m}
+	    y_k=\sum\limits_{m=0}^{M-1}c_m x_{k-m} \tag{1}
 	    \label{eq_convolution}
+	\end{equation}
+		
+	Либо в векторно-матричной форме:
+	\begin{equation}
+	    \boldsymbol{y}=\boldsymbol{X}\boldsymbol{c}	    \label{eq_convolution}    \tag{2}
 	\end{equation}
 		
 	</p>
