@@ -9,7 +9,7 @@ title: ЦОС. Лекция 10. Адаптивные линейные фильт
 
 $$
 \begin{equation}
-x=f(y)
+x=f(y)\tag{1}
 \end{equation}
 $$
 
