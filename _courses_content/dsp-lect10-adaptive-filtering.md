@@ -17,7 +17,7 @@ $$
 Либо в векторно-матричной форме:
 $$
 \begin{equation}
-\boldsymbol{y}=\boldsymbol{X}\boldsymbol{c}\tag{2}
+\boldsymbol{y}=\boldsymbol{X}\boldsymbol{c}\tag{a}
 \end{equation}
 $$
 
