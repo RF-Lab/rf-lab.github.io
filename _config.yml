@@ -27,6 +27,7 @@ github_username:  rf-lab
 # Build settings
 markdown: kramdown
 theme: minima
+math_engine: mathjax
 plugins:
   - jekyll-feed
 
