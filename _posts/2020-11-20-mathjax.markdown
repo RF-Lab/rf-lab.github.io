@@ -1,0 +1,13 @@
+---
+layout: post
+title:  Jekyll upgrade and MathJax.
+date:   2020-11-20 22-01
+categories: news
+---
+
+Обновили Jykyll [commit](https://github.com/RF-Lab/rf-lab.github.io/commit/4341d1e3cfc037e1a0242247df04002de61e336d).
+
+Добавили MathJax [commit](https://github.com/RF-Lab/rf-lab.github.io/commit/83eabbf57117d8e700cc35acfe99c1c02811d15f).
+
+Пример использования:
+$a^2 + b^2 = c^2$
