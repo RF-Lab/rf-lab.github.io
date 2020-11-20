@@ -1,5 +1,15 @@
 # rf-lab.github.io
 
+## Update
+[Official manual](https://jekyllrb.com/docs/upgrading/)
+```
+bundle update
+```
+or if no bundle
+```
+gem update jekyll
+```
+
 ## Development
 ```
 # rm -rf _site ; bundle exec jekyll serve
