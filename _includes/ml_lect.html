@@ -993,19 +993,19 @@
 	\end{equation}
 	
 	В этом случае получаем задачу с квадратичным критерием оптимизации с линейными ограничениями:
-	\begin{multiline}
+	\begin{multline}
 	\min_{\boldsymbol{c}}||\boldsymbol{c}||^2 \\
 	y_i\left(\boldsymbol{c}^T\boldsymbol{x_i}+b\right)\ge 1
-	\end{multiline}
+	\end{multline}
 		
 	В такой постановке задача является слишком жесткой, т.е. небольшое количество аномальных точек находящихся вблизи границы могут сильно влиять 
-	на общий результат (переобучение). Для ослабления ограничений с целью регуляризации введем дополнительный общий дейтсвительный параметр \(C\) и 
+	на общий результат (переобучение). Для ослабления ограничений с целью регуляризации введем дополнительный общий действительный параметр \(C\) и 
 	переменные \(\xi_i\) для каждой точки в обучающей выборке следующим образом:
 
-	\begin{multiline}
-	\min_{\boldsymbol{c}}||\boldsymbol{c}||^2+C\sum\limits_{i=0}^{n-1}\xi_i \\
-	y_i\left(\boldsymbol{c}^T\boldsymbol{x_i}+b\right)\ge 1
-	\end{multiline}
+	\begin{multline}
+	\min_{\boldsymbol{c},\xi_i}||\boldsymbol{c}||^2+C\sum\limits_{i=0}^{n-1}\xi_i \\
+	y_i\left(\boldsymbol{c}^T\boldsymbol{x_i}+b\right)\ge 1-\xi_i
+	\end{multline}
 		
 		
 	</p>
