@@ -941,7 +941,7 @@
     <page size="A4">
 	<header>
 		<div class="header">
-			<div class="text"><font size="6">Лекция 13.</font><font size="6">Метод опорных векторов (SVM).</font></div>
+			<div class="text"><font size="6">Лекция 13.</font><font size="6">Метод опорных векторов (SVM) - страница 1.</font></div>
 		</div>		
 	</header>
 	<div class="body">
@@ -950,6 +950,7 @@
 	способность обрабатывать большие выборки и формировать компактные модели. Для пояснения SVM обратимся к уравнению линейному классификатора:
 	\begin{equation}
 	\boldsymbol{c}\boldsymbol{x}+b=0\tag{44}
+	\label{SVM_direct_model}
 	\end{equation}
 	</p>
 	<p>
@@ -968,7 +969,29 @@
 	\begin{equation}
 	W=\frac{\boldsymbol{c}}{||\boldsymbol{c}||}\left(\boldsymbol{x}_+-\boldsymbol{x}_-\right)=\frac{2}{||\boldsymbol{c}||}\tag{45}
 	\end{equation}
+	</p>
+		
+	</div>	
+   </page>
+
+    <page size="A4">
+	<header>
+		<div class="header">
+			<div class="text"><font size="6">Лекция 13.</font><font size="6">Метод опорных векторов (SVM) - страница 2.</font></div>
+		</div>		
+	</header>
+	<div class="body">
+	<p>
 	Можно предположить, что среди всех возможных положений границы линейного классификатора предпочтительным является вариант с наибольшей шириной границы \(W\).
+	Тогда для модели SVM (\ref{SVM_direct_model}) можем определить критерий оптимизации в виде:
+	\begin{equation}
+	P(\boldsymbol{c})=\max_{\boldsymbol{c}}W=\max_{\boldsymbol{c}}\frac{2}{||\boldsymbol{c}||}
+	\end{equation}
+	Или эквивалентно:
+	\begin{equation}
+	P(\boldsymbol{c})=\min_{\boldsymbol{c}}||\boldsymbol{c}||^2\tag{46}
+	\end{equation}
+		
 	</p>
 	<H1>Список литературы.</H1> 
 	<p>
