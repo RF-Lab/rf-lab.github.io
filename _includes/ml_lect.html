@@ -1044,12 +1044,13 @@
 	
 	Двойственная задача формулируется в виде:
 	\begin{equation}
-	    \max_{\alpha_i\ge 0}\sum\limits_{i=0}^{n-1}\alpha_i-\sum\limits_{j=0}^{n-1}\sum\limits_{k=0}^{n-1}\alpha_j\alpha_k \y_j\y_k(\boldsymbol{x}_j^T\boldsymbol{x}_k) \\
+	    \max_{\alpha_i\ge 0}\sum\limits_{i=0}^{n-1}\alpha_i-\sum\limits_{j=0}^{n-1}\sum\limits_{k=0}^{n-1}\alpha_j\alpha_k y_j y_k(\boldsymbol{x}_j^T\boldsymbol{x}_k) \\
 	    0\le \alpha_i \le C, \forall i \\
 	    \sum\limits_{i=0}{n-1}\alpha_i y_i = 0
+	    \label{dual_SVM_problem}
 	\end{equation}
 		
-	Обе постановки эквивалентны.
+	Обе постановки (\ref{direct_SVM_problem}) и (\ref{dual_SVM_problem}) эквивалентны.
 	</p>	    
 		
 	<H1>Список литературы.</H1> 
