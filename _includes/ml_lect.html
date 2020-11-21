@@ -1011,11 +1011,11 @@
 	Здесь каждому вектору признаков \(\boldsymbol{x_i}\) и желаемому выходу \(y_i\) добавляется неотрицательный параметр \(\xi_i\), который позволяет 
 	отдельным точкам нарушать границу классификатора. Нарушители платят штраф в виде довеска к критерию \(C\sum\limits_{i=0}^{n-1}\xi_i\). Чем больше параметр 
 	тем больше штраф за нарушения. Поэтому в случае \(С=\infty\) получаем жесткую границу. В случае малого \(С\) получаем широкую границу и большое количество нарушителей.
-	По мере увеличения \(С\) граница сужается, а количество нарушителей снижается.
+	По мере увеличения \(С\) граница сужается, а количество нарушителей снижается. Выражение (\ref{direct_SVM_problem}) определяет *прямую задачу SVM*.
 	</p>
 	
 	<p>
-	Задача (\ref{SVM_direct_model}) является квадратичной задачей с линейными ограничениями, поэтому после применения регуляризации (подбор \(C\)) решение существует и оно единственно. 
+	Задача (\ref{direct_SVM_problem}) является квадратичной задачей с линейными ограничениями, поэтому после применения регуляризации (подбор \(C\)) решение существует и оно единственно. 
 	</p>
 		
 	<p>
@@ -1025,6 +1025,29 @@
 	<p>
 	<ol>
 	  <li><a name="Zisserman"></a> <a href="http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf">A. Zisserman. C19 Machine Learning Hilary 2015 Lecture 2: The SVM classifier </a> </li>
+	</ol>			
+	</p>	    
+		
+	</div>	
+   </page>
+
+    <page size="A4">
+	<header>
+		<div class="header">
+			<div class="text"><font size="6">Лекция 14.</font><font size="6">Двойственная задача SVM.</font></div>
+		</div>		
+	</header>
+	<div class="body">
+	<p>
+	Переход к двойственной задаче SVM базируется на теореме представлений (формулируется в разных вариантах, например, теорема Риса для Гильбертовых пространств, 
+	для нас более интересен случай [<a href="#ReprTheorem">Schölkopf et. al</a>])
+	</p>	    
+		
+	<H1>Список литературы.</H1> 
+	<p>
+	<ol>
+	  <li><a name="Zisserman"></a> <a href="http://www.robots.ox.ac.uk/~az/lectures/ml/lect3.pdf">Lecture 3: SVM dual, kernels and regression.</a> </li>
+	  <li><a name="ReprTheorem"></a> <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.42.8617&rep=rep1&type=pdf">Schölkopf, Bernhard; Herbrich, Ralf; Smola, Alex J. (2001). A Generalized Representer Theorem.</a> </li>
 	</ol>			
 	</p>	    
 		
