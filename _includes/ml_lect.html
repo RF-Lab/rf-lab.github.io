@@ -1130,7 +1130,12 @@
 		
 	Ядро SVM вводится путем обобщения понятия скалярного произведения:
 	\begin{equation}
-	    k(\boldsymbol{x}_i,\boldsymbol{x})\Phi(\boldsymbol{x}_i)^T\Phi(\boldsymbol{x})
+	    k(\boldsymbol{x}_i,\boldsymbol{x})=Phi(\boldsymbol{x}_i)^T\Phi(\boldsymbol{x})
+	\end{equation}
+
+	И переходу к понятию ядра как функции от двух векторов, например
+	\begin{equation}
+	    k(\boldsymbol{x},\boldsymbol{z})= x_1^2z_1^2 + x_2^2z_2^2+x_1z_1
 	\end{equation}
 
 	</p>	    
