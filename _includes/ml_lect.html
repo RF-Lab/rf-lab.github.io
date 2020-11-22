@@ -1063,34 +1063,6 @@
 	\(\alpha_i\) являются опорными векторами.		
 	</p>	    
 	
-	<p>
-	Рассмотрим пример обучающей выборки:
-	<figure>
-	    <img src="https://drive.google.com/uc?export=view&id=1QJEGO1vvLNxSx7MEWzO4FoFle_wlwWUH" align="center">
-	    <figcaption>Пример линейно неразделимой обучающей выборки.</figcaption>
-	</figure>
-	
-	Данная выборка не может быть полностью разделена линейным классификатором 
-		
-	При этом замена переменных:
-	\begin{equation}
-	    \begin{pmatrix}
-		x_1 \\ x_2
-	    \end{pmatrix}
-	    \rightarrow
-	    \begin{pmatrix}
-		x_1^2 \\ x_2^2 \\ x_1 x_2
-	    \end{pmatrix}
-	\end{equation}
-		
-	Позволяет перейти к трехмерному представлению вектора признаков:
-	<figure>
-	    <img src="https://drive.google.com/uc?export=view&id=1QJEGO1vvLNxSx7MEWzO4FoFle_wlwWUH" align="center">
-	    <figcaption>Переход к трехмерному признаковому пространстсву.</figcaption>
-	</figure>
-		
-	</p>
-		
 	<H1>Список литературы.</H1> 
 	<p>
 	<ol>
@@ -1105,16 +1077,39 @@
     <page size="A4">
 	<header>
 		<div class="header">
-			<div class="text"><font size="6">Лекция 14.</font><font size="6">Двойственная задача SVM. - Страница 2.</font></div>
+			<div class="text"><font size="6">Лекция 14.</font><font size="6">Преобразования признакового пространства и ядра(Kernels). - Страница 2.</font></div>
 		</div>		
 	</header>
 	<div class="body">
+
+	<p>
+	Рассмотрим пример обучающей выборки:
+	<figure>
+	    <img src="https://drive.google.com/uc?export=view&id=1QJEGO1vvLNxSx7MEWzO4FoFle_wlwWUH" align="center">
+	    <figcaption>Пример линейно неразделимой обучающей выборки.</figcaption>
+	</figure>
+	
+	Данная выборка не может быть полностью разделена линейным классификатором.
+		
+	При этом замена переменных:
+	\begin{equation}
+	    \begin{pmatrix}
+		x_1 \\ x_2
+	    \end{pmatrix}
+	    \rightarrow
+	    \begin{pmatrix}
+		x_1^2 \\ x_2^2 \\ x_1 x_2
+	    \end{pmatrix}
+	\end{equation}
+		
+	Позволяет перейти к трехмерному представлению вектора признаков:
+	</p>
+		
 	<p>
 	<figure>
 	    <img src="https://drive.google.com/uc?export=view&id=18xUtFIja-HUuaOm5KT0xNWbyW3M7S6yg" align="center">
 	    <figcaption>Переход к трехмерному признаковому пространстсву.</figcaption>
 	</figure>
-		
 	</p>
 		
 	<H1>Список литературы.</H1> 
