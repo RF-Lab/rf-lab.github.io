@@ -5,6 +5,6 @@ date:   2020-11-22 13:10
 categories: news
 ---
 
-[EMGLAB.Net.](http://emglab.net/)
+[Подробнее ->> EMGLAB.Net.](http://emglab.net/)
 
 
