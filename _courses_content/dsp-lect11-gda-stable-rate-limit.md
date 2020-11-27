@@ -93,12 +93,4 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 \det\left[\mathbf{F}-\mathbf{E}\lambda\right] = 0 \tag{e4}
 \end{equation}
 
-Пример:
-\begin{equation}
-F=
-\begin{array}{cc}
-3 & 1 \\
-1 & 3
-\end{array}
-\end{equation}
-
+Собственные числа матрицы $\left[\mathbf{E}-\mu \mathbf{A}\right]$ равны $1-\mu \lambda_i$, где $\lambda_i$ - собственные числа матрицы $A$. 
