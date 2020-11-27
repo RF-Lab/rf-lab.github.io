@@ -68,11 +68,18 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 Выражение (7*) определяет рекурсивный фильтр. Здесь $\left[\mathbf{E}-\mu \mathbf{A}\right]$ - матрица динамики фильтра. 
 Известно, что такая система будет устойчивой, если все собственные числа матрицы $\left[\mathbf{E}-\mu \mathbf{A}\right]$ по модулю меньше единицы (лежат внутри единичной окружности).
 
-## Собственные числа матрицы
+### Собственные числа матрицы
 
 Вспомним, что вектор $\mathbf{x}$ называется собственным вектором матрицы $\mathbf{F}$, если существует скаляр $\lambda$, т.ч.
 \begin{equation}
 \mathbf{F}\mathbf{x} = \lambda \mathbf{x} \tag{e1}
 \end{equation}
 
+Или 
+\begin{equation}
+\mathbf{F}\mathbf{x} - \lambda \mathbf{x} = 0 \tag{e2}
+\end{equation}
 
+\begin{equation}
+\left[\mathbf{F}-\mathbf{E}\lambda\right]\mathbf{x} = 0 \tag{e3}
+\end{equation}
