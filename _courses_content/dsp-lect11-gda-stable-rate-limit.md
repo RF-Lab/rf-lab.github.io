@@ -1,0 +1,17 @@
+---
+layout: page
+categories: [courses]
+title: ЦОС. Лекция 11. Устойчивость алгоритма градиентного спуска.
+---
+
+# Критерий оптимизации линейного фильтра
+
+Ошибку линейной фильтрации можно представить в виде:
+\begin{equation}
+\varepsilon=\mathbf{y}-\mathbf{X}\mathbf{c} \tag{1}
+\end{equation}
+
+Квадритичный критерий:
+\begin{equation}
+\varepsilon^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right) \tag{2}
+\end{equation}
