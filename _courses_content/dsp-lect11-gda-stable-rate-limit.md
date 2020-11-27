@@ -100,4 +100,12 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 |(1-\mu \lambda_i)|<1 \tag{8}
 \end{equation}
 
+Т.е. произведение $\mu \lambda_i$ не должно откланяться от значения $1$ дальше чем на единицу. Для случая, когда все $\lambda_i$ положительны это условие можно записать в виде:
+\begin{equation}
+\mu \lambda_i<2 \tag{9}
+\end{equation}
+Или окончательно
+\begin{equation}
+\mu_{max} = \frac{2}{\lambda_{max}} \tag{9}
+\end{equation}
 
