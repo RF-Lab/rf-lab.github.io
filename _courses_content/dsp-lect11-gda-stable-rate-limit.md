@@ -11,7 +11,7 @@ title: ЦОС. Лекция 11. Устойчивость алгоритма гр
 \varepsilon=\mathbf{y}-\mathbf{X}\mathbf{c} \tag{1}
 \end{equation}
 Здесь 
-* \(\mathbf{y}\) - желаемый (заданный) выход фильтра.
+* \mathbf{y} - желаемый (заданный) выход фильтра.
 
 Квадритичный критерий:
 \begin{equation}
