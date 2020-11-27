@@ -21,18 +21,23 @@ P=\pmb{\varepsilon}^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right)^T\left(\mathb
 \end{equation}
 
 Раскрывая скобки, получим:
-\begin{dmath}
+\begin{equation}
 P=\left(\mathbf{y}^T-\mathbf{c}^T\mathbf{X}^T\right)\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right) = \\
 \mathbf{y}^T\mathbf{y} - \mathbf{y}^T\mathbf{X}\mathbf{c} -\mathbf{c}^T\mathbf{X}^T\mathbf{y} + \mathbf{c}^T\mathbf{X}^T\mathbf{X}\mathbf{c}= \\ 
 \mathbf{c}^T\mathbf{X}^T\mathbf{X}\mathbf{c} - 2\mathbf{y}^T\mathbf{X}\mathbf{c} + \mathbf{y}^T\mathbf{y}
-\end{dmath}
+\tag{3}
+\end{equation}
 
 Введем обозначения:
-\begin{multline}
-\frac{1}{2}\mathbf{A}=\mathbf{X}^T\mathbf{X} \\
-d^T = 2\mathbf{X}^T\mathbf{y} \\
+\begin{equation}
+\frac{1}{2}\mathbf{A}=\mathbf{X}^T\mathbf{X}
+\end{equation}
+\begin{equation}
+d^T = 2\mathbf{X}^T\mathbf{y}
+\end{equation}
+\begin{equation}
 h = \mathbf{y}^T\mathbf{y}
-\end{multline}
+\end{equation}
 
 Тогда выражение (3) можно представить в виде:
 
