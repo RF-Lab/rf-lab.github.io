@@ -16,6 +16,6 @@ y_k=\sum_{m=0}^{M-1}c_mx_{k-m}\tag{1}
 Либо в векторно-матричной форме:
 \(
 \begin{equation}
-\textbf{y}=\textbf{X}\textbf{c}\tag{a}
+\boldsymbol{y}=\boldsymbol{X}\boldsymbol{c}\tag{a}
 \end{equation}
 \)
