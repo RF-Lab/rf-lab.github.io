@@ -90,7 +90,7 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 
 Тогда для определения собственных значений необходимо найти корни уравнения:
 \begin{equation}
-det\left[\mathbf{F}-\mathbf{E}\lambda\right] = 0 \tag{e4}
+\det\left[\mathbf{F}-\mathbf{E}\lambda\right] = 0 \tag{e4}
 \end{equation}
 
 Пример:
