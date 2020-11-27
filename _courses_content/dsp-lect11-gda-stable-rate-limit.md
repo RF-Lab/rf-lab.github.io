@@ -51,7 +51,7 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 
 Метод градиентного спуска:
 \begin{equation}
-\mathbf{c}_{n+1} = \mathbf{c}_n - \mu \nabla P(\mathbf{c}) = \mathbf{c}_n - \mathbf{A}\mathbf{c}+\mathbf{d} \tag{6}
+\mathbf{c}_{n+1} = \mathbf{c}_n - \mu \nabla P(\mathbf{c}) = \mathbf{c}_n - \left[\mathbf{A}\mathbf{c}+\mathbf{d}\right] \tag{6}
 \end{equation}
 
 Или:
@@ -59,6 +59,7 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 \mathbf{c}_{n+1} = \left[\mathbf{E}-\mu \mathbf{A}\right]\mathbf{c}_n - \mu\mathbf{d}  \tag{7*}
 \end{equation}
 
-
+Выражение (7*) уравнение динамики. Здесь $\left[\mathbf{E}-\mu \mathbf{A}\right]$ - матрица матрица динамики. 
+Известно, что такая система будет устойчивой, если все собственные числа матрицы $\left[\mathbf{E}-\mu \mathbf{A}\right]$ по модулю меньше единицы (лежат внутри единичной окружности).
 
 
