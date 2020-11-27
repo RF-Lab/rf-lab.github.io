@@ -19,3 +19,8 @@ title: ЦОС. Лекция 11. Устойчивость алгоритма гр
 \begin{equation}
 P=\pmb{\varepsilon}^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right)^T\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right) \tag{2}
 \end{equation}
+
+Раскрывая скобки, получим:
+\begin{equation}
+\left(\mathbf{y}^T-\mathbf{c}^T\mathbf{X}^T\right)\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right) = \tag{2}
+\end{equation}
