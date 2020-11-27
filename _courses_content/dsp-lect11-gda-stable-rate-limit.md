@@ -33,12 +33,15 @@ P=\left(\mathbf{y}^T-\mathbf{c}^T\mathbf{X}^T\right)\left(\mathbf{y}-\mathbf{X}\
 \frac{1}{2}\mathbf{A}=\mathbf{X}^T\mathbf{X}
 \end{equation}
 \begin{equation}
-d^T = 2\mathbf{X}^T\mathbf{y}
+\mathbf{d} = -2\mathbf{X}^T\mathbf{y}
 \end{equation}
 \begin{equation}
 h = \mathbf{y}^T\mathbf{y}
 \end{equation}
 
 Тогда выражение (3) можно представить в виде:
+\begin{equation}
+P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\mathbf{c}+h
+\end{equation}
 
 
