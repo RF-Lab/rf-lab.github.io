@@ -46,6 +46,6 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 
 Градиент от (4):
 \begin{equation}
-\Nabla P(\mathbf{c})=\mathbf{A}\mathbf{c}+\mathbf{d} \tag{4}
+\nabla P(\mathbf{c})=\mathbf{A}\mathbf{c}+\mathbf{d} \tag{4}
 \end{equation}
 
