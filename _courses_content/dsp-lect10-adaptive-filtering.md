@@ -7,15 +7,11 @@ title: ЦОС. Лекция 10. Адаптивные линейные фильт
 # Основные формы представления нерекурсивных фильтров
 
 Линейный фильтр во времени можно представить в виде свертки для одного отсчета выхода:
-\(
-\begin{equation}
+\(\begin{equation}
 y_k=\sum_{m=0}^{M-1}c_mx_{k-m}
-\end{equation}
-\)
+\end{equation}\)
 
 Либо в векторно-матричной форме:
-\(
-\begin{equation}
+\(\begin{equation}
 \bm{y}=\vec{X}\vec{c}
-\end{equation}
-\)
+\end{equation}\)
