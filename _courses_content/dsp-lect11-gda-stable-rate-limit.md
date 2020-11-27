@@ -94,3 +94,10 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 \end{equation}
 
 Собственные числа матрицы $\left[\mathbf{E}-\mu \mathbf{A}\right]$ равны $1-\mu \lambda_i$, где $\lambda_i$ - собственные числа матрицы $A$. 
+
+Таким образом, условие устойчивости (7*) можно представить в виде:
+\begin{equation}
+|(1-\mu \lambda_i)|<1 \tag{8}
+\end{equation}
+
+
