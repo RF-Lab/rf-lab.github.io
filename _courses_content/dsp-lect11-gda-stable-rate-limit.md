@@ -15,7 +15,7 @@ title: ЦОС. Лекция 11. Устойчивость алгоритма гр
 * $\mathbf{X}$ - матрица входного процесса ($N\times M$).
 * $\mathbf{c}$ - вектор коэффициентов (вектор-столбец, размера $N$).
 
-Квадритичный критерий (сумма квадратов ошибок):
+Квадратичный критерий (сумма квадратов ошибок):
 \begin{equation}
 P=\pmb{\varepsilon}^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right)^T\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right) \tag{2}
 \end{equation}
