@@ -109,3 +109,8 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 \mu_{max} = \frac{2}{\lambda_{max}} \tag{9}
 \end{equation}
 
+### Список литературы
+1.  `16-1` - M.Hagan H.Demuth - **Neural Network Design** (2nd Edition). [【ссылка на PDF】](http://hagan.okstate.edu/NNDesign.pdf)
+2.  `3-5` - Gilbert Strang Introduction to Linear Algebra. Wellesley Cambridge Press; 4 edition **Video Lectures** [【ссылка на мультимедиа ресурс】](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures).
+
+
