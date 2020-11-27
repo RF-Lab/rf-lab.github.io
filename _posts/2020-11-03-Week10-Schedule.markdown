@@ -16,7 +16,7 @@ categories: news
   * 09:00 - БСБО-09/10-17, ТОПД,  Online, [【Discord】](https://discord.gg/V8ZUrmc). [【Video】](https://youtu.be/6mYoXm4prV4)
   * 10:40 - БИСО-01/02-16, МАРОД, Online, [【Skype】](https://join.skype.com/csfK3o6Z7mTX)
   * 12:40 - БИСО-01/02-16, МАРОД, Online, [【Skype】](https://join.skype.com/csfK3o6Z7mTX).
-  * 14:50 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU).
+  * 14:50 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). [【Video】](https://youtu.be/OAQz8dau3xQ)
   * 16:30 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). [【Video】](https://youtu.be/qIyU6w8Uu8U)
 
 Внимание! Физически в институте меня в эту субботу не будет!
