@@ -8,7 +8,7 @@ title: ЦОС. Лекция 11. Устойчивость алгоритма гр
 
 Ошибку на выходе линейного фильтра можно представить в виде:
 \begin{equation}
-\mathbf{\varepsilon}=\mathbf{y}-\mathbf{X}\mathbf{c} \tag{1}
+\pmb{\varepsilon}=\mathbf{y}-\mathbf{X}\mathbf{c} \tag{1}
 \end{equation}
 Здесь 
 * $\mathbf{y}$ - желаемый (заданный) выход фильтра (вектор-столбец, размера $N$).
@@ -41,7 +41,11 @@ h = \mathbf{y}^T\mathbf{y}
 
 Тогда выражение (3) можно представить в виде:
 \begin{equation}
-P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\mathbf{c}+h
+P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\mathbf{c}+h \tag{4}
 \end{equation}
 
+Градиент от (4):
+\begin{equation}
+\Nabla P(\mathbf{c})=\mathbf{A}\mathbf{c}+\mathbf{d} \tag{4}
+\end{equation}
 
