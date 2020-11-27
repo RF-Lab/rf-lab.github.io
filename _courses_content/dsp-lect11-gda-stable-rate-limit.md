@@ -4,7 +4,7 @@ categories: [courses]
 title: ЦОС. Лекция 11. Устойчивость алгоритма градиентного спуска.
 ---
 
-# Критерий оптимизации линейного фильтра
+## Критерий оптимизации линейного фильтра
 
 Ошибку на выходе линейного фильтра можно представить в виде:
 \begin{equation}
@@ -44,10 +44,14 @@ h = \mathbf{y}^T\mathbf{y}
 P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\mathbf{c}+h \tag{4}
 \end{equation}
 
+## Градиент
+
 Градиент от (4):
 \begin{equation}
 \nabla P(\mathbf{c})=\mathbf{A}\mathbf{c}+\mathbf{d} \tag{5}
 \end{equation}
+
+## GDA алгоритм
 
 Метод градиентного спуска:
 \begin{equation}
@@ -59,7 +63,16 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 \mathbf{c}_{n+1} = \left[\mathbf{E}-\mu \mathbf{A}\right]\mathbf{c}_n - \mu\mathbf{d}  \tag{7*}
 \end{equation}
 
-Выражение (7*) уравнение динамики. Здесь $\left[\mathbf{E}-\mu \mathbf{A}\right]$ - матрица матрица динамики. 
+## Предельная скорость GDA
+
+Выражение (7*) определяет рекурсивный фильтр. Здесь $\left[\mathbf{E}-\mu \mathbf{A}\right]$ - матрица динамики фильтра. 
 Известно, что такая система будет устойчивой, если все собственные числа матрицы $\left[\mathbf{E}-\mu \mathbf{A}\right]$ по модулю меньше единицы (лежат внутри единичной окружности).
+
+## Собственные числа матрицы
+
+Вспомним, что вектор $\mathbf{x}$ называется собственным вектором матрицы $\mathbf{F}$, если существует скаляр $\lambda$, т.ч.
+\begin{equation}
+\mathbf{F}\mathbf{x} = \lambda \mathbf{x} \tag{e1}
+\end{equation}
 
 
