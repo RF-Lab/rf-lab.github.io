@@ -4,7 +4,7 @@ categories: [courses]
 title: ЦОС. Лекция 11. Устойчивость алгоритма градиентного спуска.
 ---
 
-## Критерий оптимизации линейного фильтра
+### Критерий оптимизации линейного фильтра
 
 Ошибку на выходе линейного фильтра можно представить в виде:
 \begin{equation}
@@ -44,14 +44,14 @@ h = \mathbf{y}^T\mathbf{y}
 P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\mathbf{c}+h \tag{4}
 \end{equation}
 
-## Градиент
+### Градиент
 
 Градиент от (4):
 \begin{equation}
 \nabla P(\mathbf{c})=\mathbf{A}\mathbf{c}+\mathbf{d} \tag{5}
 \end{equation}
 
-## GDA алгоритм
+### GDA алгоритм
 
 Метод градиентного спуска:
 \begin{equation}
@@ -63,7 +63,7 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 \mathbf{c}_{n+1} = \left[\mathbf{E}-\mu \mathbf{A}\right]\mathbf{c}_n - \mu\mathbf{d}  \tag{7*}
 \end{equation}
 
-## Предельная скорость GDA
+### Предельная скорость GDA
 
 Выражение (7*) определяет рекурсивный фильтр. Здесь $\left[\mathbf{E}-\mu \mathbf{A}\right]$ - матрица динамики фильтра. 
 Известно, что такая система будет устойчивой, если все собственные числа матрицы $\left[\mathbf{E}-\mu \mathbf{A}\right]$ по модулю меньше единицы (лежат внутри единичной окружности).
@@ -83,3 +83,10 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 \begin{equation}
 \left[\mathbf{F}-\mathbf{E}\lambda\right]\mathbf{x} = 0 \tag{e3}
 \end{equation}
+
+Случай $\mathbf{x}=0$ - тривиальный, не представляет интереса.
+
+Уравнение (e3) разрешимо для ненулевого $\mathbf{x}$, только тогда, когда матрица $\mathbf{F}$ вырождена (почему?).
+
+
+
