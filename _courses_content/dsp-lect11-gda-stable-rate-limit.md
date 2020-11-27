@@ -96,9 +96,9 @@ det\left[\mathbf{F}-\mathbf{E}\lambda\right] = 0 \tag{e4}
 Пример:
 \begin{equation}
 F=
-\begin{pmatrix}
+\begin{array}{cc}
 3 & 1 \\
 1 & 3
-\end{pmatrix}
+\end{array}
 \end{equation}
 
