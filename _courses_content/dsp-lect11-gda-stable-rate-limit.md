@@ -28,11 +28,11 @@ P=\left(\mathbf{y}^T-\mathbf{c}^T\mathbf{X}^T\right)\left(\mathbf{y}-\mathbf{X}\
 \end{aligned}
 
 Введем обозначения:
-\begin{equation}
+\begin{multline}
 \frac{1}{2}\mathbf{A}=\mathbf{X}^T\mathbf{X} \\
 d^T = 2\mathbf{X}^T\mathbf{y} \\
 h = \mathbf{y}^T\mathbf{y}
-\end{equation}
+\end{multline}
 
 Тогда выражение (3) можно представить в виде:
 
