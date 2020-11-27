@@ -17,5 +17,5 @@ title: ЦОС. Лекция 11. Устойчивость алгоритма гр
 
 Квадритичный критерий (сумма квадратов ошибок):
 \begin{equation}
-P=\pbm{\varepsilon}^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right)^T\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right) \tag{2}
+P=\pmb{\varepsilon}^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right)^T\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right) \tag{2}
 \end{equation}
