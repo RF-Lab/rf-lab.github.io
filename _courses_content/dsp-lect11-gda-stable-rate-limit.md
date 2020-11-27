@@ -46,6 +46,19 @@ P=\pmb{\varepsilon}^2=\frac{1}{2}\mathbf{c}^T\mathbf{A}\mathbf{c}+\mathbf{d}^T\m
 
 Градиент от (4):
 \begin{equation}
-\nabla P(\mathbf{c})=\mathbf{A}\mathbf{c}+\mathbf{d} \tag{4}
+\nabla P(\mathbf{c})=\mathbf{A}\mathbf{c}+\mathbf{d} \tag{5}
 \end{equation}
+
+Метод градиентного спуска:
+\begin{equation}
+\mathbf{c}_{n+1} = \mathbf{c}_n - \mu \nabla P(\mathbf{c}) = \mathbf{c}_n - \mathbf{A}\mathbf{c}+\mathbf{d} \tag{6}
+\end{equation}
+
+Или:
+\begin{equation}
+\mathbf{c}_{n+1} = \left[\mathbf{E}-\mu \mathbf{A}\right]\mathbf{c}_n - \mu\mathbf{d}  \tag{7*}
+\end{equation}
+
+
+
 
