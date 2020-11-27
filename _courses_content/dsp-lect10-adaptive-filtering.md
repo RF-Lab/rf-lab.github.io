@@ -9,13 +9,13 @@ title: ЦОС. Лекция 10. Адаптивные линейные фильт
 Линейный фильтр во времени можно представить в виде свертки для одного отсчета выхода:
 \(
 \begin{equation}
-y_k=\sum_{m=0}^{M-1}c_mx_{k-m}\tag{1}
+y_k=\sum_{m=0}^{M-1}c_mx_{k-m}
 \end{equation}
 \)
 
 Либо в векторно-матричной форме:
 \(
 \begin{equation}
-\boldsymbol{y}=\boldsymbol{X}\boldsymbol{c}\tag{a}
+\bm{y}=\vec{X}\vec{c}
 \end{equation}
 \)
