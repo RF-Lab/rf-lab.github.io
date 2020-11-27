@@ -13,5 +13,5 @@ y_k=\sum_{m=0}^{M-1}c_mx_{k-m}
 
 Либо в векторно-матричной форме:
 \(\begin{equation}
-\bm{y}=\vec{X}\vec{c}
+\pmb{y}=\vec{X}\vec{c}
 \end{equation}\)
