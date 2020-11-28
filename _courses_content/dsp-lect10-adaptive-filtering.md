@@ -11,6 +11,10 @@ title: ЦОС. Лекция 10. Адаптивные линейные фильт
 y_k=\sum_{m=0}^{M-1}c_mx_{k-m} \tag{1a}
 \end{equation}
 
+### Зачем нам нужны адаптивные фильтры?!
+Рассмотрим пример использования адаптивного фильтра в системе компенсации дальнего эхо-сигнала (сотовая связь, skype, Discord,...).
+![EchoCompensationScheme](https://drive.google.com/uc?export=view&id=1JUDjNms5voS-LshRlNdYck4sScOl6Aqf)
+
 Либо в векторно-матричной форме:
 \begin{equation}
 \mathbf{y}=\mathbf{X}\mathbf{c}=c_1\mathbf{x}_1+c_2\mathbf{x}_2+\ldots +c_M\mathbf{x}_M \tag{1b}
@@ -37,7 +41,7 @@ P=\pmb{\varepsilon}^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right)^T\left(\mathb
 
 Градиент от (4):
 \begin{equation}
-\nabla P(\mathbf{c})=\mathbf{A}\mathbf{c}+\mathbf{d} \tag{3}
+\nabla P(\mathbf{c})=\left(\frac{\partial P}{\partial c_1},\frac{\partial P}{\partial c_2},\ldots,\frac{\partial P}{\partial c_M}\right) \tag{3}
 \end{equation}
 
 ### GDA алгоритм
@@ -46,4 +50,7 @@ P=\pmb{\varepsilon}^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right)^T\left(\mathb
 \begin{equation}
 \mathbf{c}_{n+1} = \mathbf{c}_n - \mu \nabla P(\mathbf{c}) = \mathbf{c}_n - \left[\mathbf{A}\mathbf{c}+\mathbf{d}\right] \tag{4}
 \end{equation}
+
+### Основные алгоритмы адаптации коэффициентов
+
 
