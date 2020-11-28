@@ -48,7 +48,7 @@ P=\pmb{\varepsilon}^2=\left(\mathbf{y}-\mathbf{X}\mathbf{c}\right)^T\left(\mathb
 
 Метод градиентного спуска:
 \begin{equation}
-\mathbf{c}_{n+1} = \mathbf{c}_n - \mu \nabla P(\mathbf{c}) = \mathbf{c}_n - \left[\mathbf{A}\mathbf{c}+\mathbf{d}\right] \tag{4}
+\mathbf{c}_{n+1} = \mathbf{c}_n - \mu \nabla P(\mathbf{c}) \tag{4}
 \end{equation}
 
 ### Основные алгоритмы адаптации коэффициентов
