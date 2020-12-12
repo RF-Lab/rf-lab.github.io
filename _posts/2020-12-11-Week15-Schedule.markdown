@@ -11,7 +11,7 @@ categories: news
   
 * Суббота, 【12 Декабря】
   * 09:00 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). [【Лекция/Colab RLS】](https://colab.research.google.com/drive/1CfOaIhEVWoS6kPlTRqLwcTWVLkIaEYir?usp=sharing), [【Лекция/Colab NLMS】](https://colab.research.google.com/drive/180uvgk9UsYGYSmjggMDX1sWr5exZpZs2?usp=sharing), [【Video】](https://youtu.be/jXDWFgm4FZs)
-  * 10:40 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). , [【Лекция/Colab】](https://colab.research.google.com/drive/1mLXa3882Sb2PIY9ahH1BRt45HX5n05tL?usp=sharing)
+  * 10:40 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). , [【Лекция/Colab LPC】](https://colab.research.google.com/drive/1mLXa3882Sb2PIY9ahH1BRt45HX5n05tL?usp=sharing)
   * 12:40 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). 
   * 14:50 - БСБО-09/10-17, ТОПД,  Online,  [【Discord】](https://discord.gg/V8ZUrmc).
   * 16:30 - БСБО-09/10-17, ТОПД,  Online,  [【Discord】](https://discord.gg/V8ZUrmc).
