@@ -10,7 +10,7 @@ categories: news
   * 19:40 - БСМО-01-19, Интеграция компонентов информационных систем, Удаленка, [【Skype】](https://join.skype.com/icDcc7qD7G7k).
   
 * Суббота, 【12 Декабря】
-  * 09:00 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). [【Лекция/Colab RLS】](https://colab.research.google.com/drive/1CfOaIhEVWoS6kPlTRqLwcTWVLkIaEYir?usp=sharing)
+  * 09:00 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). [【Лекция/Colab RLS】](https://colab.research.google.com/drive/1CfOaIhEVWoS6kPlTRqLwcTWVLkIaEYir?usp=sharing), [【Лекция/Colab NLMS】](https://colab.research.google.com/drive/180uvgk9UsYGYSmjggMDX1sWr5exZpZs2?usp=sharing)
   * 10:40 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). [【Video】](), [【Colab】]()
   * 12:40 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). 
   * 14:50 - БСБО-09/10-17, ТОПД,  Online,  [【Discord】](https://discord.gg/V8ZUrmc).
