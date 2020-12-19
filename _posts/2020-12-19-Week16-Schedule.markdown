@@ -10,10 +10,10 @@ categories: news
   * 19:40 - 
   
 * Суббота, 19 Декабря
-  * 09:00 - БСБО-09/10-17, ТОПД,  Online, [【Discord】](https://discord.gg/V8ZUrmc).
+  * 09:00 - БСБО-09/10-17, ТОПД,  Online, [【Discord】](https://discord.gg/V8ZUrmc). [【Youtube, вопросы к тесту】](https://youtu.be/_xrPJQaPPwY)
   * 10:40 - БИСО-01/02-16, МАРОД, Online, [【Skype】](https://join.skype.com/csfK3o6Z7mTX)
   * 12:40 - БИСО-01/02-16, МАРОД, Online, [【Skype】](https://join.skype.com/csfK3o6Z7mTX).
-  * 14:50 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU).
+  * 14:50 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU). [【Youtube, вопросы к тесту】](https://youtu.be/_xrPJQaPPwY)
   * 16:30 - БИСО-01/02-17, ТОПД,  Online, [【Discord】](https://discord.gg/JRaN4AU).
 
 Дипломники - [【Skype】](https://join.skype.com/jVkDp81Gfjjw).
