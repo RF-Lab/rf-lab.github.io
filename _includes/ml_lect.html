@@ -920,7 +920,7 @@
 	
 	Уравнение адаптации коэффициентов:
 	\begin{equation}
-	  \boldsymbol c(k+1) = \boldsymbol{c}(k) + \alpha(y_i-\frac{1}{1+e^{c(k)^Tx_i}})x_i
+	  \mathbf{c}(k+1) = \mathbf{c}(k) + \alpha(y_i-\frac{1}{1+e^{c(k)^Tx_i}})x_i
 	\end{equation}
 		
 	</p>
@@ -944,7 +944,7 @@
 	Метод опорных векторов (Support Vector Machine, SVM) является простым, но достаточно мощным инструментом бинарной классификации (на два класса). Основное достоинство - 
 	способность обрабатывать большие выборки и формировать компактные модели. Для пояснения SVM обратимся к уравнению линейного классификатора:
 	\begin{equation}
-	\boldsymbol{c}\boldsymbol{x}+b=0
+	\mathbf{c}\mathbf{x}+b=0
 	\label{SVM_direct_model}
 	\end{equation}
 	</p>
@@ -958,11 +958,11 @@
 	<p>		
 	Если домножить урвнение (44) слева и справа на любое число, то это никак не изменит расположение границы (черная прямая на картинке). Таким образом, у нас есть свобода 
 	выбора масштаба коэффициентов уравнения. Тогда для уравнений синей линии (верхней границы) и красной линии (нижней границы) выберем масштаб таким образом, чтобы выполнялось: 
-	\(\boldsymbol{c}\boldsymbol{x}+b=1\) для верхней границы и \(\boldsymbol{c}\boldsymbol{x}+b=-1\) для нижней.
+	\(\mathbf{c}\mathbf{x}+b=1\) для верхней границы и \(\mathbf{c}\mathbf{x}+b=-1\) для нижней.
 	
 	При такой нормировке ширина границы (расстояние между красной и синей линией):
 	\begin{equation}
-	W=\frac{\boldsymbol{c}}{||\boldsymbol{c}||}\left(\boldsymbol{x}_+-\boldsymbol{x}_-\right)=\frac{2}{||\boldsymbol{c}||}
+	W=\frac{\mathbf{c}}{||\mathbf{c}||}\left(\mathbf{x}_+-\mathbf{x}_-\right)=\frac{2}{||\mathbf{c}||}
 	\end{equation}
 	</p>
 		
@@ -980,17 +980,17 @@
 	Можно предположить, что среди всех возможных положений границы линейного классификатора предпочтительным является вариант с наибольшей шириной границы \(W\).
 	Тогда для модели SVM (\ref{SVM_direct_model}) можем определить критерий оптимизации в виде:
 	\begin{equation}
-	P(\boldsymbol{c})=\max_{\boldsymbol{c}}W=\max_{\boldsymbol{c}}\frac{2}{||\boldsymbol{c}||}
+	P(\mathbf{c})=\max_{\mathbf{c}}W=\max_{\mathbf{c}}\frac{2}{||\mathbf{c}||}
 	\end{equation}
 	Или эквивалентно:
 	\begin{equation}
-	P(\boldsymbol{c})=\min_{\boldsymbol{c}}||\boldsymbol{c}||^2
+	P(\mathbf{c})=\min_{\mathbf{c}}||\mathbf{c}||^2
 	\end{equation}
 	
 	В этом случае получаем задачу с квадратичным критерием оптимизации с линейными ограничениями:
 	\begin{align*}
-	\min_{\boldsymbol{c}}||\boldsymbol{c}||^2 \\
-	y_i\left(\boldsymbol{c}^T\boldsymbol{x_i}+b\right)\ge 1
+	\min_{\mathbf{c}}||\mathbf{c}||^2 \\
+	y_i\left(\mathbf{c}^T\mathbf{x_i}+b\right)\ge 1
 	\end{align*}
 		
 	В такой постановке задача является слишком жесткой, т.е. небольшое количество аномальных точек находящихся вблизи границы могут сильно влиять 
@@ -998,12 +998,12 @@
 	переменные \(\xi_i\) для каждой точки в обучающей выборке следующим образом:
 
 	\begin{equation}
-	\min_{\boldsymbol{c},\xi_i}||\boldsymbol{c}||^2+C\sum\limits_{i=0}^{n-1}\xi_i \\
-	y_i\left(\boldsymbol{c}^T\boldsymbol{x_i}+b\right)\ge 1-\xi_i
+	\min_{\mathbf{c},\xi_i}||\mathbf{c}||^2+C\sum\limits_{i=0}^{n-1}\xi_i \\
+	y_i\left(\mathbf{c}^T\mathbf{x_i}+b\right)\ge 1-\xi_i
 	\label{direct_SVM_problem}
 	\end{equation}
 	
-	Здесь каждому вектору признаков \(\boldsymbol{x_i}\) и желаемому выходу \(y_i\) добавляется неотрицательный параметр \(\xi_i\), который позволяет 
+	Здесь каждому вектору признаков \(\mathbf{x_i}\) и желаемому выходу \(y_i\) добавляется неотрицательный параметр \(\xi_i\), который позволяет 
 	отдельным точкам нарушать границу классификатора. Нарушители платят штраф в виде довеска к критерию \(C\sum\limits_{i=0}^{n-1}\xi_i\). Чем больше параметр 
 	тем больше штраф за нарушения. Поэтому в случае \(С=\infty\) получаем жесткую границу. В случае малого \(С\) получаем широкую границу и большое количество нарушителей.
 	По мере увеличения \(С\) граница сужается, а количество нарушителей снижается. Выражение (\ref{direct_SVM_problem}) определяет <i>прямую задачу SVM</i>.
@@ -1039,7 +1039,7 @@
 	
 	Двойственная задача формулируется в виде:
 	\begin{equation}
-	    \max_{\alpha_i\ge 0}\sum\limits_{i=0}^{n-1}\alpha_i-\sum\limits_{j=0}^{n-1}\sum\limits_{k=0}^{n-1}\alpha_j\alpha_k y_j y_k(\boldsymbol{x}_j^T\boldsymbol{x}_k) \\
+	    \max_{\alpha_i\ge 0}\sum\limits_{i=0}^{n-1}\alpha_i-\sum\limits_{j=0}^{n-1}\sum\limits_{k=0}^{n-1}\alpha_j\alpha_k y_j y_k(\mathbf{x}_j^T\mathbf{x}_k) \\
 	    0\le \alpha_i \le C, \forall i \\
 	    \sum\limits_{i=0}^{n-1} \alpha_i y_i = 0
 	    \label{dual_SVM_problem}
@@ -1049,12 +1049,12 @@
 		
 	При этом двойственная постановка определяет уравнение классификации в виде:
 	\begin{equation}
-	    f(\boldsymbol{x})\sum\limits_{i=0}^{n-1}\alpha_i y_i(\boldsymbol{x}_i^T\boldsymbol{x})
+	    f(\mathbf{x})\sum\limits_{i=0}^{n-1}\alpha_i y_i(\mathbf{x}_i^T\mathbf{x})
 	    \label{dual_svm_classifier}
 	\end{equation}
 	
-	Может показаться, что уравнение (\ref{dual_svm_classifier}) использует всю обучающую выборку для анализа каждого входного вектора \(\boldsymbol{x}\). На практике
-	большинство коэффициентов \(\alpha_i\) равны нулю, и лишь небольшая часть отлична от нуля. Вектора \(\boldsymbol{x}_i\), соответсвующие ненулевым коэффициентам 
+	Может показаться, что уравнение (\ref{dual_svm_classifier}) использует всю обучающую выборку для анализа каждого входного вектора \(\mathbf{x}\). На практике
+	большинство коэффициентов \(\alpha_i\) равны нулю, и лишь небольшая часть отлична от нуля. Вектора \(\mathbf{x}_i\), соответсвующие ненулевым коэффициентам 
 	\(\alpha_i\) являются опорными векторами.		
 	</p>	    
 	
@@ -1120,35 +1120,35 @@
 	Введем общее обозначение для перехода к новому пространству признаков. 
 	Для каждого исходного вектора признаков будем применять преобразование:
 	\begin{equation}
-	    \tilde{\boldsymbol{x}} = \Phi(\boldsymbol{x})
+	    \tilde{\mathbf{x}} = \Phi(\mathbf{x})
 	\end{equation}
 	
 	При этом классификатор в двойственной постановке:
 	\begin{equation}
-	    f(\boldsymbol{x})=\sum\limits_{i=0}^{n-1}\alpha_i y_i(\Phi(\boldsymbol{x}_i)^T\Phi(\boldsymbol{x}))
+	    f(\mathbf{x})=\sum\limits_{i=0}^{n-1}\alpha_i y_i(\Phi(\mathbf{x}_i)^T\Phi(\mathbf{x}))
 	\end{equation}
 		
 	Ядро SVM вводится путем обобщения понятия скалярного произведения:
 	\begin{equation}
-	    k(\boldsymbol{x}_i,\boldsymbol{x})=\Phi(\boldsymbol{x}_i)^T\Phi(\boldsymbol{x})
+	    k(\mathbf{x}_i,\mathbf{x})=\Phi(\mathbf{x}_i)^T\Phi(\mathbf{x})
 	\end{equation}
 
 	И переходу к понятию ядра как функции от двух векторов, например:
 	\begin{equation}
-	    k(\boldsymbol{x},\boldsymbol{z})= x_1^2z_1^2 + x_2^2z_2^2+x_1z_1
+	    k(\mathbf{x},\mathbf{z})= x_1^2z_1^2 + x_2^2z_2^2+x_1z_1
 	\end{equation}
 		
 	Основные типы ядер, часто применяемые на практике: Линейное ядро:
 	\begin{equation}
-	    k(\boldsymbol{x},\boldsymbol{x'})= \boldsymbol{x}^T\boldsymbol{x'}
+	    k(\mathbf{x},\mathbf{x'})= \mathbf{x}^T\mathbf{x'}
 	\end{equation}
 	Полиномиальное ядро:
 	\begin{equation}
-	    k(\boldsymbol{x},\boldsymbol{x'})= \left(1+\boldsymbol{x}^T\boldsymbol{x'}\right)^d
+	    k(\mathbf{x},\mathbf{x'})= \left(1+\mathbf{x}^T\mathbf{x'}\right)^d
 	\end{equation}
 	Гауссово ядро (радиальная базисная функция, RBF (radial basis function)):
 	\begin{equation}
-	    k(\boldsymbol{x},\boldsymbol{x'})= \exp\left(\frac{||\boldsymbol{x}-\boldsymbol{x'}||^2}{2\sigma^2}\right)
+	    k(\mathbf{x},\mathbf{x'})= \exp\left(\frac{||\mathbf{x}-\mathbf{x'}||^2}{2\sigma^2}\right)
 	\end{equation}
 
 	</p>	    
