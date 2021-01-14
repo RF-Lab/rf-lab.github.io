@@ -60,7 +60,7 @@ permalink: /cross_links/
  * `11-16` - А. Б. Сергиенко Алгоритмы адаптивной фильтрации:особенности реализации в MATLAB. Exponenta Pro. УДК 621.391.26. [【ссылка на PDF】](http://images.nature.web.ru/nature/2003/04/11/0001193683/06.pdf).
  * `11-17` - Paulo S.R. Diniz Adaptive Filtering. Algorithms and Practical Implementation. Fourth Edition. Springer - 2013. [【ссылка на описание】](https://www.springer.com/gp/book/9781461441052)
  * `11-18` - Edited by Ginalber Luiz Serra. Kalman Filters: Theory for Advanced Applications. Instituto Federal do Maranhão, Brazil.[【ссылка на PDF】](https://www.intechopen.com/books/kalman-filters-theory-for-advanced-applications). 
- * `11-19` - Adaptive Filter Theory, 5th edition, ISBN 978-0-132-67145-3, by Simon Haykin, published by Pearson Education © 2014.
+ * `11-19` - Adaptive Filter Theory, 5th edition, ISBN 978-0-132-67145-3, **by Simon Haykin**, published by Pearson Education © 2014.
 
 # `[12]` Цифровая связь, навигация, радиолокация
  * `12-1` - Прокис Дж. Цифровая связь. - Радио и Связь, 2000. [【ссылка на описание】](http://www.ozon.ru/context/detail/id/117618/)
