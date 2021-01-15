@@ -9,4 +9,4 @@ categories: news
 Основная доработка - 6 типов новых аналоговых интерфейсов. Подробности позже.
 https://drive.google.com/uc?export=view&id=1UzmPzJVWIwBoOcigdNVnibu0Oh3vnWJo
 
-![Схема (KiCAD Eeschema)](https://ibb.co/5rvwYmd)
+![Схема (KiCAD Eeschema)](https://i.ibb.co/v3mRspb/emg-8-6-x-R3.png)
