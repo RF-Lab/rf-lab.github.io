@@ -46,7 +46,7 @@ categories: news
   * Инструментальный усилитель с регулируемым коэффициентом усиления.
   * Активный двухполюсный фильтр верхних частот по схеме Саллена-Кея.
   
-![Схема (KiCAD Eeschema)](https://i.ibb.co/VWd5nsV/emg-8-6-x-R3-ch8.png)
+![Схема (KiCAD Eeschema)](https://i.ibb.co/zFyzVfL/emg-8-6-x-R3-ch8.png)
 
 
 ![Схема (KiCAD Eeschema)](https://i.ibb.co/v3mRspb/emg-8-6-x-R3.png)
