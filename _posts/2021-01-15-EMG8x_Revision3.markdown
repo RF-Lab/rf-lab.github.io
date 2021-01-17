@@ -4,7 +4,7 @@ title:  Новости EMG8[6]x-Revision 3
 date:   2021-01-15 01:15
 categories: news
 ---
-### EMG8xR3 отправлена в производство 17.01.2021.
+## EMG8xR3 отправлена в производство 17.01.2021.
 ![Схема (KiCAD Eeschema)](https://i.ibb.co/gVfnMcZ/emg-8-6-x-R3-rayt.png)
 
 Основная доработка - 6 различных типов аналоговых интерфейсов.
@@ -52,12 +52,14 @@ categories: news
 
 ![Схема (KiCAD Eeschema)](https://i.ibb.co/v3mRspb/emg-8-6-x-R3.png)
 
-Гербер файлы:
+## Гербер файлы:
 
-Front:
+### Front:
+
 ![Front gerber](https://i.ibb.co/ZM7rdcw/emg-8-6-x-R3-gerber-f.png)
 
-Back:
+### Back:
+
 ![Back gerber](https://i.ibb.co/7jPvvyQ/emg-8-6-x-R3-gerber-b.png)
 
 
