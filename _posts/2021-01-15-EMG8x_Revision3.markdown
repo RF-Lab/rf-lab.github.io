@@ -5,6 +5,7 @@ date:   2021-01-15 01:15
 categories: news
 ---
 ### EMG8xR3 подготовлена к производству.
+![Схема (KiCAD Eeschema)](https://i.ibb.co/gVfnMcZ/emg-8-6-x-R3-rayt.png)
 
 Основная доработка - 6 различных типов аналоговых интерфейсов.
 
