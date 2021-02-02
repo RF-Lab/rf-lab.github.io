@@ -6,6 +6,7 @@ categories: news
 ---
 ## Материалы по электромиографии
 * [Surface Electromyography (SEMG) Signal Processing Part 1 (Предобработка сигнала ЭМГ - пояснения)](https://www.youtube.com/watch?v=5AtAoO51vWQ&t=0s)
+
 {% include youtube_embed.html id="5AtAoO51vWQ" %}
 
 * [Surface Electromyography Signal Processing MATLAB Code Part 2(Предобработка сигнала ЭМГ - разбор Matlab кода)](https://www.youtube.com/watch?v=c3v5Kd2ivKs&t=523s)
