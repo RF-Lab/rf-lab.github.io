@@ -10,5 +10,5 @@ categories: news
 
 {% include youtube_embed.html id="MFL9-uRmWdc" %}
 
-![](https://www.youtube.com/embed/MFL9-uRmWdc)
+![---](https://www.youtube.com/embed/MFL9-uRmWdc)
 
