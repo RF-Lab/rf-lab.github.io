@@ -31,6 +31,7 @@ categories: news
 
 * [Backyard Brains. Signal Classification to Control Robotic Hand.](https://www.youtube.com/watch?v=0eoGGj9SDeE)
 
+
 {% include youtube_embed.html id="0eoGGj9SDeE" %}
 
 
