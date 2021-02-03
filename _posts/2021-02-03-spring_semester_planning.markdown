@@ -7,3 +7,5 @@ categories: news
 ## Видео обсуждения
 * {% include youtube_embed.html id="8f2hQ4heg0k" %}
 
+
+
