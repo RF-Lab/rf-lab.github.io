@@ -4,8 +4,6 @@ title:  Обсуждение планов на весенний семестр (
 date:   2021-02-03 17:15
 categories: news
 ---
-## Ссылка на skype
-* [Весенний семестр 2021](https://join.skype.com/jVkDp81Gfjjw)
-
-Начало в 18:00.
+## Видео обсуждения
+* {% include youtube_embed.html id="8f2hQ4heg0k" %}
 
