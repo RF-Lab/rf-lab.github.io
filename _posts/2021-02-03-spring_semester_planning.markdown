@@ -5,7 +5,9 @@ date:   2021-02-03 17:15
 categories: news
 ---
 ## Видео обсуждения
-* {% include youtube_embed.html id="8f2hQ4heg0k" %}
+
+{% include youtube_embed.html id="8f2hQ4heg0k" %}
+
 
 ### Ответы на некоторые вопросы:
 * *Нужны ли публикации для защиты магистерской диссертации*?
