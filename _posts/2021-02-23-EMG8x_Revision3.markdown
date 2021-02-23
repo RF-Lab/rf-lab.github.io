@@ -11,5 +11,8 @@ categories: news
 {% include youtube_embed.html id="63SFOV_mod8" %}
 
 ### Результаты
+
+![-img-](https://i.ibb.co/yqCLQJf/ch-7.png)
+
 {% include youtube_embed.html id="t2QbzJQhvAk" %}
 
