@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Обзорная статья по ЭМГ (Deep learning).
+date:   2021-03-02 11:00
+categories: news
+---
+
+[ Domenico Buongiorno et. al.Deep learning for processing electromyographic signals: A taxonomy-based survey](https://www.sciencedirect.com/science/article/pii/S0925231220319020)
