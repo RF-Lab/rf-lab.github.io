@@ -11,7 +11,6 @@ categories: news
 | ------------- | ------- | ------------- | ---- | ----------- | --------- |
 |09.03.2021     | 18:00   |БСБО-9/10-17   |4     |ТОПД         |Discord    |
 
-https://youtu.be/Uh0bj4PnVQo
 {% include youtube_embed.html id="Uh0bj4PnVQo" %}
 
 ## Суббота, 13 Марта.
