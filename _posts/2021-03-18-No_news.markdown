@@ -1,0 +1,8 @@
+---
+layout: post
+title: No news
+date:   2021-03-18 12:00
+categories: news
+---
+
+Is a good news
