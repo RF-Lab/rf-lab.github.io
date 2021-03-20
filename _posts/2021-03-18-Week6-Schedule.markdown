@@ -15,3 +15,5 @@ categories: news
 |20.03.2021     |14:20    |БСБО-1/2/3-18  |3     |МАРОД        |Д          |
 |20.03.2021     |16:30    |БИСО-1/2-17    |4     |МАЦОД        |Д          |
 |20.03.2021     |18:10    |БИСО-1/2-17    |4     |МАЦОД        |Д          |
+
+[Colaboration к лабораторной работе по EMG](https://colab.research.google.com/drive/1Fr7NqniXZkU96MReNauqQTNUoSF1McjB?usp=sharing)
