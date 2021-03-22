@@ -4,6 +4,8 @@ title: Ссылки
 permalink: /links/
 ---
 
+​  * [Платформа для захвата и анализа сигналов электромиографии (ЭМГ)](https://github.com/RF-Lab/emg_platform)
+
 ​  * [Рассылка RF-Lab](https://groups.google.com/d/forum/melnikov-saturday)
 
 ​  * [Презентации нашей лаборатории](http://www.slideshare.net/rf-lab/presentations)
