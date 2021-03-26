@@ -17,3 +17,6 @@ categories: news
 |20.03.2021     |18:10    |БИСО-1/2-17    |4     |МАЦОД        |Д          |
 
 [Colaboration к лабораторной работе по EMG](https://colab.research.google.com/drive/1Fr7NqniXZkU96MReNauqQTNUoSF1McjB?usp=sharing)
+
+
+{% include youtube_embed.html id="m7RquEqHVbI" %}
