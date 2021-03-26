@@ -19,4 +19,4 @@ categories: news
 [Colaboration к лабораторной работе по EMG](https://colab.research.google.com/drive/1Fr7NqniXZkU96MReNauqQTNUoSF1McjB?usp=sharing)
 
 
-{% include youtube_embed.html id="m7RquEqHVbI" %}
+
