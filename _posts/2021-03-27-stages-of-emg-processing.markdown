@@ -7,4 +7,4 @@ categories: news
 
 
 
-[_Ericka Janet Rechy-Ramirez and Huosheng Hu_ Stages for Developing Control Systems using EMG and EEG Signals: A survey.](https://core.ac.uk/download/pdf/74372522.pdf) 
+[Ericka Janet Rechy-Ramirez and Huosheng Hu Stages for Developing Control Systems using EMG and EEG Signals: A survey.](https://core.ac.uk/download/pdf/74372522.pdf) 
