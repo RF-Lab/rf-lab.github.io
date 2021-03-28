@@ -26,3 +26,7 @@ categories: news
 |27.03.2021     |18:10    |БСБО-01-18     |3     |МАРОД        |130        |
 
 [Colab для МАРОД БИСО-01/02-16](https://colab.research.google.com/drive/1oBLLdPCDt1ImBk7sZnAYuI0-Zvm7Z6iT?usp=sharing)
+
+### БИСО-01/02-17 16:30.
+
+{% include youtube_embed.html id="UJeY6wv2dio" %}
