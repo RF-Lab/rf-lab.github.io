@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  _Ericka Janet Rechy-Ramirez and Huosheng Hu_ Stages of developing of control systems using EMG and EEG signals:A survey.
-date:   2021-03-27 19:30
+date:   2021-04-01 18:10
 categories: news
 ---
 
