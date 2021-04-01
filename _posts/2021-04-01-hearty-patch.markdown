@@ -1,14 +1,9 @@
 ---
 layout: post
-title:  HeartyPatch A single-lead ECG-HR patch with ESP32 by Ashwin K Whitchurch.
+title:  HeartyPatch:: A single-lead ECG-HR patch with ESP32 by Ashwin K Whitchurch.
 date:   2021-04-01 18:10
 categories: news
 ---
-
-layout: post
-title:  HeartyPatch: A single-lead ECG-HR patch with ESP32 by Ashwin K Whitchurch.
-date:   2021-04-01 18:10
-categories: news
 
 ### Интересный форм-фактор
 
