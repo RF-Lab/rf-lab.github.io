@@ -16,6 +16,7 @@ categories: news
 |03.04.2021     |16:30    |БИСО-1/2-16    |5     |МАРОД        |Д          |
 |03.04.2021     |18:10    |БИСО-1/2-16    |5     |МАРОД        |Д          |
 
+[Обновленная лекция 8 ТОПД](https://colab.research.google.com/drive/1SWpAc4E4tixAu_5FMLzrdpaIq9aKqy6O?usp=sharing)
 
 
 
