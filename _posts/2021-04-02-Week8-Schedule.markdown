@@ -18,6 +18,6 @@ categories: news
 
 [Обновленная лекция 8 ТОПД](https://colab.research.google.com/drive/1SWpAc4E4tixAu_5FMLzrdpaIq9aKqy6O?usp=sharing)
 
-
+[Обновленная лекция 9 ТОПД](https://colab.research.google.com/drive/1Wba7QyN12kJ-vv8o-Vxg5R1Ka4exZO9d?usp=sharing)
 
 
