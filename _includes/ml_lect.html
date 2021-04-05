@@ -726,11 +726,17 @@
 	В первом примере количество точек вы выборке равно \(10000\). Также в выборке присутствуют несколько аномальных желтых точек. При большом размере выборки эти точки 
 	практически не оказывают влияния на границу линейного классификатора.
 
-	<p align="center"><img src="https://drive.google.com/uc?export=view&id=1MBX2AMuCUB5y_g4W7fIjJB1PzyuB3_EN" align="center"></p>
+	<figure>
+		<p style="text-align:center;"><img src="https://drive.google.com/uc?export=view&id=1MBX2AMuCUB5y_g4W7fIjJB1PzyuB3_EN"></p>
+		<figcaption>Линейный классификатор на большой выборке с выбитыми точками.</figcaption>
+	</figure>
 		
 	Теперь рассмотрим результат обучения линейного классификатора на выборке объемом \(100\) точек на каждый класс.
 		
-	<p align="center"><img src="https://drive.google.com/uc?export=view&id=1Y2yNgyU_IzaXdQ9Wp1tdKW_r83w0-kEU" align="center"></p>
+	<figure>
+		<p style="text-align:center;"><img src="https://drive.google.com/uc?export=view&id=1Y2yNgyU_IzaXdQ9Wp1tdKW_r83w0-kEU"></p>
+		<figcaption>Линейный классификатор на ограниченной выборке с выбитыми точками.</figcaption>
+	</figure>
 		
 	В этом случае аномальные точки оказывают значительное влияние на расположение границы классификатора. Этот пример демонстрирует основной эффект переобучения: 
 	классификатор старается во что бы то ни стало удовлетворить условие классификации для всех точек из обучающей выборки.
