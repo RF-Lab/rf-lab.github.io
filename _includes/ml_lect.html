@@ -995,10 +995,12 @@
 	Для перехода от линейного классификатора к SVM потребуем выполнение условия: граница должна проходить между классами таким образом, чтобы расстояние 
 	до ближайших к границе точек было бы одинаковым для двух классов. Предполагается что ближайших к границе точек относительно немного.
 	Именно эти точки и называются опорными векторами. Интуитивно понятно, что точки находящиеся далеко от границы не оказывают существенного влияния на расположение этой границы.
-	</p>
-	<p align="center"><img src="https://drive.google.com/uc?export=view&id=1oujLcTjmbewEY1ovX8rmmDt__DrmegeA" align="center"></p>	
-	<a name="Figure script"></a> <a href="https://colab.research.google.com/drive/1v9msvgR2jF-uczQruPsibAWSxtd701bS?usp=sharing">Figure script.</a>
-	<p>		
+	<figure>
+		<p style="text-align:center;"><img src="https://drive.google.com/uc?export=view&id=1oujLcTjmbewEY1ovX8rmmDt__DrmegeA"></p>
+		<figcaption>Классификация с максимальным отступом.
+		<a name="Figure script"></a> <a href="https://colab.research.google.com/drive/1v9msvgR2jF-uczQruPsibAWSxtd701bS?usp=sharing">Figure script.</a>
+		</figcaption>
+	</figure>		
 	Если домножить урвнение (44) слева и справа на любое число, то это никак не изменит расположение границы (черная прямая на картинке). Таким образом, у нас есть свобода 
 	выбора масштаба коэффициентов уравнения. Тогда для уравнений синей линии (верхней границы) и красной линии (нижней границы) выберем масштаб таким образом, чтобы выполнялось: 
 	\(\mathbf{c}\mathbf{x}+b=1\) для верхней границы и \(\mathbf{c}\mathbf{x}+b=-1\) для нижней.
