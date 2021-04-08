@@ -10,4 +10,8 @@ permalink: /about/
 
 ## Политика конфиденциальности
 
-Данный сайт использует Cookies для статистики. [Google Политика конфиденциальности и Условия использования](https://policies.google.com/technologies/partner-sites?hl=ru). Мы не показываем рекламу, но Google может собирать данные для таргетирования рекламы. [Правила использования функций Google Аналитики для рекламодателей](https://support.google.com/analytics/answer/2700409)
+Данный сайт использует Cookies для статистики. Мы не показываем рекламу, но Google и Microsoft могут собирать данные для таргетирования рекламы.
+
+Данный сайт использует Tag Manager от компании Google. [Политика конфиденциальности и Условия использования Tag Manager](https://support.google.com/tagmanager/answer/9323295?hl=ru). [Правила использования функций Google Аналитики для рекламодателей](https://support.google.com/analytics/answer/2700409).
+
+Данный сайт использует Clarity от компании Microsoft. [Политика конфиденциальности и Условия использования Clarity](https://docs.microsoft.com/ru-ru/clarity/faq).
