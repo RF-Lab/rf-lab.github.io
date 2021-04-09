@@ -18,4 +18,6 @@ categories: news
 
 Если 334 будет занята - то найдем ближайшую к ней на 3 этаже.
 
-[Colab ко второй паре](https://colab.research.google.com/drive/1U2YZoKJOHsbUKRT0_dqRryl8-5UjOzwj?usp=sharing)
+[Colab пример сверточной сети](https://colab.research.google.com/drive/1U2YZoKJOHsbUKRT0_dqRryl8-5UjOzwj?usp=sharing)
+
+[Colab AlexNet](https://colab.research.google.com/drive/1oLvru9q2KIDmJuNHr4ZmHDNhuUMInph1#scrollTo=qGWTulwa8ukp)
