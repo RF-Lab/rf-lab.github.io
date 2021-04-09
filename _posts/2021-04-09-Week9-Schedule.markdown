@@ -17,3 +17,5 @@ categories: news
 |10.04.2021     |18:10    |БСБО-01-18     |3     |МАРОД        |334         |
 
 Если 334 будет занята - то найдем ближайшую к ней на 3 этаже.
+
+[Colab ко второй паре](https://colab.research.google.com/drive/1U2YZoKJOHsbUKRT0_dqRryl8-5UjOzwj?usp=sharing)
