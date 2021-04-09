@@ -21,7 +21,6 @@ categories: news
 
 [Обновленная лекция 9 ТОПД](https://colab.research.google.com/drive/1Wba7QyN12kJ-vv8o-Vxg5R1Ka4exZO9d?usp=sharing)
 
-
 ## БСБО-1/2/3-18, 14:20
 {% include youtube_embed.html id="h3NpK3uVI8M" %}
 
