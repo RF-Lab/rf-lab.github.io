@@ -13,3 +13,6 @@ categories: news
 Дата и время конференции: 14 апреля 10:00
 
 Предлагаю обсудить накопившиеся вопросы завтра, 13 Апреля, в 20:00, по скайпу: https://join.skype.com/jVkDp81Gfjjw
+
+{% include youtube_embed.html id="MksGFPpz_zo" %}
+
