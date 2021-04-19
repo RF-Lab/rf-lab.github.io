@@ -17,5 +17,5 @@ categories: news
 |17.04.2021     |18:10    |БИСО-1/2-17    |4     |МАЦОД        |Д(334)     |
 
 ### Конс. дипл.пр., 12:40
-{% include youtube_embed.html id="https://youtu.be/fLthX76n4Xo" %}
+{% include youtube_embed.html id="fLthX76n4Xo" %}
 
