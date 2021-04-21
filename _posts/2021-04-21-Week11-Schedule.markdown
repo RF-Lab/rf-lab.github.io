@@ -16,4 +16,5 @@ categories: news
 |24.04.2021     |18:00    |БСБО-01-18     |3     |МАРОД        |334         |
 
 Если 334 будет занята - то найдем ближайшую к ней на 3 этаже.
-
+### Achtung! Es gibt Probleme mit dem Zeitplan!!!
+![](https://i.ibb.co/hmTqXLt/schedule-error-april.png)
