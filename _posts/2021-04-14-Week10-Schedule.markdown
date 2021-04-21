@@ -32,5 +32,5 @@ categories: news
 {% include youtube_embed.html id="3fPRIA0NBpo" %}
 
 ### БИСО-1/2-17,  18:00
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="QeGG6pBkLBI" %}
 
