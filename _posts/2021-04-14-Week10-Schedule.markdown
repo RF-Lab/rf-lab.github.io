@@ -19,6 +19,12 @@ categories: news
 ### БИСО-1/2-16,  9:00
 {% include youtube_embed.html id="UaekTtCUBBQ" %}
 
+### БИСО-1/2-16,  10:40
+{% include youtube_embed.html id="B7wWmJSx-DU" %}
+
 ### Конс. дипл.пр.,  12:40
 {% include youtube_embed.html id="fLthX76n4Xo" %}
+
+### БСБО-1/2/3-18,  14:20
+{% include youtube_embed.html id="NjW7xqQl6CI" %}
 
