@@ -16,3 +16,12 @@ categories: news
 |08.05.2021     |18:00    |БСБО-01-18     |3     |МАРОД        |дист.       |
 
 8 Мая занятия проводятся удаленно!
+
+### БСБО-2/3-18, 12:40
+{% include youtube_embed.html id="ZyHnNitfeX0" %}
+
+### БИСО-01/02-17, 14:20 (Метод опорных векторов - теория)
+{% include youtube_embed.html id="NzB8fcBrDs0" %}
+
+### БИСО-01/02-17, 16:20 (Метод опорных векторов - Sklearn)
+{% include youtube_embed.html id="WmpLi7ro3y0" %}
