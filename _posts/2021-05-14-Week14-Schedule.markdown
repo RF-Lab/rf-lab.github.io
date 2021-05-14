@@ -16,3 +16,4 @@ categories: news
 |15.05.2021     |16:30    |БИСО-1/2-17    |4     |МАЦОД        |Д(334)     |
 |15.05.2021     |18:00    |БИСО-1/2-17    |4     |МАЦОД        |Д(334)     |
 
+[Retraining an Image Classifier](https://www.tensorflow.org/hub/tutorials/tf2_image_retraining)
