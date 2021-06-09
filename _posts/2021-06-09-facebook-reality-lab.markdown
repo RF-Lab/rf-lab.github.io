@@ -20,7 +20,7 @@ categories: news
 
 [https://baker.studio/ctrl-kit](https://baker.studio/ctrl-kit)
 
-![-](https://images.squarespace-cdn.com/content/v1/58640e3b8419c25775576c59/1579195369911-RKH1QOX6ZEB3DTDCRI4B/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p52bY8kZn6Mpkp9xtPUVLhvLurswpbKwwoDWqBh58NLxQZMhB36LmtxTXHHtLwR3w/CTRL-kit-CTRL-labs-float-family?format=700w)
+![-](https://images.squarespace-cdn.com/content/v1/58640e3b8419c25775576c59/1579195369911-RKH1QOX6ZEB3DTDCRI4B/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p52bY8kZn6Mpkp9xtPUVLhvLurswpbKwwoDWqBh58NLxQZMhB36LmtxTXHHtLwR3w/CTRL-kit-CTRL-labs-float-family?format=500w)
 
 
 
