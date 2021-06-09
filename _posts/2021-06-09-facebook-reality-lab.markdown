@@ -24,5 +24,5 @@ categories: news
 _Изображение с ресурса [baker.studio](https://baker.studio/ctrl-kit)
 
 ![-](https://venturebeat.com/wp-content/uploads/2019/11/ctrl-labs-ctrl-kit-prototype-2019.jpg?resize=1024%2C660&strip=all?w=1536&strip=all)
-_Изображение с ресурса [venturebeat.com](https://venturebeat.com/2019/11/20/ctrl-labs-ceo-well-have-neural-interfaces-in-less-than-5-years/)_
+_Изображение с ресурса [venturebeat.com](https://venturebeat.com/2019/11/20/ctrl-labs-ceo-well-have-neural-interfaces-in-less-than-5-years/=100x100)_
 
