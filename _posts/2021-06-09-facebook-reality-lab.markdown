@@ -12,5 +12,8 @@ categories: news
 ### Facebook's Wrist-Worn Neural Finger Tracking Prototype In Action
 {% include youtube_embed.html id="WmxLiXAo9ko" %}
 
+### NICHOLAS BAKER: Дизайн браслета Ctrl-Labs
+https://baker.studio/ctrl-kit
+
 
 
