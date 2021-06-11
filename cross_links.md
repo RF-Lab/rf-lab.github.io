@@ -141,3 +141,4 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
 # `[18]` Поверхностная электромиография. Анализ сигналов в биотехнических системах.
  * `18-1` - Roberto Merletti (Editor), Dario Farina (Editor) Surface Electromyography: Physiology, Engineering, and Applications. [【ссылка на описание】](https://www.wiley.com/en-us/Surface+Electromyography%3A+Physiology%2C+Engineering%2C+and+Applications-p-9781118987025)
  * `18-2` - Roberto Merletti (Editor), Philip J. Parker (Editor) Electromyography: Physiology, Engineering, and Non-Invasive Applications. [【ссылка на описание】](https://www.wiley.com/en-us/Electromyography%3A+Physiology%2C+Engineering%2C+and+Non+Invasive+Applications+-p-9780471675808)
+ * `18-3` - Bagnard, Dominique (Ed.) Axon Growth and Guidance. Advances in Experimental Medicine and Biology. 2007.
