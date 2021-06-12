@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Выполние графа TensorFlow на сервере
+title:  Выполнение графа TensorFlow на сервере
 date:   2021-06-11 14:20
 categories: news
 ---
