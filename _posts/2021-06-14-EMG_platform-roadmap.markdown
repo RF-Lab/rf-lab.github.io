@@ -6,11 +6,11 @@ categories: news
 ---
 ## Дорожная карта развития встраиваемых решений EMG_platform
 
-![Image](https://i.ibb.co/9812m6K/EMG-Platform-roadmap.png)
+![Image](https://i.ibb.co/gyVwpd1/EMG-Platform-roadmap.png)
 
 ## Дорожная карта развития демонстрационных примеров для EMG_platform
 
-![Image](https://i.ibb.co/Vg6wHby/EMG-platform-interaction-and-visualization-roadmap.png)
+![Image](https://i.ibb.co/hgZSKHb/EMG-platform-interaction-and-visualization-roadmap.png)
 
 
 
