@@ -1,0 +1,171 @@
+<html>
+<!--https://www.antennahouse.com/CSSInfo/CSS-Page-Tutorial-en.pdf-->	
+<!--https://tympanus.net/codrops/2013/05/02/automatic-figure-numbering-with-css-counters/-->
+<head>
+	<meta charset="utf-8">
+    <style>
+		body {
+		  background: rgb(0,74,134); 
+		  background: repeating-linear-gradient(-60deg, rgb(230,230,230) 0,rgb(230,230,230)  1px, transparent 1px, transparent 5px);
+         	  font: large Times New Roman ;
+		  text-align: justify ;
+		  counter-reset: figures ;
+		}
+	        p H1 {
+		  padding-left: 	10px ;
+		  padding-right: 	10px ;
+	        }
+		page {
+		  background: white;
+		  display: block;
+		  margin: .5cm auto;
+		  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+		}
+	        page[size="A5"] {  
+		  width: 22cm;
+		  height: 14.8cm; 
+		}
+		page[size="A4"] {  
+		  width: 21cm;
+		  height: 29.7cm; 
+		}
+		page[size="A4"][layout="portrait"] {
+		  width: 29.7cm;
+		  height: 21cm;  
+		}
+		@media print {
+		  body, page {
+			margin: 0;
+			box-shadow: 0;
+		  }
+		}
+		header {			
+			padding-left: 	5px ;
+			padding-right: 	2px ;
+			/* padding: 0 0 0 0 ; */
+			color: white;
+			background-color: rgb(0,130,200) ;
+			clear: bottom;
+			text-align: left;
+		}
+		
+		.header {
+			/*border:1px solid darkgray ;*/
+			border:0px solid rgb(0,130,200) ;
+		}
+		.header .image {
+			background: url("https://pp.userapi.com/c629212/v629212097/12726/KO-KSydbMF8.jpg") no-repeat;
+			width: 100px;
+			height: 90px;
+			border:0px solid green;
+		}
+		.header .text {
+			font: x-large Times New Roman ;
+			border:0px solid blue;
+		}
+		.header .image, 
+		.header .text {
+			display: inline-block;
+			vertical-align: middle;
+		}
+		.body {
+			margin : 5px ;
+		}
+	    
+	   dt {
+	    float: left; /* Выстраиваем по горизонтали */
+	    width: 100px; /* Ширина термина */
+	    overflow: hidden;  /* Обрезаем длинную строку */
+	    text-align: right; /* Выравниваем вправо */
+	    text-overflow: ellipsis; /* Добавляем многоточие */
+	   }
+	   dd {
+	    margin-left: 170px; /* Отступ слева */
+	    margin-bottom: 5px; /* Расстояние между терминами */
+	   }	
+
+	    figure {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;	        
+		counter-increment: figures;
+		width: 35vw; /* Ширина */
+		text-align: center; /* Выравнивание по центру */
+		float: center ;
+	    }	
+	   
+	    figure figcaption:before {
+		content: 'Рис. ' counter(figures) ' - ';
+	    }
+	    
+	    figure figcaption {
+        	font: Times New Roman ;
+		font-weight: 500;
+		/*text-transform: uppercase;*/
+		letter-spacing: 0.8px;
+		font-size: 0.8em;
+		padding: .5em;
+		text-align: center;
+		color: rgb(0,0,0);
+		background: rgb(255,255,255);
+	    }	    
+	    
+	</style>
+	<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+		TeX: { equationNumbers: { autoNumber: "AMS" } }
+		});
+	</script>
+	<!--<script type="text/javascript" async
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>-->
+	<script type="text/javascript">
+	    window.MathJax = {tex: {
+    			tags: 'ams'
+  			}} ;
+	</script>
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({
+	    extensions: ["tex2jax.js"],
+	    jax: ["input/TeX", "output/HTML-CSS"],
+	    tex2jax: {
+	      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+	      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+	      processEscapes: true
+	    },
+	    "HTML-CSS": { fonts: ["TeX"] }
+	  });
+	</script>	
+	<script type="text/javascript"
+	   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js">
+	</script>
+</head>
+<body>
+
+  <!--        ------------------------- PAGE-1  ----------------------------------------------- -->	
+  <page size="A4">
+	<header>
+		<div class="header">
+			<p><div class="text"><font size="6"></font><font size="6">Список условных обозначений.</font></div></p>
+		</div>		
+	</header>
+	<div class="body">
+	<p>
+	<dl>
+	  <dt>\(A\)</dt> 		<dd>Алгоритм.</dd>
+	  <dt>\(T\)</dt> 		<dd>Задача машинного обучения.</dd>
+	  <dt>\(E\)</dt> 		<dd>Обучающая выборка.</dd>
+	  <dt>\(P\)</dt> 		<dd>Критерий качества.</dd>
+	  <dt>\(\vec{x}_i\)</dt> 	<dd>\(i\)-ый экземпляр данных.</dd>
+	  <dt>\(y_i\)</dt> 		<dd>Ненаблюдаемая величина для \(i\)-го экземпляра данных.</dd>
+	  <dt>\(\hat{y}_i\)</dt>	<dd>Оценка ненаблюдаемой величины для \(i\)-го экземпляра данных (метка, label, класс).</dd>
+	  <dt>\(\vec{x}_i(n)\)</dt> 	<dd>\(n\)-ый элемент, \(i\)-го экземпляра данных (экземпляр данных - вектор, элемент экземпляра - число либо качественный признак).</dd>
+	  <dt>\(p\left(y_i=k|\vec{x_i}\right)\)</dt>	<dd>Условная вероятность ненаблюдаемой величины для наблюдаемого вектора признаков.</dd>		
+	</dl>
+	</p>
+	</div>
+  </page>
+		
+		
+</body>
+</html>
