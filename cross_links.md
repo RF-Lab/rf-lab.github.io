@@ -132,6 +132,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-20` - Stephen Boyd and Lieven Vandenberghe Convex Optimization. Cambridge University Press 2004. [【ссылка на PDF】](https://web.stanford.edu/~boyd/cvxbook/)
  * `16-21` - Jake VanderPlas Python Data Science Handbook. O'Reilly Media, Inc. ISBN: 9781491912058. [【ссылка на PDF】](https://jakevdp.github.io/PythonDataScienceHandbook/)
  * `16-22` - Magnus Hyttsten, Juan Delgado, Paige Bailey Intro to TensorFlow for Deep Learning by TensorFlow[【ссылка на мультимедиа ресурс】](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+ * `16-23` - Christopher M. Bishop Pattern Recognition and Machine Learning. © 2006 Springer Science+Business Media, LLC.
  
 
 # `[17]` Импульсная техника
