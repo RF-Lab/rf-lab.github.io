@@ -133,7 +133,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-21` - Jake VanderPlas Python Data Science Handbook. O'Reilly Media, Inc. ISBN: 9781491912058. [【ссылка на PDF】](https://jakevdp.github.io/PythonDataScienceHandbook/)
  * `16-22` - Magnus Hyttsten, Juan Delgado, Paige Bailey Intro to TensorFlow for Deep Learning by TensorFlow[【ссылка на мультимедиа ресурс】](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
  * `16-23` - Christopher M. Bishop Pattern Recognition and Machine Learning. © 2006 Springer Science+Business Media, LLC.
- * `16-24` - Sanders P., Mehlorn K., Dietzfelbinger M., Dementiev R. Sequential and Parallel Algorithms and Data Structures: The Basic Toolbox. Springer Nature Switzerland AG 2019. *Книга содержит описание терминов broadcast, reduce, all-reduce и т.п. применяемых в распределенных вычислениях*
+ * `16-24` - Sanders P., Mehlorn K., Dietzfelbinger M., Dementiev R. Sequential and Parallel Algorithms and Data Structures: The Basic Toolbox. Springer Nature Switzerland AG 2019. *Книга содержит описание терминов broadcast, reduce, all-reduce и т.п. применяемых в распределенных вычислениях (необходимо, например, для Distributed training with TensorFlow и т.п.).*
  
 
 # `[17]` Импульсная техника
