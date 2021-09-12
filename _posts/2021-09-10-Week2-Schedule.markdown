@@ -20,3 +20,6 @@ categories: news
 
 ### БИСО-1/2/4/5-18,  12:40
 {% include youtube_embed.html id="CFzRa7ALNGg" %}
+
+### БИСО-1/2/4/5-18,  14:20
+{% include youtube_embed.html id="RlZdEV5JRLE" %}
