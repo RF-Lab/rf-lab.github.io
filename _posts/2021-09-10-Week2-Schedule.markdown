@@ -19,4 +19,4 @@ categories: news
 {% include youtube_embed.html id="rJOX0z4AIec" %}
 
 ### БИСО-1/2/4/5-18,  12:40
-{% include youtube_embed.html id="https://youtu.be/CFzRa7ALNGg" %}
+{% include youtube_embed.html id="CFzRa7ALNGg" %}
