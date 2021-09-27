@@ -14,3 +14,12 @@ categories: news
 |25.09.2021     |14:20    |БИСО-1/2/4/5-18|4     |ТОПД         |   Д       |[Discord](https://discord.gg/XCDKPyKM4X)|
 
 !Внимание - в расписании на сайте МИРЭА неточность - на первой паре лекции у всего потока БСБО (а не только у первой группы).
+
+### БСБО-1/2/3-18,  10:40
+{% include youtube_embed.html id="9nE3iNTfTTA" %}
+
+### БИСО-1/2/4/5-18,  12:40
+{% include youtube_embed.html id="la3IKxOMPyU" %}
+
+### БИСО-1/2/4/5-18,  14:20
+{% include youtube_embed.html id="N6RTxodRWoY" %}
