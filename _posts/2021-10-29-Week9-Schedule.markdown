@@ -20,11 +20,23 @@ categories: news
 
 Доступ к webinar.ru осуществляется посредством портала https://online-edu.mirea.ru/.
 
-При возникновении технических сбоев и т.п. пользуемся нашими стандартными ресурсами (Discord, Skype).
+При возникновении технических сбоев на Webinar.ru и т.п. пользуемся нашими стандартными ресурсами (Discord, Skype).
 
 [Discord БСБО-1/2/3-18](https://discord.gg/7KEzUhANaa)
 
 [Discord БИСО-1-5-18](https://discord.gg/XCDKPyKM4X)
 
-Срочные вопросы: +7(91б) 5о9-Ч286
+Если вообще все плохо или срочные вопросы: +7(91б) 5о9-Ч286.
+
+### БСБО-1/2/3-18,  9:00
+{% include youtube_embed.html id="" %}
+
+### БСБО-1/2/3-18,  10:40
+{% include youtube_embed.html id="" %}
+
+### БИСО-1/2/4/5-18,  12:40
+{% include youtube_embed.html id="" %}
+
+### БИСО-1/2/4/5-18,  14:20
+{% include youtube_embed.html id="" %}
 
