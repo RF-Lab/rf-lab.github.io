@@ -21,11 +21,11 @@ categories: news
 Внимание! 23 Октября физически в институте меня не будет - занятия проводятся удаленно!
 
 ### БСБО-1/2/3-18,  10:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="gm_mLCNWIcQ" %}
 
 ### БИСО-1/2/4/5-18,  12:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="1NNK9Gfntns" %}
 
 ### БИСО-1/2/4/5-18,  14:20
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="lHUKj0I7k1I" %}
 
