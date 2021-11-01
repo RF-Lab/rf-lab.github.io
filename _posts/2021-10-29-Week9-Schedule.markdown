@@ -29,14 +29,14 @@ categories: news
 Если вообще все плохо или срочные вопросы: +7(91б) 5о9-Ч286.
 
 ### БСБО-1/2/3-18,  9:00
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="q4WnUfnq9-U" %}
 
 ### БСБО-1/2/3-18,  10:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="U2Nf3HHgP2s" %}
 
 ### БИСО-1/2/4/5-18,  12:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="JkZa09CTzO8" %}
 
 ### БИСО-1/2/4/5-18,  14:20
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="czmSUa-o0aQ" %}
 
