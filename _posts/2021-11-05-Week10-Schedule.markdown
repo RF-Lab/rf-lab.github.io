@@ -11,7 +11,7 @@ categories: news
 | ------------- | ------- | ------------- | ---- | ----------- | --------- | --------- |
 |06.11.2021     |10:40    |БСБО-1/2/3-18  |4     |ТОПД         |   Д       |[Discord](https://discord.gg/7KEzUhANaa)|
 |06.11.2021     |12:10    |Перерыв 30мин. |      |             |           |           |
-|06.11.2021     |12:40    |БИСО-1/2/4/5-18|4     |ТОПД         |   Д(369)  |[Discord](https://discord.gg/XCDKPyKM4X)|
+|06.11.2021     |12:40    |БИСО-1/2/4/5-18|4     |ТОПД         |   Д       |[Discord](https://discord.gg/XCDKPyKM4X)|
 |06.11.2021     |14:20    |БИСО-1/2/4/5-18|4     |ТОПД         |   Д       |[Discord](https://discord.gg/XCDKPyKM4X)|
 |06.11.2021     |15:50    |Перерыв 30мин. |      |             |           |           |
 
@@ -23,5 +23,8 @@ categories: news
 {% include youtube_embed.html id="" %}
 
 ### БИСО-1/2/4/5-18,  12:40
+{% include youtube_embed.html id="" %}
+
+### БИСО-1/2/4/5-18,  14:20
 {% include youtube_embed.html id="" %}
 
