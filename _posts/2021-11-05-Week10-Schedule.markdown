@@ -27,12 +27,13 @@ categories: news
 
 [Discord БИСО-1-5-18](https://discord.gg/XCDKPyKM4X)
 
+
 ### БСБО-1/2/3-18,  10:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="nOmBIyhKSNo" %}
 
 ### БИСО-1/2/4/5-18,  12:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="wTZcLsndOzk" %}
 
 ### БИСО-1/2/4/5-18,  14:20
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="6oXBQ4iNNI8" %}
 
