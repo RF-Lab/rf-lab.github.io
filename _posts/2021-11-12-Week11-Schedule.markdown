@@ -31,14 +31,14 @@ categories: news
 Также записи должны быть доступны на портале online-edu.
 
 ### БСБО-1/2/3-18,  9:00
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="6vMj1GmEmJc" %}
 
 ### БСБО-1/2/3-18,  10:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="xknwc4jNkiY" %}
 
 ### БИСО-1/4-18,  12:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="0ImOzJilZrY" %}
 
 ### БИСО-1/4-18,  14:20
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="gQNhlNpsuIg" %}
 
