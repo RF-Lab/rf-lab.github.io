@@ -34,11 +34,11 @@ __Achtung!__ _Господа дипломники, кто у меня и кто 
 Также записи должны быть доступны на портале online-edu.
 
 ### БСБО-1/2/3-18,  10:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="inp3WaQfhNk" %}
 
 ### БИСО-1/2/4/5-18,  12:40
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="d0xkt8PHiT4" %}
 
 ### БИСО-1/2/4/5-18,  14:20
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="X3p1sEHEBac" %}
 
