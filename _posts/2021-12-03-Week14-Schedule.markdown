@@ -35,5 +35,5 @@ categories: news
 {% include youtube_embed.html id="HgctiCRhEgs" %}
 
 ### БИСО-1/2/4/5-18,  14:20
-{% include youtube_embed.html id="" %}
+{% include youtube_embed.html id="cKfTg-NUoCI" %}
 
