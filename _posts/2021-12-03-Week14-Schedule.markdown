@@ -9,10 +9,10 @@ categories: news
 
 | Дата          | Время   | Группа        | Курс | Дисциплина  | Аудитория | Материалы |
 | ------------- | ------- | ------------- | ---- | ----------- | --------- | --------- |
-|04.12.2021     |10:40    |БСБО-1/2/3-18  |4     |ТОПД         |   Д       |webinar.ru, [ДЗ-4](https://colab.research.google.com/drive/1LVlkqsuamd0rMDr-qYDYeiWOKTtxTuzZ?usp=sharing)|
+|04.12.2021     |10:40    |БСБО-1/2/3-18  |4     |ТОПД         |   Д       |webinar.ru, [ДЗ-4](https://colab.research.google.com/drive/1LVlkqsuamd0rMDr-qYDYeiWOKTtxTuzZ?usp=sharing), [Алгоритм RLS](https://colab.research.google.com/drive/1CfOaIhEVWoS6kPlTRqLwcTWVLkIaEYir?usp=sharing)|
 |04.12.2021     |12:10    |Перерыв 30мин. |      |             |           |           |
 |04.12.2021     |12:40    |БИСО-1/2/4/5-18|4     |ТОПД         |   Д       |webinar.ru, [ДЗ-4](https://colab.research.google.com/drive/1LVlkqsuamd0rMDr-qYDYeiWOKTtxTuzZ?usp=sharing)|
-|04.12.2021     |14:20    |БИСО-1/2/4/5-18|4     |ТОПД         |   Д       |webinar.ru|
+|04.12.2021     |14:20    |БИСО-1/2/4/5-18|4     |ТОПД         |   Д       |webinar.ru,[Алгоритм RLS](https://colab.research.google.com/drive/1CfOaIhEVWoS6kPlTRqLwcTWVLkIaEYir?usp=sharing)|
 |04.12.2021     |15:50    |Перерыв 30мин. |      |             |           |           |
 
 Занятия проводятся в удаленном режиме через webinar.ru.
