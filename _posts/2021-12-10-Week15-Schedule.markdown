@@ -19,3 +19,8 @@ categories: news
 
 Занятия проводятся очно в кампусе на стромынке.
 
+### БСБО-1/2/3-18,  9:00
+{% include youtube_embed.html id="wQP3QuVMLvY" %}
+
+### БСБО-1/2/3-18,  10:40
+{% include youtube_embed.html id="cDPawZZQmiE" %}
