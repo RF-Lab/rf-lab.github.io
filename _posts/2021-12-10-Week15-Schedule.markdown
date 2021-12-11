@@ -24,3 +24,10 @@ categories: news
 
 ### БСБО-1/2/3-18,  10:40
 {% include youtube_embed.html id="cDPawZZQmiE" %}
+
+### БИСО-1/2/4/5-18,  12:40
+{% include youtube_embed.html id="GhXmF4Kwo7w" %}
+
+### БИСО-1/2/4/5-18,  14:20
+{% include youtube_embed.html id="STL5b6R6bZg" %}
+
