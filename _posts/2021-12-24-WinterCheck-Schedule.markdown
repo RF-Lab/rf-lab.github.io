@@ -26,3 +26,6 @@ categories: news
 ### 21.01.2022, БИСО-01,04-18, Консультация 
 {% include youtube_embed.html id="oY3nIhisZVM" %}
 
+### 21.01.2022, БСБО-1,2,3-18, Консультация 
+{% include youtube_embed.html id="LMnK4VFUKhQ" %}
+
