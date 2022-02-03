@@ -21,12 +21,6 @@ categories: news
 |29.01.2022     |14:20    |БСБО-03-18     |4     |ТОПД         |358        | Экзамен      |
 |01.02.2022     |18:00    |--             |4     |ТОПД         |Стромынка  | Доп. экзамен |
 
-### 14.01.2022, БИСО-02,05-18, Консультация 
-{% include youtube_embed.html id="fZxrhk23tug" %}
-
-### 21.01.2022, БИСО-01,04-18, Консультация 
-{% include youtube_embed.html id="oY3nIhisZVM" %}
-
-### 28.01.2022, БСБО-1,2,3-18, Консультация 
-{% include youtube_embed.html id="LMnK4VFUKhQ" %}
+### Как подключиться к мозгу. Михаил Лебедев. Лекция 1 из 6 
+{% include youtube_embed.html id="vUr80Rr1Njc" %}
 
