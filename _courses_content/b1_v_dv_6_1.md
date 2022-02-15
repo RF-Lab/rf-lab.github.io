@@ -19,7 +19,7 @@ title: Теория обработки и передачи данных
  * `Лекция №3` - Совместная энтропия. [【ссылка на html】](https://colab.research.google.com/drive/1zRJ74NziNix0nAQY_iUDMShDnxHlLaV6?usp=sharing).
  * `Лекция №4` - Условная энтропия. [【ссылка на html】](https://colab.research.google.com/drive/1rNpIc-t2I2HddTjDe8f8HN_uo0zFUNLc?usp=sharing).
  * `Лекция №5` - Энтропия непрерывных распределений. Емкость канала передачи информации. [【ссылка на html】](https://colab.research.google.com/drive/11jGNECvtqWFd83I0QDpw7Ccti-QCircY?usp=sharing).
- * `Лекция №6` - Сравнение двух распределений. Относительная и перекрестная энтропии. [【ссылка на html】]https://colab.research.google.com/drive/11uAUmt9xgTkZAUBxABA8HFicXczwDZzo?usp=sharing).
+ * `Лекция №6` - Сравнение двух распределений. Относительная и перекрестная энтропии. [【ссылка на html】](https://colab.research.google.com/drive/11uAUmt9xgTkZAUBxABA8HFicXczwDZzo?usp=sharing).
  
 
  * `CAP` - Лекции по математической теории теории информации. [【ссылка на html】](topd_lect_stub).
