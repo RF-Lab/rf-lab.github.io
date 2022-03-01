@@ -24,3 +24,6 @@ categories: news
 
 ### 15.02.2021     |18:00    |БСБО-1,2,3-18  |4     |ТОПД
 {% include youtube_embed.html id="44_OMbpHOBA" %}
+
+### 19.02.2021     |12:40    |БСБО-1/2,3-19  |3     |АКЦОД
+{% include youtube_embed.html id="OSIKXsku0Vo" %}
