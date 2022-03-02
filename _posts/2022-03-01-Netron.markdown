@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Утилита для визуализации структуры нейронных сетей Netron
+date:   2022-03-01 15:00
+categories: news
+---
+## Утилита для визуализации структуры нейронных сетей
+
+При подготовке пояснительных записок, статей и т.п. прошу обратить внимание на этот инструмент: [https://github.com/lutzroeder/netron](https://github.com/lutzroeder/netron)
+
+![-](https://i.ibb.co/ggDjqrV/netron.png)
+
