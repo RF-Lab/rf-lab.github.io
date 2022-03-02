@@ -14,7 +14,7 @@ categories: news
 model.save( 'model.h5' )
 ```
 
-Загрузите полученный файл на компьютер (если вы работаете в облаке). Далее запуститу исполняемую версию Netron либо браузерную версию [Как поставить Netron](https://github.com/lutzroeder/netron#install) и откройте файл model.h5 с помощью File$$\rightarrow$$Open.
+Загрузите полученный файл на компьютер (если вы работаете в облаке). Далее запустите исполняемую версию Netron либо браузерную версию ([как поставить Netron](https://github.com/lutzroeder/netron#install)) и откройте файл model.h5 с помощью File$$\rightarrow$$Open.
 
 ![-](https://i.ibb.co/ggDjqrV/netron.png)
 
