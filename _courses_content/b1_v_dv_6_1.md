@@ -21,7 +21,7 @@ title: Теория обработки и передачи данных
  * `Лекция №5` - Энтропия непрерывных распределений. Емкость канала передачи информации. [【ссылка на html】](https://colab.research.google.com/drive/11jGNECvtqWFd83I0QDpw7Ccti-QCircY?usp=sharing).
  * `Лекция №6` - Сравнение двух распределений. Относительная и перекрестная энтропии. [【ссылка на html】](https://colab.research.google.com/drive/11uAUmt9xgTkZAUBxABA8HFicXczwDZzo?usp=sharing).
  * `Лекция №7` - Потенциал действия. [【ссылка на html】](https://colab.research.google.com/drive/1Uoxfwr17Dn53ORETseYd3ZELYqBoH7D1?usp=sharing).
- * `Лекция №8` - Оценка информационной емкости сигнала электромиографии.. [【ссылка на html】](https://colab.research.google.com/drive/1I6cQ2vGuXJV5DxO8Nlaep1jJif_Q3Mf6?usp=sharing).
+ * `Лекция №8` - Оценка информационной емкости сигнала электромиографии. [【ссылка на html】](https://colab.research.google.com/drive/1I6cQ2vGuXJV5DxO8Nlaep1jJif_Q3Mf6?usp=sharing).
  
 
  * `CAP` - Лекции по математической теории теории информации. [【ссылка на html】](topd_lect_stub).
