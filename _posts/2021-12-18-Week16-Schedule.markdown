@@ -16,3 +16,5 @@ categories: news
 |20.11.2021     |15:50    |Перерыв 30мин. |      |             |           |           |
 |20.11.2021     |16:20    |Дипломники     |      |             |   Д       |[Discord](https://discord.gg/YvAWFmh2tz)|
 
+### 20.11.2021     |10:40    |БСБО-1/2/3-18  |4     |ТОПД
+{% include youtube_embed.html id="QVqtnl-bRaQ" %}
