@@ -22,3 +22,6 @@ categories: news
 ### 26.02.2022     |09:00    |БСБО-2-18      |4     |ТОПД
 {% include youtube_embed.html id="vkb2RwBa4Ak" %}
 
+### 26.02.2022     |10:40    |БСБО-2-18      |4     |ТОПД
+{% include youtube_embed.html id="8IclpEONw4A" %}
+
