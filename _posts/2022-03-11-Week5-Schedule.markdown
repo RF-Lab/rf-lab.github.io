@@ -18,3 +18,11 @@ categories: news
 |12.03.2021     |16:20    |БСБО-3-19      |3     |АКЦОД        |   257     |           |
 |12.03.2021     |18:00    |БСБО-3-19      |3     |АКЦОД        |   257     |           |
 |12.03.2021     |19:30    |Дипломники     |      |             |   334     |           |
+
+### 12.03.2022     |09:00    |БСБО-2-18      |4     |ТОПД
+{% include youtube_embed.html id="_qGGCz6izz8" %}
+
+### 12.03.2022     |10:40    |БСБО-2-18      |4     |ТОПД 
+{% include youtube_embed.html id="CXvvofpyD1U" %}
+
+{% include youtube_embed.html id="L3AQw3WWZQs" %}
