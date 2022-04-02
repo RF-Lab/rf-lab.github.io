@@ -25,3 +25,6 @@ categories: news
 
 ### 29.03.2022     |18:00    |БСБО-1,2,3-18  |4     |ТОПД
 {% include youtube_embed.html id="cyyG5bti47g" %}
+
+### 02.04.2022     |12:40    |БСБО-1/2,3-19         |3     |АКЦОД
+{% include youtube_embed.html id="Qv6SvXe2Xc4" %}
