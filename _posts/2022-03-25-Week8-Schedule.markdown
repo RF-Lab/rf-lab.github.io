@@ -34,3 +34,7 @@ categories: news
 
 ### 02.04.2022     |14:20    |БСБО-1-18             |4     |ТОПД
 {% include youtube_embed.html id="RnfwVhMxcSc" %}
+
+
+### 02.04.2022     |16:20    |БСБО-3-18             |4     |ТОПД
+{% include youtube_embed.html id="4SCHyIa8Vmg" %}
