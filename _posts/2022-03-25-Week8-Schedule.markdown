@@ -28,3 +28,6 @@ categories: news
 
 ### 02.04.2022     |12:40    |БСБО-1/2,3-19         |3     |АКЦОД
 {% include youtube_embed.html id="Qv6SvXe2Xc4" %}
+
+### 02.04.2022     |14:20    |БСБО-1-18             |4     |ТОПД
+{% include youtube_embed.html id="RnfwVhMxcSc" %}
