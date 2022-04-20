@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Дополнительная индикация режима работы для EMG-8x Rev.4.
-date:   2022-02-02 22:00
+date:   2022-04-19 22:00
 categories: news
 ---
 
