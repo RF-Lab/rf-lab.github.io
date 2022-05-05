@@ -95,6 +95,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
 * `12-28` - Javier Céspedes, Pablo M. Olmos, Member, IEEE, Matilde Sánchez-Fernández, Senior Member, IEEE, and Fernando Perez-Cruz, Senior Member, IEEE Expectation Propagation Detection for High-Order High-Dimensional MIMO Systems.
 * `12-29` - William E. Ryan, Shu Lin Channel Codes. Classical and Modern. © Cambridge University Press 2009.
 * `12-30` - Le Nguyen Binh Optical Fiber Communication Systems with MATLAB® and Simulink® Models. Huawei Technologies CO., LTD., Second Edition, CRC Press. © 2015 by Taylor & Francis Group, LLC. `Есть модель драйвера MZM в виде фильтр Бесселя`.
+* `12-31` - Maxim Kuschnerov, Fabian N. Hauske, Kittipong Piyawanno, Bernhard Spinnler, Mohammad S. Alfiad, Antonio Napoli, and Berthold Lankl, "DSP for Coherent Single-Carrier Receivers," J. Lightwave Technol. 27, 3614-3622 (2009). [https://opg.optica.org](https://opg.optica.org/jlt/abstract.cfm?URI=jlt-27-16-3614), [TU/e](https://pure.tue.nl/ws/files/3277464/Metis227961.pdf) 
 
 # `[15]` Статистика. Случайные процессы. Теория вероятностей. Теория информации
  * `15-1` - Большаков А. Каримов Р. Методы обработки многомерных данных и временных рядов. - Горячая Линия-Телеком, 2007.[【ссылка на описание】](http://www.ozon.ru/context/detail/id/3001036/)
