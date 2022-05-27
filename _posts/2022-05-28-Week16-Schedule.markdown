@@ -11,7 +11,7 @@ categories: news
 
 | Дата          | Время   | Группа               | Курс | Дисциплина  | Аудитория | Материалы |
 | ------------- | ------- | -------------------- | ---- | ----------- | --------- | --------- |
-|28.05.2022     |12:40    |БСБО-1/2,3-19         |3     |АКЦОД        | 257       | [-1-](https://colab.research.google.com/drive/1p7el0cy6VuhDvgxYf00uhJWoZ92F23YP?usp=sharing)          |
+|28.05.2022     |12:40    |БСБО-1/2,3-19         |3     |АКЦОД        | 257       | [-1-](https://colab.research.google.com/drive/1p7el0cy6VuhDvgxYf00uhJWoZ92F23YP?usp=sharing), [-2-](https://colab.research.google.com/drive/1LVlkqsuamd0rMDr-qYDYeiWOKTtxTuzZ?usp=sharing)          |
 |28.05.2022     |14:20    |Дипломники            |3     |             | 334?      |           |
 
 
