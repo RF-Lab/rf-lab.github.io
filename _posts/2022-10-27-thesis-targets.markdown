@@ -7,3 +7,5 @@ categories: news
 
 
 ## Заполнение задания на ВКР
+
+{% include youtube_embed.html id="lMmfVoJJJ_A" %}
