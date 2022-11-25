@@ -20,4 +20,4 @@ categories: news
 
 В-78 - Пр. Вернадского, 78
 
-
+{% include run_fasttrack.html id="MFL9-uRmWdc" %}
