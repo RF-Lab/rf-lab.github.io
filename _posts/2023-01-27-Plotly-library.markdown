@@ -28,9 +28,14 @@ fig.add_annotation( x=0.0, y=1,
   text=r'$\text{Разрыв второго рода в функции }f(x)=\frac{\sin(x)}{x}$', 
   font=dict(color='green') )
 fig.update_layout( xaxis_title=r'$x$', yaxis_title=r'$f(x)$' )
+``````
+Результат можно получить в виде html файла с интерактивным содержимым (при просмотре этого файла можно изменять масштаб, сохранять в виде изображения, click по легенде позволяет выключать выборочно графики). Вы бор формата html не случаен - в случае разработки Web приложения можно использовать платформу [Plotly Dash Enterprise]( https://plotly.com/dash/) либо Dash Open Source.
+
+``````
 fig.write_html('sin.html',include_mathjax='cdn')
 ``````
 
 {% include plotly_example1.html %}
+
 
 
