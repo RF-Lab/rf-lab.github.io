@@ -11,5 +11,26 @@ categories: news
 При оформлении материалов для статей, дипломов и т.п. для отрисовки графиков, диаграм рекомендую использовать библиотеку 
 [Plotly Open Source Graphing Library for Python](https://plotly.com/python/) вместо любимой всеми matplotlib. Пример использоввания:
 
+``````
+import numpy as np
+import plotly.graph_objects as go
+import plotly.io as pio
+pio.templates.default = 'presentation'
+
+x = np.linspace( -10*np.pi, 10*np.pi, 1000 )
+y = np.sin( x )/x
+u = np.exp( -0.1*np.square(x) )
+
+fig = go.Figure()
+fig.add_trace( go.Scatter( x=x, y=y, name=r'$f(x)=\frac{\sin(x)}{x}$' ) )
+fig.add_trace( go.Scatter( x=x, y=u, name=r'$f(x)=e^{-x^2}$' ) )
+fig.add_annotation( x=0.0, y=1, 
+  text=r'$\text{Разрыв второго рода в функции }f(x)=\frac{\sin(x)}{x}$', 
+  font=dict(color='green') )
+fig.update_layout( xaxis_title=r'$x$', yaxis_title=r'$f(x)$' )
+fig.write_html('sin.html',include_mathjax='cdn')
+``````
+
+{% include run.html %}
 
 
