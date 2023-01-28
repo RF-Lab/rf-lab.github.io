@@ -36,8 +36,17 @@ fig.update_layout( xaxis_title=r'$x$', yaxis_title=r'$f(x)$' )
 fig.write_html('sin.html',include_mathjax='cdn')
 ``````
 
+Либо можно использовать фунцию show(), в этом случае результат выполнения зависит от Python runtime. В случае использования Colab рнезультаты show() выводятся аналогично тому как это происходит в случае использования matplotlib, т.е. сразу после текущей ячейки с кодом.
+
+
+``````
+fig.show()
+``````
+
 
 {% include plotly_example1.html %}
+
+
 
 
 
