@@ -8,8 +8,8 @@ categories: news
 
 ## Plotly
 
-При оформлении материалов для статей, дипломов и т.п. для отрисовки графиков, диаграм рекомендую использовать библиотеку 
-[Plotly Open Source Graphing Library for Python](https://plotly.com/python/) вместо любимой всеми matplotlib. Пример использоввания:
+При оформлении материалов для статей, дипломов и т.п. для отрисовки графиков и диаграмм рекомендую использовать библиотеку 
+[Plotly Open Source Graphing Library for Python](https://plotly.com/python/) вместо любимой всеми matplotlib. Пример использования:
 
 ``````
 import numpy as np
