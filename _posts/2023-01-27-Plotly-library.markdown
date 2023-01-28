@@ -31,6 +31,6 @@ fig.update_layout( xaxis_title=r'$x$', yaxis_title=r'$f(x)$' )
 fig.write_html('sin.html',include_mathjax='cdn')
 ``````
 
-{% include run.html %}
+{% include plotly_example1.html %}
 
 
