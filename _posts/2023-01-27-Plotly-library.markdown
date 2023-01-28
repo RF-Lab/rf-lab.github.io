@@ -29,7 +29,7 @@ fig.add_annotation( x=0.0, y=1,
   font=dict(color='green') )
 fig.update_layout( xaxis_title=r'$x$', yaxis_title=r'$f(x)$' )
 ``````
-Результат можно получить в виде html файла с интерактивным содержимым (при просмотре этого файла можно изменять масштаб, сохранять в виде изображения, click по легенде позволяет выключать выборочно графики). Выбор формата html не случаен - флагманский продукт компании Plotly Technologies Inc это [Plotly Dash Enterprise](https://dash.gallery/Portal/) либо (Dash Open Source)[https://dash.plotly.com/], которые можно использовать для быстрой разработки Web приложений.
+Результат можно получить в виде html файла с интерактивным содержимым (при просмотре этого файла можно изменять масштаб, сохранять в виде изображения, click по легенде позволяет выключать выборочно графики). Выбор формата html не случаен - флагманский продукт компании Plotly Technologies Inc это [Plotly Dash Enterprise](https://dash.gallery/Portal/) либо [Dash Open Source](https://dash.plotly.com/), которые можно использовать для быстрой разработки Web приложений.
 
 
 ``````
