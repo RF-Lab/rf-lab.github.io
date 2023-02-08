@@ -6,7 +6,10 @@ categories: news
 ---
 ## Аналоговый интерфейс
 
-![Image](https://i.ibb.co/9hb5hh7/frontend-sch.png)
+![Image](https://i.ibb.co/y8RLzQt/frontend-sch.png)
 
+## Результаты Trasient Analysis
+
+![Image](https://i.ibb.co/9qSW8YY/waveform-frontend.png)
 
 
