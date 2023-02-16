@@ -8,8 +8,8 @@ categories: news
 
 ![Image](https://i.ibb.co/DwLJsTy/frontend-sch.png)
 
-## Результаты Trasient Analysis
+## Частотный отклик аналогвого интерфейса
 
-![Image](https://i.ibb.co/9qSW8YY/waveform-frontend.png)
+![Image](https://i.ibb.co/TcKFXpm/freqResp.png)
 
 
