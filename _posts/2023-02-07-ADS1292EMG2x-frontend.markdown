@@ -8,7 +8,7 @@ categories: news
 
 ![Image](https://i.ibb.co/DwLJsTy/frontend-sch.png)
 
-## Частотный отклик аналогового интерфейса
+## Частотный отклик
 
 ![Image](https://i.ibb.co/TcKFXpm/freqResp.png)
 
