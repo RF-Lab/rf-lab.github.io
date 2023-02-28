@@ -6,7 +6,7 @@ categories: news
 ---
 ## IAN HAMILTON OCTOBER 11, 2022 Zuckerberg Sees Neural Wristband Surpassing Keyboards By 2028
 
-Эта статья [IAN HAMILTON OCTOBER 11, 2022 - https://uploadvr.com/](https://uploadvr.com/zuckerberg-wristband-keyboard/) на мой взгляд содержит исчерпывающие формулировки актуальности и цели исследований в области ЭМГ интерфейсов. Рекомендую к ручному переводу и написанию на ее основе введения и пункта 1.1 Предметная область.
+Эта статья [IAN HAMILTON OCTOBER 11, 2022 - uploadvr.com](https://uploadvr.com/zuckerberg-wristband-keyboard/) на мой взгляд содержит исчерпывающие формулировки актуальности и цели исследований в области ЭМГ интерфейсов. Рекомендую к ручному переводу и написанию на ее основе введения и пункта 1.1 Предметная область.
 
 Например, вот это можно использовать при формулировании актуальности:
 ```
