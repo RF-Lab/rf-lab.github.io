@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Метериалы для 1 раздела: Neural Wristband Faster Than Keyboards By 2028.
+title:  Метериалы для 1 раздела - Neural Wristband Faster Than Keyboards By 2028.
 date:   2023-02-27 14:00
 categories: news
 ---
