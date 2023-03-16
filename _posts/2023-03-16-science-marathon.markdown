@@ -21,5 +21,8 @@ categories: news
 Подготовка стенда "Игровой симулятор полета с управлением на основе сигналов электромиографии"
 {% include youtube_embed.html id="oS0Iqixd9bs" %}
 
+Проверка оборудования ЭМГ
+{% include youtube_embed.html id="Q5ergjErq9k" %}
+
 Официальное открытие марафона наук 2023.
 {% include youtube_embed.html id="ORgm2UXGqAE" %}
