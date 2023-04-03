@@ -18,11 +18,11 @@ categories: news
 
 ![-](https://i.ibb.co/PMtw51b/IMG-20230402-155430.jpg)
 
-Подготовка стенда "Игровой симулятор полета с управлением на основе сигналов электромиографии"
-{% include youtube_embed.html id="oS0Iqixd9bs" %}
+Калибровка перед использованием оборудования ЭМГ
+{% include youtube_embed.html id="AwJ-TlkYpF8" %}
 
-Проверка оборудования ЭМГ
-{% include youtube_embed.html id="Q5ergjErq9k" %}
+Управление игровым интерфейсом с помощью [Программно-аппаратная платформа для захвата и анализа сигналов электромиографии](https://github.com/RF-Lab/emg_platform/blob/master/readme-ru.md)
+{% include youtube_embed.html id="hOQqEY1Kb_w" %}
 
-Официальное открытие марафона наук 2023.
-{% include youtube_embed.html id="ORgm2UXGqAE" %}
+Случайно нашли профессионального пользователя ЭМГ интерфейса!
+{% include youtube_embed.html id="Si5GeT-Os5Q" %}
