@@ -135,6 +135,7 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-22` - Magnus Hyttsten, Juan Delgado, Paige Bailey Intro to TensorFlow for Deep Learning by TensorFlow[【ссылка на мультимедиа ресурс】](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
  * `16-23` - Christopher M. Bishop Pattern Recognition and Machine Learning. © 2006 Springer Science+Business Media, LLC.
  * `16-24` - Sanders P., Mehlorn K., Dietzfelbinger M., Dementiev R. Sequential and Parallel Algorithms and Data Structures: The Basic Toolbox. Springer Nature Switzerland AG 2019. *Книга содержит описание терминов broadcast, reduce, all-reduce и т.п. применяемых в распределенных вычислениях (необходимо, например, для Distributed training with TensorFlow и т.п.).*
+ * `16-25` - Calyampudi Radhakrishna Rao , Helge Toutenburg Linear Models: Least Squares and Alternatives. 1995. [【ссылка на PDF】](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=66d9d32ca9ce45bf64413c3b0cd3530ef4cd78c4)
  
 
 # `[17]` Импульсная техника
