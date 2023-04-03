@@ -21,8 +21,10 @@ categories: news
 Калибровка перед использованием оборудования ЭМГ
 {% include youtube_embed.html id="AwJ-TlkYpF8" %}
 
+
 Управление игровым интерфейсом с помощью [программно-аппаратной платформы для захвата и анализа сигналов электромиографии](https://github.com/RF-Lab/emg_platform/blob/master/readme-ru.md)
 {% include youtube_embed.html id="hOQqEY1Kb_w" %}
+
 
 Случайно нашли профессионального пользователя ЭМГ интерфейса!
 {% include youtube_embed.html id="Si5GeT-Os5Q" %}
