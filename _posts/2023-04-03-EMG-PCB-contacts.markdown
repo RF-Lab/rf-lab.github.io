@@ -8,7 +8,7 @@ categories: news
 
 ## Contact Pad Rectang Square Shape
 
-Контакты очень похожи на тt, что стоялb на ранних прототипах Ctrl-Labs. Планирую именно их поставить на EMG-2x Revision 1.0.
+Контакты очень похожи на те, что стояли на ранних прототипах Ctrl-Labs. Планирую именно их поставить на EMG-2x Revision 1.0.
 
 ![-](https://i.ibb.co/3Rj21NV/Rectang-Pad.png)
 
