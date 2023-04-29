@@ -19,3 +19,7 @@ categories: news
 
 C-20 - Стромынка, 20
 
+### БСБО-3,17-20,  12:40
+{% include youtube_embed.html id="IpELQysaUvo" %}
+
+
