@@ -24,3 +24,6 @@ C-20 - Стромынка, 20
 
 ### БСБО-1,2,3,17-20,  16:20
 {% include youtube_embed.html id="bR6Afqb_HCI" %}
+
+### БСБО-1,2-20,  18:00
+{% include youtube_embed.html id="lr_IlcDb4zQ" %}
