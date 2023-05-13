@@ -18,6 +18,11 @@ categories: news
 |13.05.2023     |16:20    |БСБО-1,2-20           |3     |АКЦОД        |[Webinar](https://online-edu.mirea.ru/)|           |
 
 ### БСБО-3,17-20,  12:40
+{% include youtube_embed.html id="_tWTOK1eH_8" %}
+
+### Дипломники,  14:30
+{% include youtube_embed.html id="https://youtu.be/Hxx_Aq8YCzg" %}
 
 ### БСБО-1,2-20,  16:20
+{% include youtube_embed.html id="ymnuozPBvjo" %}
 
