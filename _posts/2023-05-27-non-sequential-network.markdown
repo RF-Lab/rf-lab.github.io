@@ -18,8 +18,8 @@ class MyModel(tf.keras.Model):
     self.dense = tf.keras.layers.Dense(1)
 
   def call(self, inputs):
-    x = self.conv1(inputs[:,:-1])
-    a = inputs[:,-1:]
+    x = self.conv1(inputs[:,:-1]) # сигнал
+    a = inputs[:,-1:] # скаляр
     x = self.dense(tf.concat([x,a],axis=1))
     return x
 ``````
