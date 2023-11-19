@@ -12,3 +12,4 @@ categories: news
 
 ![-](https://i.ibb.co/9Wd8Kf1/IMG-20231119-120802.jpg)
 
+{% include youtube_embed.html id="_Xz8SVRvULc" %}
