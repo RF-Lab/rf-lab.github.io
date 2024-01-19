@@ -1,0 +1,12 @@
+---
+layout: post
+title:  KAI | A Revolutionary Gesture Controller
+date:   2024-01-18 10:00
+categories: news
+---
+
+
+KAI | A Revolutionary Gesture Controller
+
+{% include youtube_embed.html id="DaR8zh_pjvQ" %}
+
