@@ -8,5 +8,7 @@ categories: news
 
 KAI | A Revolutionary Gesture Controller
 
+https://kai.vicara.co/home
+
 {% include youtube_embed.html id="DaR8zh_pjvQ" %}
 
