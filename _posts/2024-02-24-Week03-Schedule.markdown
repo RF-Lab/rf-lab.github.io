@@ -27,6 +27,7 @@ categories: news
 
 С-20 - Стромынка, 20
 
+
 Актуальное расписание только на сайте https://www.mirea.ru/schedule/
 
 
