@@ -1,0 +1,13 @@
+---
+layout: post
+title:  BIOPAC ACQKNOWLEDGE 5 DEMO
+date:   2024-02-29 10:00
+categories: news
+---
+
+## Демо версия BIOPAC ACQKNOWLEDGE 5
+
+[Скачать можно здесь](https://www.biopac.com/demo/acqknowledge-5-demo/?url=https://www.biopac.com/application/emg-electromyography/)
+
+![-](https://www.biopac.com/wp-content/uploads/ACQ5-Demo-graph.bmp)
+
