@@ -12,8 +12,14 @@ categories: news
 
 ![-](https://i.ibb.co/hmZnggY/070424.jpg)
 
+
 Тестирование на новом пользователе:
 {% include youtube_embed.html id="E9M1K1lypG0" %}
 
+
 Инструктаж и настройка перед экспериментом:
 {% include youtube_embed.html id="dzkhJ7zdXco" %}
+
+
+Весь ДОД за 5 минут!
+{% include youtube_embed.html id="7z3NhNeJZs0" %}
