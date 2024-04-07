@@ -15,3 +15,5 @@ categories: news
 Тестирование на новом пользователе:
 {% include youtube_embed.html id="E9M1K1lypG0" %}
 
+Инструктаж и настройка перед экспериментом:
+{% include youtube_embed.html id="dzkhJ7zdXco" %}
