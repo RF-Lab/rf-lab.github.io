@@ -23,3 +23,7 @@ categories: news
 
 Весь ДОД за 5 минут!
 {% include youtube_embed.html id="7z3NhNeJZs0" %}
+
+
+Раздел профессиональные участники
+{% include youtube_embed.html id="soaRU-kx-TI" %}
