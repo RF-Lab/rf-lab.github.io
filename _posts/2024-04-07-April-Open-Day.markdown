@@ -12,12 +12,18 @@ categories: news
 ### Спасибо всем, кто принимал участие в организации и проведении ДОД 7 Апреля 2024г. 
 
 ![-](https://i.ibb.co/hmZnggY/070424.jpg)
+
 <br/>
 ![-](https://i.ibb.co/9pk8Y3x/IMG-20240407-111933.jpg)
+
 <br/>
 ![-](https://i.ibb.co/N1fDZLh/IMG-20240407-123240-1.jpg)
+
 <br/>
 ![-](https://i.ibb.co/bvYWBJj/IMG-20240407-121508-1.jpg)
+
+<br/>
+![-](https://i.ibb.co/3Ryqr1G/IMG-20240407-131014.jpg)
 
 ### Тестирование на новом пользователе:
 {% include youtube_embed.html id="E9M1K1lypG0" %}
