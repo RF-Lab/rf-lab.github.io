@@ -15,11 +15,17 @@ categories: news
 
 ![-](https://i.ibb.co/9pk8Y3x/IMG-20240407-111933.jpg)
 
+![-](https://i.ibb.co/FkQSpxH/photo-2024-04-07-10-50-49-2.jpg)
+
 ![-](https://i.ibb.co/N1fDZLh/IMG-20240407-123240-1.jpg)
+
+![-](https://i.ibb.co/Krcf4rY/photo-2024-04-07-10-23-38.jpg)
 
 ![-](https://i.ibb.co/bvYWBJj/IMG-20240407-121508-1.jpg)
 
 ![-](https://i.ibb.co/3Ryqr1G/IMG-20240407-131014.jpg)
+
+![-](https://i.ibb.co/2Ng0MQF/photo-2024-04-07-09-47-22.jpg)
 
 ### Тестирование на новом пользователе:
 {% include youtube_embed.html id="E9M1K1lypG0" %}
