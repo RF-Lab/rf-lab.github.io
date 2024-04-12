@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  CTRL-Labs: A Generic noninvasive neuromotor interface
-date:   2024-04-12 10:00
+title:  Ctrl-Labs generic interface
+date: 2024-04-11 10:00
 categories: news
 ---
-
 
 ## A Generic noninvasive neuromotor interface
 
