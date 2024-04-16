@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Ctrl-Labs generic interface
-date: 2024-04-11 10:00
+title:  A generic noninvasive neuromotor interface for human-computer interaction
+date: 2024-04-15 10:00
 categories: news
 ---
 
