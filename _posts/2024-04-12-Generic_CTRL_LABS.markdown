@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A generic noninvasive neuromotor interface for human-computer interaction
+title:  >>>!A generic noninvasive neuromotor interface for human-computer interaction
 date: 2024-04-15 10:00
 categories: news
 ---
