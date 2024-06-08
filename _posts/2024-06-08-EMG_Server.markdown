@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  EMG Server (by Артем Еланцев).
-date:   2024-06-08 22:30
+date:   2024-06-07 22:30
 categories: news
 ---
 
