@@ -19,6 +19,8 @@ categories: news
 |Научно-технический журнал "Системы управления и информационные технологии"|?|Да|http://www.sbook.ru/suit/|
 |Журнал «Наука. Инновации. Технологии»|РИНЦ|Да|https://scienceit.elpub.ru/jour|
 |Журнал "СИСТЕМНЫЙ АНАЛИЗ И УПРАВЛЕНИЕ В БИОМЕДИЦИНСКИХ СИСТЕМАХ"|?|Да|https://cchgeu.ru/science/nauchnye-izdaniya/sistemnyy-analiz-i-upravlenie-v-biomeditsinskikh-sistemakh/|
+|Журнал «Информационные технологии»|РИНЦ, RSCI|Да|http://novtex.ru/IT/|
+
 
 
 
