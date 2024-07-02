@@ -17,6 +17,8 @@ categories: news
 |Журнал «Нейрокомпьютеры: разработка, применение»|-|Да|http://radiotec.ru/ru/journal/Neurocomputers|
 |Журнал «Технологии живых систем»|RSCI|Да|http://radiotec.ru/ru/journal/Technologies_of_Living_Systems|
 |Научно-технический журнал "Системы управления и информационные технологии"|?|Да|http://www.sbook.ru/suit/|
+|Журнал «Наука. Инновации. Технологии»|РИНЦ|Да|https://scienceit.elpub.ru/jour|
+
 
 
 
