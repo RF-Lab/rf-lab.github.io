@@ -18,6 +18,7 @@ categories: news
 |Журнал «Технологии живых систем»|RSCI|Да|http://radiotec.ru/ru/journal/Technologies_of_Living_Systems|
 |Научно-технический журнал "Системы управления и информационные технологии"|?|Да|http://www.sbook.ru/suit/|
 |Журнал «Наука. Инновации. Технологии»|РИНЦ|Да|https://scienceit.elpub.ru/jour|
+|Журнал "СИСТЕМНЫЙ АНАЛИЗ И УПРАВЛЕНИЕ В БИОМЕДИЦИНСКИХ СИСТЕМАХ"|?|Да|https://cchgeu.ru/science/nauchnye-izdaniya/sistemnyy-analiz-i-upravlenie-v-biomeditsinskikh-sistemakh/|
 
 
 
