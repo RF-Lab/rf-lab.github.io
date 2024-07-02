@@ -14,8 +14,8 @@ categories: news
 |---------------------------------|--------------------------------------------------|-|--------------------------------------------------------------------------|
 |Журнал "Сенсорные системы"       | [РИНЦ](https://elibrary.ru/title_about.asp?id=8212), [RSCI](https://elibrary.ru/projects/rsci/rsci.pdf), BIOSIS, Zoological records |Да|[【Ссылка】](https://sensorysystems.ru/ru.html)     | 
 |Журнал "Программная инженерия"|РИНЦ, RSCI|Да|[【Ссылка】](http://novtex.ru/prin/rus/index.html)|
-|Журнал «Нейрокомпьютеры: разработка, применение»|-|Да|[[【Ссылка】](http://radiotec.ru/ru/journal/Neurocomputers)|
-|Журнал «Технологии живых систем»|RSCI|Да|[[【Ссылка】](http://radiotec.ru/ru/journal/Technologies_of_Living_Systems)|
+|Журнал «Нейрокомпьютеры: разработка, применение»|-|Да|[【Ссылка】](http://radiotec.ru/ru/journal/Neurocomputers)|
+|Журнал «Технологии живых систем»|RSCI|Да|[【Ссылка】](http://radiotec.ru/ru/journal/Technologies_of_Living_Systems)|
 |Научно-технический журнал "Системы управления и информационные технологии"|?|Да|[【Ссылка】](http://www.sbook.ru/suit/)|
 |Журнал «Наука. Инновации. Технологии»|РИНЦ|Да|[【Ссылка】](https://scienceit.elpub.ru/jour)|
 |Журнал "СИСТЕМНЫЙ АНАЛИЗ И УПРАВЛЕНИЕ В БИОМЕДИЦИНСКИХ СИСТЕМАХ"|?|Да|[【Ссылка】](https://cchgeu.ru/science/nauchnye-izdaniya/sistemnyy-analiz-i-upravlenie-v-biomeditsinskikh-sistemakh/)|
