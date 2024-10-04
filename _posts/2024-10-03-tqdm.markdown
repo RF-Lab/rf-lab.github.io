@@ -1,0 +1,17 @@
+---
+layout: post
+title:  tqdm - ProgressBar для Python
+date:   2024-10-03 21:00
+categories: news
+---
+
+# Progress bar для Python
+
+.. code:: python
+
+    from tqdm import tqdm
+    for i in tqdm(range(10000)):
+        ...
+
+``76%|████████████████████████        | 7568/10000 [00:33<00:10, 229.00it/s]``
+
