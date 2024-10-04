@@ -13,6 +13,7 @@ categories: news
 
     from tqdm import tqdm
     for i in tqdm(range(10000)):
+        pass
 ```
 
 ``76%|████████████████████████        | 7568/10000 [00:33<00:10, 229.00it/s]``
