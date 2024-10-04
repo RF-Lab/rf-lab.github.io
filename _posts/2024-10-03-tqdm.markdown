@@ -7,7 +7,7 @@ categories: news
 
 # Progress bar для Python
 
-https://github.com/tqdm/tqdm
+[![KiCad](https://img.shields.io/badge/tqdm-github-blue.svg)](https://github.com/tqdm/tqdm).
 
 .. code:: python
 
