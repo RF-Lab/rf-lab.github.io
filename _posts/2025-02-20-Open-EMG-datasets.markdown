@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  EMG датасеты: emg2qwerty, emg2pose, 
+title:  EMG датасеты
 date:   2025-02-20 23:00
 categories: news
 ---
