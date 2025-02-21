@@ -12,7 +12,7 @@ categories: news
 
 ![-](https://arxiv.org/html/2412.02725v1/extracted/6040484/figures/fig2_fin4.png)
 
-## emg2
+## emg2qwerty
 
 [emg2qwerty: A Large Dataset with Baselines for Touch Typing using Surface Electromyography](https://arxiv.org/html/2410.20081v2)
 
