@@ -6,4 +6,4 @@ categories: news
 ---
 Два первых тексталита MYOCELL8-rev2 готовы!
 
-![-](https://arxiv.org/html/2412.02725v1/extracted/6040484/figures/fig2_fin4.png)
+![-](https://raw.githubusercontent.com/RF-Lab/emg_platform/tree/master/hw_platform/MYOCELL8/myocell8-rev2.png)
