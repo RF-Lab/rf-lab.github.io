@@ -20,6 +20,7 @@ categories: news
 |Журнал «Наука. Инновации. Технологии»|РИНЦ|Да|[【Ссылка】](https://scienceit.elpub.ru/jour)|
 |Журнал "СИСТЕМНЫЙ АНАЛИЗ И УПРАВЛЕНИЕ В БИОМЕДИЦИНСКИХ СИСТЕМАХ"|?|Да|[【Ссылка】](https://cchgeu.ru/science/nauchnye-izdaniya/sistemnyy-analiz-i-upravlenie-v-biomeditsinskikh-sistemakh/)|
 |Журнал «Информационные технологии»|РИНЦ, RSCI|Да|[【Ссылка】](http://novtex.ru/IT/)|
+|Журнал «Каспийский научный журнал»|РИНЦ|?|[【Ссылка】](https://www.kaspianjournal.ru/jour)|
 
 
 
