@@ -139,11 +139,13 @@ N–DIMENSIONAL SIGNAL SETS. [【ссылка на PDF】](http://citeseerx.ist.
  * `16-25` - Calyampudi Radhakrishna Rao , Helge Toutenburg Linear Models: Least Squares and Alternatives. 1995. [【ссылка на PDF】](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=66d9d32ca9ce45bf64413c3b0cd3530ef4cd78c4)
  
 
-# `[17]` Импульсная техника
- * `17-1` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
- * `17-2` - Jean-Pierre Deschamps, Gery J.A. Bioul, Gustavo D. Sutter. Synthesis of Arithmetic Circuits: FPGA, ASIC and Embedded Systems. - March 2006, Wiley. [【ссылка на описание】](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471687839.html)
- * `17-3` - Иосиф КАРШЕНБОЙМ. Краткий курс HDL. Часть 5. Написание кода, независимого от аппаратной платформы. - КОМПОНЕНТЫ и ТЕХНОЛОГИИ. 2008г., №9. [【ссылка на PDF】](http://iosifk.narod.ru/hdl_coding/hdl_coding_7_kit_9_08.pdf)
-
+# `[17]` Цифровая схемотехника
+ * `17-1` -  Neil Weste, David Harris CMOS VLSI Design: A Circuits and Systems Perspective 4th Edition. 
+ * `17-2` - Jean-Pierre Deschamps, Gery J.A. Bioul, Gustavo D. Sutter. Synthesis of Arithmetic Circuits: FPGA, ASIC and Embedded Systems. - March 2006, Wiley. [【ссылка на описание】]
+ * `17-3` - Браммер Ю.А. , Пащук И.Н. Импульсная техника. Учебник. Гриф МО РФ. - Инфра-М, Форум. 2014. 
+(http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0471687839.html)
+ * `17-4` - Иосиф КАРШЕНБОЙМ. Краткий курс HDL. Часть 5. Написание кода, независимого от аппаратной платформы. - КОМПОНЕНТЫ и ТЕХНОЛОГИИ. 2008г., №9. [【ссылка на PDF】](http://iosifk.narod.ru/hdl_coding/hdl_coding_7_kit_9_08.pdf)
+ 
 # `[18]` Поверхностная электромиография. Анализ сигналов в биотехнических системах.
  * `18-1` - Roberto Merletti (Editor), Dario Farina (Editor) Surface Electromyography: Physiology, Engineering, and Applications. [【ссылка на описание】](https://www.wiley.com/en-us/Surface+Electromyography%3A+Physiology%2C+Engineering%2C+and+Applications-p-9781118987025)
  * `18-2` - Roberto Merletti (Editor), Philip J. Parker (Editor) Electromyography: Physiology, Engineering, and Non-Invasive Applications. [【ссылка на описание】](https://www.wiley.com/en-us/Electromyography%3A+Physiology%2C+Engineering%2C+and+Non+Invasive+Applications+-p-9780471675808)
