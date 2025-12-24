@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Anton DOGADOV Separation of signals from two finger extensor muscles by high-density surface electromyography and biomechanical modeling of the finger extensor mechanism 
+date:   2025-12-16 22:00
+categories: news
+---
+
+Тезисы к дисертации. Интересные результаты получены при решении задачи разделения сигналов от разных пальцев (стр 122).
+[https://theses.hal.science/](https://theses.hal.science/tel-02409064v2/file/DOGADOV_2018_archivage.pdf)
+
+
