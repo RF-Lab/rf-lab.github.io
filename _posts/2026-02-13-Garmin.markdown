@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Garmin and Reality Labs* announce automotive OEM proof of concept with Garmin Unified Cabin and Neural Band
+date:   2026-02-13 22:00
+categories: news
+---
+
+Garmin Unified Cabin 2026 — это передовая концепция автомобильного салона, представленная на CES 2026, интегрирующая ИИ-ассистента, сверхширокополосный цифровой доступ и функции «умного дома». Платформа объединяет мультимедиа, климат-контроль и системы помощи водителю в единый интерфейс.
+[Garmin news](https://www.garmin.com/en-US/newsroom/press-release/automotive/garmin-and-meta-announce-automotive-oem-proof-of-concept-with-garmin-unified-cabin-and-meta-neural-band/)
+
+![-](https://www.garmin.com/en-US/newsroom/wp-content/uploads/2026/01/Garmin-Meta-image.png)
